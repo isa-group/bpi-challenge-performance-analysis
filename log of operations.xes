@@ -1,0 +1,3824 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log>
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="concept:name" value="A1 P2 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for all traces" />
+			<string key="Time" value="2021-07-07 17:27:36.471056" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Compare cycle time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:36.485076" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A2 P2 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Get cycle time from the previous question" />
+			<string key="Time" value="2021-07-07 17:27:36.494828" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Compare cycle time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:36.506689" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A7 P2 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate throughput" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:36.517632" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Comparative of throughput" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:36.529239" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Comparative of throughput" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:36.539028" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent scatterplot" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:36.552364" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A10 P2 BPI 2020" />
+		<event>
+			<string key="General activity" value="Represent boxplots of cycle time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:36.563496" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Compare cycle time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:36.570301" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A12 P2 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate throughput" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:36.580648" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Preprocess the traces of the logs" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:36.594027" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate throughput" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:36.600780" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A13 P2 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of only a subset of pairs of events for all traces" />
+			<string key="Time" value="2021-07-07 17:27:36.609869" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Compare cycle time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:36.621258" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify specific subprocesses" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:36.633757" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A18 P2 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate statistics" />
+			<string key="Specific activity" value="Calculate Statistics of cycle time" />
+			<string key="Time" value="2021-07-07 17:27:36.640266" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A25 P2 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Get cycle time from the previous question" />
+			<string key="Time" value="2021-07-07 17:27:36.649820" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Compare cycle time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:36.662704" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for all traces" />
+			<string key="Time" value="2021-07-07 17:27:36.670525" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A26 P2 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Get cycle time from the previous question" />
+			<string key="Time" value="2021-07-07 17:27:36.681528" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Compare cycle time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:36.694673" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A28 P2 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Get cycle time from the previous question" />
+			<string key="Time" value="2021-07-07 17:27:36.704948" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent histograms" />
+			<string key="Specific activity" value="Represent histograms of cycle time" />
+			<string key="Time" value="2021-07-07 17:27:36.722638" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Compare cycle time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:36.730485" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A35 P2 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of a fragment of the process for all traces" />
+			<string key="Time" value="2021-07-07 17:27:36.741389" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of traces" />
+			<string key="Time" value="2021-07-07 17:27:36.753884" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of activities" />
+			<string key="Time" value="2021-07-07 17:27:36.765734" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate average of activities per trace" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:36.777166" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate percentages" />
+			<string key="Specific activity" value="Calculate percentage of traces" />
+			<string key="Time" value="2021-07-07 17:27:36.788582" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate statistics" />
+			<string key="Specific activity" value="Calculate Statistics of attributes" />
+			<string key="Time" value="2021-07-07 17:27:36.797885" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Group traces" />
+			<string key="Specific activity" value="Group traces depending on attributes" />
+			<string key="Time" value="2021-07-07 17:27:36.806801" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent histograms" />
+			<string key="Specific activity" value="Represent histograms of attributes" />
+			<string key="Time" value="2021-07-07 17:27:36.824182" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent bar charts" />
+			<string key="Specific activity" value="Represent bar charts of traces" />
+			<string key="Time" value="2021-07-07 17:27:36.834704" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent histograms" />
+			<string key="Specific activity" value="Represent histograms of cycle time" />
+			<string key="Time" value="2021-07-07 17:27:36.846843" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:36.855106" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Compare cycle time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:36.865761" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A37 P2 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Get cycle time from the previous question" />
+			<string key="Time" value="2021-07-07 17:27:36.875850" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Compare cycle time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:36.887204" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A2 P4 BPI 2020" />
+		<event>
+			<string key="General activity" value="Filter activities" />
+			<string key="Specific activity" value="Filter activities by sub-processes" />
+			<string key="Time" value="2021-07-07 17:27:36.899339" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Group activities" />
+			<string key="Specific activity" value="Group activities by sub-processes" />
+			<string key="Time" value="2021-07-07 17:27:36.906160" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time for all pairs of events for each subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:36.918107" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A7 P4 BPI 2020" />
+		<event>
+			<string key="General activity" value="Group activities" />
+			<string key="Specific activity" value="Group activities by rol" />
+			<string key="Time" value="2021-07-07 17:27:36.928255" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate throughput" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:36.941811" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Group activities" />
+			<string key="Specific activity" value="Group activities by time" />
+			<string key="Time" value="2021-07-07 17:27:36.950781" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of activities" />
+			<string key="Time" value="2021-07-07 17:27:36.963716" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent scatterplot" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:36.978660" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A10 P4 BPI 2020" />
+		<event>
+			<string key="General activity" value="Represent process map" />
+			<string key="Specific activity" value="Represent process map with cycle time" />
+			<string key="Time" value="2021-07-07 17:27:36.990409" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time for all pairs of events for all traces" />
+			<string key="Time" value="2021-07-07 17:27:36.995267" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A12 P4 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time for all pairs of events for all traces" />
+			<string key="Time" value="2021-07-07 17:27:37.007064" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A13 P4 BPI 2020" />
+		<event>
+			<string key="General activity" value="Represent process map" />
+			<string key="Specific activity" value="Represent process map with cycle time" />
+			<string key="Time" value="2021-07-07 17:27:37.024833" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time for all pairs of events for all traces" />
+			<string key="Time" value="2021-07-07 17:27:37.030281" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Group activities" />
+			<string key="Specific activity" value="Group activities by sub-processes" />
+			<string key="Time" value="2021-07-07 17:27:37.039367" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of a fragment of the process for each subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:37.051765" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A18 P4 BPI 2020" />
+		<event>
+			<string key="General activity" value="Represent process map" />
+			<string key="Specific activity" value="Represent process map with frequency" />
+			<string key="Time" value="2021-07-07 17:27:37.072469" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of only a subset of pairs of events for a subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:37.077580" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A25 P4 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time for all pairs of events for all traces" />
+			<string key="Time" value="2021-07-07 17:27:37.097903" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent bar charts" />
+			<string key="Specific activity" value="Represent bar charts of cycle time" />
+			<string key="Time" value="2021-07-07 17:27:37.123696" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:37.138092" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A26 P4 BPI 2020" />
+		<event>
+			<string key="General activity" value="Filter variants depending on frequency" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:37.159733" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent histograms" />
+			<string key="Specific activity" value="Represent histograms of cycle time" />
+			<string key="Time" value="2021-07-07 17:27:37.180120" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A28 P4 BPI 2020" />
+		<event>
+			<string key="General activity" value="Preprocess the traces of the logs" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:37.198649" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for a subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:37.209709" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent heatmaps" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:37.240793" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:37.254905" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Preprocess the traces of the logs" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:37.274802" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent heatmaps" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:37.293909" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for a subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:37.304067" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent heatmaps" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:37.335892" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Preprocess the traces of the logs" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:37.362116" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent heatmaps" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:37.385813" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A35 P4 BPI 2020" />
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:37.405160" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for a subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:37.424414" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of a fragment of the process for a subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:37.452461" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of traces" />
+			<string key="Time" value="2021-07-07 17:27:37.478912" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of activities" />
+			<string key="Time" value="2021-07-07 17:27:37.494863" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate average of activities per trace" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:37.523838" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Group traces" />
+			<string key="Specific activity" value="Group traces by roles" />
+			<string key="Time" value="2021-07-07 17:27:37.535919" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent histograms" />
+			<string key="Specific activity" value="Represent histograms of cycle time" />
+			<string key="Time" value="2021-07-07 17:27:37.563726" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A37 P4 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time for all pairs of events for all traces" />
+			<string key="Time" value="2021-07-07 17:27:37.580910" />
+			<string key="Question" value="P4" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A1 P5 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Get cycle time from the previous question" />
+			<string key="Time" value="2021-07-07 17:27:37.604877" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:37.630695" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A2 P5 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time for all pairs of events for all traces" />
+			<string key="Time" value="2021-07-07 17:27:37.639010" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:37.654082" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent process map" />
+			<string key="Specific activity" value="Represent process map with cycle time" />
+			<string key="Time" value="2021-07-07 17:27:37.670712" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A7 P5 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time for all pairs of events for all traces" />
+			<string key="Time" value="2021-07-07 17:27:37.677327" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter activities" />
+			<string key="Specific activity" value="Filter activities by cycle time" />
+			<string key="Time" value="2021-07-07 17:27:37.691794" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:37.704607" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A10 P5 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Get cycle time from the previous question" />
+			<string key="Time" value="2021-07-07 17:27:37.713635" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:37.727650" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of activities" />
+			<string key="Time" value="2021-07-07 17:27:37.739634" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A12 P5 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Get cycle time from the previous question" />
+			<string key="Time" value="2021-07-07 17:27:37.750889" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent bar charts" />
+			<string key="Specific activity" value="Represent bar charts of cycle time" />
+			<string key="Time" value="2021-07-07 17:27:37.768598" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:37.780690" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A13 P5 BPI 2020" />
+		<event>
+			<string key="General activity" value="Represent process map" />
+			<string key="Specific activity" value="Represent process map with cycle time" />
+			<string key="Time" value="2021-07-07 17:27:37.796806" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time for all pairs of events for all traces" />
+			<string key="Time" value="2021-07-07 17:27:37.802678" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:37.819953" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A18 P5 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Get cycle time from the previous question" />
+			<string key="Time" value="2021-07-07 17:27:37.831702" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify sub-processes as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:37.848750" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A25 P5 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time for all pairs of events for all traces" />
+			<string key="Time" value="2021-07-07 17:27:37.857652" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent bar charts" />
+			<string key="Specific activity" value="Represent bar charts of cycle time" />
+			<string key="Time" value="2021-07-07 17:27:37.879781" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:37.897853" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A26 P5 BPI 2020" />
+		<event>
+			<string key="General activity" value="Represent process map" />
+			<string key="Specific activity" value="Represent process map with cycle time" />
+			<string key="Time" value="2021-07-07 17:27:37.923991" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:37.935958" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A28 P5 BPI 2020" />
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify sub-processes with incorrect orders with respect to the happy path as bottlenecks" />
+			<string key="Time" value="2021-07-07 17:27:37.954712" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of activities" />
+			<string key="Time" value="2021-07-07 17:27:37.974948" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for a subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:37.985148" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A35 P5 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Get cycle time from the previous question" />
+			<string key="Time" value="2021-07-07 17:27:38.010178" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:38.033805" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A37 P5 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Get cycle time from the previous question" />
+			<string key="Time" value="2021-07-07 17:27:38.043886" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Compare cycle time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:38.065964" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify sub-processes with incorrect orders with respect to the happy path as bottlenecks" />
+			<string key="Time" value="2021-07-07 17:27:38.086025" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate frequency" />
+			<string key="Specific activity" value="Calculate frequency of attributes" />
+			<string key="Time" value="2021-07-07 17:27:38.105983" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate percentages" />
+			<string key="Specific activity" value="Calculate percentage of traces" />
+			<string key="Time" value="2021-07-07 17:27:38.126035" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of activities" />
+			<string key="Time" value="2021-07-07 17:27:38.145017" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A1 P6 BPI 2020" />
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces depending on the order of activities" />
+			<string key="Time" value="2021-07-07 17:27:38.171346" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of a fragment of the process for a subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:38.187819" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A2 P6 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time for all pairs of events for all traces" />
+			<string key="Time" value="2021-07-07 17:27:38.208885" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:38.224644" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent process map" />
+			<string key="Specific activity" value="Represent process map with cycle time" />
+			<string key="Time" value="2021-07-07 17:27:38.238885" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A7 P6 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time for all pairs of events for all traces" />
+			<string key="Time" value="2021-07-07 17:27:38.245720" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter activities" />
+			<string key="Specific activity" value="Filter activities by cycle time" />
+			<string key="Time" value="2021-07-07 17:27:38.261200" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:38.274860" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A10 P6 BPI 2020" />
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:38.294773" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of activities" />
+			<string key="Time" value="2021-07-07 17:27:38.311652" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time for all pairs of events for each subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:38.324028" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:38.359637" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of activities" />
+			<string key="Time" value="2021-07-07 17:27:38.376602" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time for all pairs of events for each subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:38.395849" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A12 P6 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time for all pairs of events for all traces" />
+			<string key="Time" value="2021-07-07 17:27:38.413181" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:38.442184" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A13 P6 BPI 2020" />
+		<event>
+			<string key="General activity" value="Preprocess the traces of the logs" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:38.463679" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent process map" />
+			<string key="Specific activity" value="Represent process map with cycle time" />
+			<string key="Time" value="2021-07-07 17:27:38.484959" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of a fragment of the process for each subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:38.494114" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate frequency" />
+			<string key="Specific activity" value="Calculate frequency of variants" />
+			<string key="Time" value="2021-07-07 17:27:38.511292" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate intervals of time of the traces" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:38.527281" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:38.556033" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A25 P6 BPI 2020" />
+		<event>
+			<string key="General activity" value="Represent histograms" />
+			<string key="Specific activity" value="Represent histograms of cycle time" />
+			<string key="Time" value="2021-07-07 17:27:38.573731" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time for all pairs of events for all traces" />
+			<string key="Time" value="2021-07-07 17:27:38.582874" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:38.613596" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A26 P6 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Get cycle time from the previous question" />
+			<string key="Time" value="2021-07-07 17:27:38.626136" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent process map" />
+			<string key="Specific activity" value="Get process map from the previous question" />
+			<string key="Time" value="2021-07-07 17:27:38.671779" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:38.696405" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A28 P6 BPI 2020" />
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify sub-processes with incorrect orders with respect to the happy path as bottlenecks" />
+			<string key="Time" value="2021-07-07 17:27:38.737438" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A35 P6 BPI 2020" />
+		<event>
+			<string key="General activity" value="Represent process map" />
+			<string key="Specific activity" value="Represent process map with cycle time" />
+			<string key="Time" value="2021-07-07 17:27:38.776395" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify sub-processes with incorrect orders with respect to the happy path as bottlenecks" />
+			<string key="Time" value="2021-07-07 17:27:38.807540" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A37 P6 BPI 2020" />
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:38.839138" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Preprocess the traces of the logs" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:38.867841" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of variants" />
+			<string key="Time" value="2021-07-07 17:27:38.875962" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of different organizational units" />
+			<string key="Time" value="2021-07-07 17:27:38.902869" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of a fragment of the process for a subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:38.916881" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Compare cycle time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:38.942840" />
+			<string key="Question" value="P6" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A2 P5 BPI 2015" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for all traces" />
+			<string key="Time" value="2021-07-07 17:27:38.955944" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter events" />
+			<string key="Specific activity" value="Filter events by cycle time" />
+			<string key="Time" value="2021-07-07 17:27:38.993847" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent histograms" />
+			<string key="Specific activity" value="Represent histograms of cycle time" />
+			<string key="Time" value="2021-07-07 17:27:39.029255" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:39.053515" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A3 P5 BPI 2015" />
+		<event>
+			<string key="General activity" value="Group activities" />
+			<string key="Specific activity" value="Group activities by sub-processes" />
+			<string key="Time" value="2021-07-07 17:27:39.076888" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time for all pairs of events for each subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:39.109184" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent process map" />
+			<string key="Specific activity" value="Represent process map with cycle time" />
+			<string key="Time" value="2021-07-07 17:27:39.137456" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter activities" />
+			<string key="Specific activity" value="Filter activities by frequency" />
+			<string key="Time" value="2021-07-07 17:27:39.153269" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent bar charts" />
+			<string key="Specific activity" value="Represent bar charts of traces" />
+			<string key="Time" value="2021-07-07 17:27:39.175945" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:39.193683" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent process map" />
+			<string key="Specific activity" value="Represent process map with cycle time" />
+			<string key="Time" value="2021-07-07 17:27:39.217857" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A4 P5 BPI 2015" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for each subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:39.227751" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify organizational units as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:39.250738" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify impact of bottlenecks by organizational unit" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:39.268355" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Compare cycle time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:39.285861" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A7 P5 BPI 2015" />
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by attributes" />
+			<string key="Time" value="2021-07-07 17:27:39.306147" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for a subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:39.318868" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent histograms" />
+			<string key="Specific activity" value="Represent histograms of cycle time" />
+			<string key="Time" value="2021-07-07 17:27:39.351043" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Compare cycle time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:39.365210" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:39.385944" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent process map" />
+			<string key="Specific activity" value="Represent process map with cycle time" />
+			<string key="Time" value="2021-07-07 17:27:39.406077" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A8 P5 BPI 2015" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for each subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:39.424040" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Compare cycle time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:39.446341" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Group traces" />
+			<string key="Specific activity" value="Group traces depending on attributes" />
+			<string key="Time" value="2021-07-07 17:27:39.463777" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for each subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:39.488963" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Group traces" />
+			<string key="Specific activity" value="Grouping traces by cycle time" />
+			<string key="Time" value="2021-07-07 17:27:39.513029" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Group traces" />
+			<string key="Specific activity" value="Grouping by organizational units" />
+			<string key="Time" value="2021-07-07 17:27:39.535912" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Compare cycle time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:39.565300" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Analyze cycle time depending on the events" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:39.575923" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of traces" />
+			<string key="Time" value="2021-07-07 17:27:39.600480" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Compare cycle time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:39.620346" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter activities" />
+			<string key="Specific activity" value="Filter activities by frequency" />
+			<string key="Time" value="2021-07-07 17:27:39.636809" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:39.657392" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate frequency" />
+			<string key="Specific activity" value="Calculate frequency of activities" />
+			<string key="Time" value="2021-07-07 17:27:39.673785" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of only a subset of pairs of events for each subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:39.693676" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify organizational units as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:39.718055" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify resources" />
+			<string key="Specific activity" value="Identify resource associated with bottlenecks" />
+			<string key="Time" value="2021-07-07 17:27:39.738850" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A9 P5 BPI 2015" />
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:39.755495" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time for all pairs of events for a subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:39.770247" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Group traces" />
+			<string key="Specific activity" value="Grouping traces by cycle time" />
+			<string key="Time" value="2021-07-07 17:27:39.786141" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Aplicar árboles de decisión" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:39.805989" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Group organizational units" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:39.826061" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of traces" />
+			<string key="Time" value="2021-07-07 17:27:39.845000" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for each subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:39.865916" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Compare cycle time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:39.890936" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify organizational units as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:39.921477" />
+			<string key="Question" value="P5" />
+			<int key="Year" value="2015" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A1 P1 BPI 2020" />
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:39.944011" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for a subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:39.967810" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate throughput" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:39.993754" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by attributes" />
+			<string key="Time" value="2021-07-07 17:27:40.020849" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for a subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:40.034883" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A2 P1 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for all traces" />
+			<string key="Time" value="2021-07-07 17:27:40.056271" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A7 P1 BPI 2020" />
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:40.083493" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate percentages" />
+			<string key="Specific activity" value="Calculate percentage of traces" />
+			<string key="Time" value="2021-07-07 17:27:40.100833" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of traces" />
+			<string key="Time" value="2021-07-07 17:27:40.117085" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate throughput" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:40.135165" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate statistics" />
+			<string key="Specific activity" value="Calculate Statistics of throughput" />
+			<string key="Time" value="2021-07-07 17:27:40.159283" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate statistics" />
+			<string key="Specific activity" value="Calculate Statistics of throughput" />
+			<string key="Time" value="2021-07-07 17:27:40.175908" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate throughput" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:40.198834" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate statistics" />
+			<string key="Specific activity" value="Calculate Statistics of throughput" />
+			<string key="Time" value="2021-07-07 17:27:40.215878" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A10 P1 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of a fragment of the process for all traces" />
+			<string key="Time" value="2021-07-07 17:27:40.234840" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent histograms" />
+			<string key="Specific activity" value="Represent histograms of cycle time" />
+			<string key="Time" value="2021-07-07 17:27:40.258670" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent boxplots of cycle time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:40.276528" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent density of cycle time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:40.298855" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A12 P1 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate processing time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:40.313754" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:40.333850" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent process map" />
+			<string key="Specific activity" value="Represent process map with cycle time" />
+			<string key="Time" value="2021-07-07 17:27:40.353696" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A13 P1 BPI 2020" />
+		<event>
+			<string key="General activity" value="Represent bar charts" />
+			<string key="Specific activity" value="Represent bar charts of traces" />
+			<string key="Time" value="2021-07-07 17:27:40.377131" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate throughput" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:40.391290" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent bar charts" />
+			<string key="Specific activity" value="Represent bar charts of traces" />
+			<string key="Time" value="2021-07-07 17:27:40.416748" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Group traces" />
+			<string key="Specific activity" value="Group traces by year" />
+			<string key="Time" value="2021-07-07 17:27:40.425053" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:40.445400" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for each subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:40.465974" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of traces" />
+			<string key="Time" value="2021-07-07 17:27:40.485940" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate percentages" />
+			<string key="Specific activity" value="Calculate percentage of traces" />
+			<string key="Time" value="2021-07-07 17:27:40.505965" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A18 P1 BPI 2020" />
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:40.525964" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of traces" />
+			<string key="Time" value="2021-07-07 17:27:40.545947" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of a fragment of the process for a subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:40.563590" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent boxplots of cycle time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:40.586689" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A25 P1 BPI 2020" />
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by attributes" />
+			<string key="Time" value="2021-07-07 17:27:40.607497" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for all traces" />
+			<string key="Time" value="2021-07-07 17:27:40.618066" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent histograms" />
+			<string key="Specific activity" value="Represent histograms of cycle time" />
+			<string key="Time" value="2021-07-07 17:27:40.648926" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Compare cycle time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:40.658001" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of a fragment of the process for all traces" />
+			<string key="Time" value="2021-07-07 17:27:40.678830" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent histograms" />
+			<string key="Specific activity" value="Represent histograms of cycle time" />
+			<string key="Time" value="2021-07-07 17:27:40.703812" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A26 P1 BPI 2020" />
+		<event>
+			<string key="General activity" value="Represent process map" />
+			<string key="Specific activity" value="Represent process map with cycle time" />
+			<string key="Time" value="2021-07-07 17:27:40.723921" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:40.738347" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for a subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:40.753676" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A28 P1 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for all traces" />
+			<string key="Time" value="2021-07-07 17:27:40.773877" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent bar charts" />
+			<string key="Specific activity" value="Represent bar charts of cycle time" />
+			<string key="Time" value="2021-07-07 17:27:40.802042" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Compare cycle time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:40.816025" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A35 P1 BPI 2020" />
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:40.834992" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate percentages" />
+			<string key="Specific activity" value="Calculate percentage of traces" />
+			<string key="Time" value="2021-07-07 17:27:40.853861" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of a fragment of the process for all traces" />
+			<string key="Time" value="2021-07-07 17:27:40.868899" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent histograms" />
+			<string key="Specific activity" value="Represent histograms of cycle time" />
+			<string key="Time" value="2021-07-07 17:27:40.893836" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Compare cycle time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:40.911705" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Group traces" />
+			<string key="Specific activity" value="Group traces by year" />
+			<string key="Time" value="2021-07-07 17:27:40.925931" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate percentages" />
+			<string key="Specific activity" value="Calculate percentage of traces" />
+			<string key="Time" value="2021-07-07 17:27:40.946563" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A37 P1 BPI 2020" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of a fragment of the process for all traces" />
+			<string key="Time" value="2021-07-07 17:27:40.968842" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of a fragment of the process for a subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:40.987862" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of traces" />
+			<string key="Time" value="2021-07-07 17:27:41.007718" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of events" />
+			<string key="Time" value="2021-07-07 17:27:41.026040" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of variants" />
+			<string key="Time" value="2021-07-07 17:27:41.045575" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2020" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A1 P1 BPI 2017" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for all traces" />
+			<string key="Time" value="2021-07-07 17:27:41.063947" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of a fragment of the process for all traces" />
+			<string key="Time" value="2021-07-07 17:27:41.082970" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter events" />
+			<string key="Specific activity" value="Filter events by attributes" />
+			<string key="Time" value="2021-07-07 17:27:41.106233" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of only a subset of pairs of events for all traces" />
+			<string key="Time" value="2021-07-07 17:27:41.115222" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate frequency" />
+			<string key="Specific activity" value="Calculate frequency of events" />
+			<string key="Time" value="2021-07-07 17:27:41.133748" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter events" />
+			<string key="Specific activity" value="Filter events by activities" />
+			<string key="Time" value="2021-07-07 17:27:41.155766" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of only a subset of pairs of events for all traces" />
+			<string key="Time" value="2021-07-07 17:27:41.165876" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate frequency" />
+			<string key="Specific activity" value="Calculate frequency of events" />
+			<string key="Time" value="2021-07-07 17:27:41.178670" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent histograms" />
+			<string key="Specific activity" value="Represent histograms of cycle time" />
+			<string key="Time" value="2021-07-07 17:27:41.194865" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify sub-processes as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:41.204421" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate percentages" />
+			<string key="Specific activity" value="Calculate percentage of traces" />
+			<string key="Time" value="2021-07-07 17:27:41.218508" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of a fragment of the process for a subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:41.234583" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A2 P1 BPI 2017" />
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:41.258998" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate waiting time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:41.276995" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:41.303283" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate waiting time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:41.321770" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A5 P1 BPI 2017" />
+		<event>
+			<string key="General activity" value="Filter events" />
+			<string key="Specific activity" value="Filter events by activities" />
+			<string key="Time" value="2021-07-07 17:27:41.343746" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of a fragment of the process for a subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:41.358921" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate processing time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:41.382401" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate waiting time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:41.403316" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent process map" />
+			<string key="Specific activity" value="Represent process map with cycle time" />
+			<string key="Time" value="2021-07-07 17:27:41.425936" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter events" />
+			<string key="Specific activity" value="Filter events by activities" />
+			<string key="Time" value="2021-07-07 17:27:41.435526" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of a fragment of the process for a subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:41.455846" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate processing time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:41.473641" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate waiting time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:41.494711" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent process map" />
+			<string key="Specific activity" value="Represent process map with cycle time" />
+			<string key="Time" value="2021-07-07 17:27:41.517523" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A6 P1 BPI 2017" />
+		<event>
+			<string key="General activity" value="Discover process maps" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:41.535881" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent process map" />
+			<string key="Specific activity" value="Represent process map with cycle time" />
+			<string key="Time" value="2021-07-07 17:27:41.553680" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate waiting time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:41.570867" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate frequency" />
+			<string key="Specific activity" value="Calculate frequency of events" />
+			<string key="Time" value="2021-07-07 17:27:41.586856" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:41.614538" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate frequency" />
+			<string key="Specific activity" value="Calculate frequency of activities" />
+			<string key="Time" value="2021-07-07 17:27:41.626025" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of traces" />
+			<string key="Time" value="2021-07-07 17:27:41.642895" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of only a subset of pairs of events for all traces" />
+			<string key="Time" value="2021-07-07 17:27:41.658882" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate waiting time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:41.682866" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate processing time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:41.706005" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent histograms" />
+			<string key="Specific activity" value="Represent histograms of cycle time" />
+			<string key="Time" value="2021-07-07 17:27:41.723683" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Group traces" />
+			<string key="Specific activity" value="Grouping traces by cycle time" />
+			<string key="Time" value="2021-07-07 17:27:41.732929" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of traces" />
+			<string key="Time" value="2021-07-07 17:27:41.756908" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate percentages" />
+			<string key="Specific activity" value="Calculate percentage of traces" />
+			<string key="Time" value="2021-07-07 17:27:41.777595" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:41.802206" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A7 P1 BPI 2017" />
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of activities" />
+			<string key="Time" value="2021-07-07 17:27:41.819792" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate waiting time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:41.839133" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:41.860070" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify roles" />
+			<string key="Specific activity" value="Identify rol associated with bottlenecks" />
+			<string key="Time" value="2021-07-07 17:27:41.880869" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Group traces" />
+			<string key="Specific activity" value="Group traces by waiting" />
+			<string key="Time" value="2021-07-07 17:27:41.890947" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate percentages" />
+			<string key="Specific activity" value="Calculate percentage of events" />
+			<string key="Time" value="2021-07-07 17:27:41.914156" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate waiting time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:41.935900" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify resources" />
+			<string key="Specific activity" value="Identify resources by activities" />
+			<string key="Time" value="2021-07-07 17:27:41.953869" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate frequency" />
+			<string key="Specific activity" value="Calculate frequency of resources" />
+			<string key="Time" value="2021-07-07 17:27:41.972582" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate waiting time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:41.993916" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A8 P1 BPI 2017" />
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:42.014847" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate waiting time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:42.026023" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent bar charts" />
+			<string key="Specific activity" value="Represent bar charts of waiting time" />
+			<string key="Time" value="2021-07-07 17:27:42.054534" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate waiting time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:42.067960" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent bar charts" />
+			<string key="Specific activity" value="Represent bar charts of waiting time" />
+			<string key="Time" value="2021-07-07 17:27:42.087742" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate waiting time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:42.106245" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:42.127653" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A9 P1 BPI 2017" />
+		<event>
+			<string key="General activity" value="Calculate processing time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:42.143599" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate waiting time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:42.163630" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Compare waiting time with processing time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:42.183575" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate waiting time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:42.199803" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Group activities" />
+			<string key="Specific activity" value="Group activities by rol" />
+			<string key="Time" value="2021-07-07 17:27:42.213896" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate waiting time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:42.239145" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:42.259356" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent histograms" />
+			<string key="Specific activity" value="Represent histograms of waiting time" />
+			<string key="Time" value="2021-07-07 17:27:42.282827" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify roles" />
+			<string key="Specific activity" value="Identify rol associated with bottlenecks" />
+			<string key="Time" value="2021-07-07 17:27:42.300453" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A10 P1 BPI 2017" />
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by attributes" />
+			<string key="Time" value="2021-07-07 17:27:42.314860" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent process map" />
+			<string key="Specific activity" value="Represent process map with cycle time" />
+			<string key="Time" value="2021-07-07 17:27:42.340878" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time for all pairs of events for a subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:42.344780" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate waiting time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:42.372741" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:42.393856" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify roles" />
+			<string key="Specific activity" value="Identify rol associated with bottlenecks" />
+			<string key="Time" value="2021-07-07 17:27:42.413615" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A11 P1 BPI 2017" />
+		<event>
+			<string key="General activity" value="Group traces" />
+			<string key="Specific activity" value="Group traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:42.424609" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of events" />
+			<string key="Time" value="2021-07-07 17:27:42.446064" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of traces" />
+			<string key="Time" value="2021-07-07 17:27:42.466521" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of activities" />
+			<string key="Time" value="2021-07-07 17:27:42.485729" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for each subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:42.505149" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent process map" />
+			<string key="Specific activity" value="Represent process map with cycle time" />
+			<string key="Time" value="2021-07-07 17:27:42.536163" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:42.555626" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate waiting time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:42.577016" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by cycle time" />
+			<string key="Time" value="2021-07-07 17:27:42.605671" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent histograms" />
+			<string key="Specific activity" value="Represent histograms of cycle time" />
+			<string key="Time" value="2021-07-07 17:27:42.634554" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate waiting time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:42.651153" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A13 P1 BPI 2017" />
+		<event>
+			<string key="General activity" value="Represent process map" />
+			<string key="Specific activity" value="Represent process map with frequency" />
+			<string key="Time" value="2021-07-07 17:27:42.683783" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent histograms" />
+			<string key="Specific activity" value="Represent histograms of waiting time" />
+			<string key="Time" value="2021-07-07 17:27:42.703705" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate waiting time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:42.718526" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify sub-processes as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:42.737156" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:42.758935" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of traces" />
+			<string key="Time" value="2021-07-07 17:27:42.775442" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent process map" />
+			<string key="Specific activity" value="Represent process map with frequency" />
+			<string key="Time" value="2021-07-07 17:27:42.803673" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A14 P1 BPI 2017" />
+		<event>
+			<string key="General activity" value="Preprocess the traces of the logs" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:42.820779" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Group traces" />
+			<string key="Specific activity" value="Group traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:42.832319" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate percentages" />
+			<string key="Specific activity" value="Calculate percentage of traces" />
+			<string key="Time" value="2021-07-07 17:27:42.856854" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for all traces" />
+			<string key="Time" value="2021-07-07 17:27:42.873202" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time for all pairs of events for each subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:42.892051" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify sub-processes as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:42.919035" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Group traces" />
+			<string key="Specific activity" value="Group traces depending on attributes" />
+			<string key="Time" value="2021-07-07 17:27:42.931556" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate percentages" />
+			<string key="Specific activity" value="Calculate percentage of traces" />
+			<string key="Time" value="2021-07-07 17:27:42.956363" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time for all pairs of events for each subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:42.973735" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A15 P1 BPI 2017" />
+		<event>
+			<string key="General activity" value="Represent process map" />
+			<string key="Specific activity" value="Represent process map with cycle time" />
+			<string key="Time" value="2021-07-07 17:27:43.008275" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:43.024906" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify roles" />
+			<string key="Specific activity" value="Identify rol associated with bottlenecks" />
+			<string key="Time" value="2021-07-07 17:27:43.048763" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent histograms" />
+			<string key="Specific activity" value="Represent histograms of cycle time" />
+			<string key="Time" value="2021-07-07 17:27:43.071063" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for all traces" />
+			<string key="Time" value="2021-07-07 17:27:43.081704" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A16 P1 BPI 2017" />
+		<event>
+			<string key="General activity" value="Represent process map" />
+			<string key="Specific activity" value="Represent process map with cycle time" />
+			<string key="Time" value="2021-07-07 17:27:43.104793" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate waiting time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:43.124432" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Group traces" />
+			<string key="Specific activity" value="Group traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:43.142851" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of traces" />
+			<string key="Time" value="2021-07-07 17:27:43.163322" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate waiting time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:43.184075" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Group traces" />
+			<string key="Specific activity" value="Group traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:43.200674" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of traces" />
+			<string key="Time" value="2021-07-07 17:27:43.228842" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of a fragment of the process for each subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:43.248678" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A17 P1 BPI 2017" />
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for all traces" />
+			<string key="Time" value="2021-07-07 17:27:43.268889" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of a fragment of the process for each subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:43.284380" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by attributes" />
+			<string key="Time" value="2021-07-07 17:27:43.313781" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for a subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:43.325045" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent process map" />
+			<string key="Specific activity" value="Represent process map with cycle time" />
+			<string key="Time" value="2021-07-07 17:27:43.353646" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify sub-processes as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:43.373696" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify roles" />
+			<string key="Specific activity" value="Identify rol associated with bottlenecks" />
+			<string key="Time" value="2021-07-07 17:27:43.388604" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate processing time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:43.403641" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate waiting time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:43.425970" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Compare waiting time with processing time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:43.446325" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A21 P1 BPI 2017" />
+		<event>
+			<string key="General activity" value="Calculate waiting time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:43.465417" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate processing time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:43.484974" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for all traces" />
+			<string key="Time" value="2021-07-07 17:27:43.498305" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:43.522951" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A22 P1 BPI 2017" />
+		<event>
+			<string key="General activity" value="Calculate waiting time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:43.538325" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Assign resource to each activity" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:43.555919" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate frequency" />
+			<string key="Specific activity" value="Calculate frequency of activities" />
+			<string key="Time" value="2021-07-07 17:27:43.579045" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate frequency" />
+			<string key="Specific activity" value="Calculate frequency of activities" />
+			<string key="Time" value="2021-07-07 17:27:43.594086" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:43.620523" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A23 P1 BPI 2017" />
+		<event>
+			<string key="General activity" value="Group activities" />
+			<string key="Specific activity" value="Group activities using clustering" />
+			<string key="Time" value="2021-07-07 17:27:43.631960" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent heatmaps" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:43.662703" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent process map" />
+			<string key="Specific activity" value="Represent process map with frequency" />
+			<string key="Time" value="2021-07-07 17:27:43.680685" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of only a subset of pairs of events for a subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:43.685063" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify activities as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:43.713963" />
+			<string key="Question" value="P1" />
+			<int key="Year" value="2017" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A1 P2 BPI 2019" />
+		<event>
+			<string key="General activity" value="Group events by time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:43.725069" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of only a subset of pairs of events for each subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:43.744733" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent bar charts" />
+			<string key="Specific activity" value="Represent bar charts of cycle time" />
+			<string key="Time" value="2021-07-07 17:27:43.771874" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Compare cycle time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:43.784007" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:43.805701" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of traces" />
+			<string key="Time" value="2021-07-07 17:27:43.816015" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate throughput" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:43.835993" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate frequency" />
+			<string key="Specific activity" value="Calculate frequency of attributes" />
+			<string key="Time" value="2021-07-07 17:27:43.857308" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent circular charts of attributes of the traces" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:43.884096" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A3 P2 BPI 2019" />
+		<event>
+			<string key="General activity" value="Group traces" />
+			<string key="Specific activity" value="Group traces depending on attributes" />
+			<string key="Time" value="2021-07-07 17:27:43.893644" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time for all pairs of events for each subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:43.907367" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate percentages" />
+			<string key="Specific activity" value="Calculate percentage of events" />
+			<string key="Time" value="2021-07-07 17:27:43.928291" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent circular charts of attributes of the traces" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:43.956940" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify sub-processes as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:43.970108" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Aplicar técnicas de machine learning" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:43.983993" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent histograms" />
+			<string key="Specific activity" value="Represent histograms of cycle time" />
+			<string key="Time" value="2021-07-07 17:27:44.014032" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A4 P2 BPI 2019" />
+		<event>
+			<string key="General activity" value="Preprocess the events of the logs" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:44.031676" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of only a subset of pairs of events for a subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:44.041869" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:44.064000" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces depending on the order of activities" />
+			<string key="Time" value="2021-07-07 17:27:44.084954" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by attributes" />
+			<string key="Time" value="2021-07-07 17:27:44.102442" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Group traces" />
+			<string key="Specific activity" value="Group traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:44.115332" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of only a subset of pairs of events for each subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:44.134777" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by attributes" />
+			<string key="Time" value="2021-07-07 17:27:44.154841" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of only a subset of pairs of events for a subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:44.173132" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by attributes" />
+			<string key="Time" value="2021-07-07 17:27:44.194782" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent bar charts" />
+			<string key="Specific activity" value="Represent bar charts of cycle time" />
+			<string key="Time" value="2021-07-07 17:27:44.214631" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A5 P2 BPI 2019" />
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:44.233749" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate percentages" />
+			<string key="Specific activity" value="Calculate percentage of traces" />
+			<string key="Time" value="2021-07-07 17:27:44.244799" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for a subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:44.265271" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent histograms" />
+			<string key="Specific activity" value="Represent histograms of cycle time" />
+			<string key="Time" value="2021-07-07 17:27:44.291965" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Discover happy path of the process" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:44.304284" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of a fragment of the process for a subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:44.323072" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate percentages" />
+			<string key="Specific activity" value="Calculate percentage of traces" />
+			<string key="Time" value="2021-07-07 17:27:44.344383" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify bottlenecks" />
+			<string key="Specific activity" value="Identify sub-processes as bottlenecks applying temporal performance criteria" />
+			<string key="Time" value="2021-07-07 17:27:44.365016" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent bar charts" />
+			<string key="Specific activity" value="Represent bar charts of attributes" />
+			<string key="Time" value="2021-07-07 17:27:44.385564" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify resources" />
+			<string key="Specific activity" value="Identify resource associated with bottlenecks" />
+			<string key="Time" value="2021-07-07 17:27:44.398747" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent bar charts" />
+			<string key="Specific activity" value="Represent bar charts of attributes" />
+			<string key="Time" value="2021-07-07 17:27:44.418160" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify values of attributes" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:44.438731" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for each subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:44.449960" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent bar charts" />
+			<string key="Specific activity" value="Represent bar charts of cycle time" />
+			<string key="Time" value="2021-07-07 17:27:44.477713" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify resources" />
+			<string key="Specific activity" value="Identify resources by cycle time" />
+			<string key="Time" value="2021-07-07 17:27:44.494147" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent bar charts" />
+			<string key="Specific activity" value="Represent bar charts of attributes" />
+			<string key="Time" value="2021-07-07 17:27:44.513626" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify resources" />
+			<string key="Specific activity" value="Identify resources by activities" />
+			<string key="Time" value="2021-07-07 17:27:44.525969" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent bar charts" />
+			<string key="Specific activity" value="Represent bar charts of attributes" />
+			<string key="Time" value="2021-07-07 17:27:44.544788" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify values of attributes" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:44.569008" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A10 P2 BPI 2019" />
+		<event>
+			<string key="General activity" value="Preprocess the traces of the logs" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:44.584961" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time for all pairs of events for a subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:44.601000" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of only a subset of pairs of events for a subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:44.618964" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate percentages" />
+			<string key="Specific activity" value="Calculate percentage of traces" />
+			<string key="Time" value="2021-07-07 17:27:44.639652" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify values of attributes" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:44.663821" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A11 P2 BPI 2019" />
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:44.680262" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by attributes" />
+			<string key="Time" value="2021-07-07 17:27:44.694735" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of events" />
+			<string key="Time" value="2021-07-07 17:27:44.713809" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate percentages" />
+			<string key="Specific activity" value="Calculate percentage of events" />
+			<string key="Time" value="2021-07-07 17:27:44.731037" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent circular charts of attributes of the traces" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:44.755858" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate dates of the development of activities of resources" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:44.764349" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of events" />
+			<string key="Time" value="2021-07-07 17:27:44.785599" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for each subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:44.796549" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate average of activities per trace" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:44.823979" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate percentages" />
+			<string key="Specific activity" value="Calculate percentage of events" />
+			<string key="Time" value="2021-07-07 17:27:44.837515" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify values of attributes" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:44.864987" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent bar charts" />
+			<string key="Specific activity" value="Represent bar charts of attributes" />
+			<string key="Time" value="2021-07-07 17:27:44.883781" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent process map" />
+			<string key="Specific activity" value="Represent process map with frequency" />
+			<string key="Time" value="2021-07-07 17:27:44.903825" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent process map" />
+			<string key="Specific activity" value="Represent process map with cycle time" />
+			<string key="Time" value="2021-07-07 17:27:44.919064" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent bar charts" />
+			<string key="Specific activity" value="Represent bar charts of cycle time" />
+			<string key="Time" value="2021-07-07 17:27:44.937674" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Group traces" />
+			<string key="Specific activity" value="Group traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:44.948213" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent bar charts" />
+			<string key="Specific activity" value="Represent bar charts of cycle time" />
+			<string key="Time" value="2021-07-07 17:27:44.973623" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A13 P2 BPI 2019" />
+		<event>
+			<string key="General activity" value="Group traces" />
+			<string key="Specific activity" value="Group traces depending on attributes" />
+			<string key="Time" value="2021-07-07 17:27:44.983738" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Group traces" />
+			<string key="Specific activity" value="Group traces depending on attributes" />
+			<string key="Time" value="2021-07-07 17:27:45.003748" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of events" />
+			<string key="Time" value="2021-07-07 17:27:45.024797" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:45.044745" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of only a subset of pairs of events for each subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:45.060582" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of only a subset of pairs of events for each subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:45.078910" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for each subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:45.094278" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A14 P2 BPI 2019" />
+		<event>
+			<string key="General activity" value="Group traces" />
+			<string key="Specific activity" value="Group traces depending on attributes" />
+			<string key="Time" value="2021-07-07 17:27:45.114096" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of activities" />
+			<string key="Time" value="2021-07-07 17:27:45.135729" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Identify activity with biggest backlog" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:45.155035" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate waiting time" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:45.174900" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of the whole process for a subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:45.185788" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of only a subset of pairs of events for a subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:45.201721" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of only a subset of pairs of events for a subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:45.225705" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent heatmaps" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:45.254499" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate dates of the development of activities of resources" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:45.264031" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by attributes" />
+			<string key="Time" value="2021-07-07 17:27:45.285180" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of traces" />
+			<string key="Time" value="2021-07-07 17:27:45.302562" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate statistics" />
+			<string key="Specific activity" value="Calculate Statistics of attributes" />
+			<string key="Time" value="2021-07-07 17:27:45.320851" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent bar charts" />
+			<string key="Specific activity" value="Represent bar charts of cycle time" />
+			<string key="Time" value="2021-07-07 17:27:45.349505" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent temporal series of subprocesses" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:45.367574" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent bar charts" />
+			<string key="Specific activity" value="Represent bar charts of waiting time" />
+			<string key="Time" value="2021-07-07 17:27:45.389185" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate statistics" />
+			<string key="Specific activity" value="Calculate Statistics of attributes" />
+			<string key="Time" value="2021-07-07 17:27:45.405044" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by attributes" />
+			<string key="Time" value="2021-07-07 17:27:45.430197" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Group traces" />
+			<string key="Specific activity" value="Group traces depending on attributes" />
+			<string key="Time" value="2021-07-07 17:27:45.443559" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of variants" />
+			<string key="Time" value="2021-07-07 17:27:45.471623" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of traces" />
+			<string key="Time" value="2021-07-07 17:27:45.492782" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of traces" />
+			<string key="Time" value="2021-07-07 17:27:45.514967" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by frequency" />
+			<string key="Time" value="2021-07-07 17:27:45.537341" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent scatterplot" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:45.561331" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="A15 P2 BPI 2019" />
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of traces" />
+			<string key="Time" value="2021-07-07 17:27:45.575900" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of events" />
+			<string key="Time" value="2021-07-07 17:27:45.596542" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of activities" />
+			<string key="Time" value="2021-07-07 17:27:45.615098" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of variants" />
+			<string key="Time" value="2021-07-07 17:27:45.631217" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calcute number of values of an attribute" />
+			<string key="Time" value="2021-07-07 17:27:45.647209" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate statistics" />
+			<string key="Specific activity" value="Calculate Statistics of attributes" />
+			<string key="Time" value="2021-07-07 17:27:45.667709" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:45.694430" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate percentages" />
+			<string key="Specific activity" value="Calculate percentage of traces" />
+			<string key="Time" value="2021-07-07 17:27:45.713217" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter traces" />
+			<string key="Specific activity" value="Filter traces by activities" />
+			<string key="Time" value="2021-07-07 17:27:45.737675" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate percentages" />
+			<string key="Specific activity" value="Calculate percentage of traces" />
+			<string key="Time" value="2021-07-07 17:27:45.757227" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Filter events" />
+			<string key="Specific activity" value="Filter events by activities" />
+			<string key="Time" value="2021-07-07 17:27:45.779394" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Preprocess the events of the logs" />
+			<string key="Specific activity" value=" " />
+			<string key="Time" value="2021-07-07 17:27:45.797068" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Group traces" />
+			<string key="Specific activity" value="Group traces according to the repetition of activities" />
+			<string key="Time" value="2021-07-07 17:27:45.804609" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate cycle time" />
+			<string key="Specific activity" value="Calculate cycle time of only a subset of pairs of events for each subset of traces" />
+			<string key="Time" value="2021-07-07 17:27:45.819132" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate number of elements" />
+			<string key="Specific activity" value="Calculate number of traces" />
+			<string key="Time" value="2021-07-07 17:27:45.843749" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Calculate statistics" />
+			<string key="Specific activity" value="Calculate Statistics of attributes" />
+			<string key="Time" value="2021-07-07 17:27:45.862166" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+		<event>
+			<string key="General activity" value="Represent process map" />
+			<string key="Specific activity" value="Represent process map with cycle time" />
+			<string key="Time" value="2021-07-07 17:27:45.888353" />
+			<string key="Question" value="P2" />
+			<int key="Year" value="2019" />
+		</event>
+	</trace>
+</log>
