@@ -1,4 +1,4 @@
-,case:id,case:concept:name,concept:name,Variant,time:timestamp,Question,Year,Type
+,case:id,case:concept:name,Operation,concept:name,time:timestamp,Question,Year,Type
 0,A1 P2 BPI 2020,A1 P2 BPI 2020,Calculate cycle time,Calculate cycle time of the whole process for all traces,2021-11-09 16:37:03.500187,P2,2020,Analyze Cycle Time
 1,A1 P2 BPI 2020,A1 P2 BPI 2020,Compare cycle time,Compare cycle time,2021-11-09 17:37:03.500187,P2,2020,Analyze Cycle Time
 2,A2 P2 BPI 2020,A2 P2 BPI 2020,Calculate cycle time,Get cycle time from the previous question,2021-11-09 18:37:03.500187,P2,2020,Analyze Cycle Time
