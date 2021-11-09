@@ -1,0 +1,949 @@
+,concept:name,Specific operation,time:timestamp,Question,Year,case:id,case:concept:name,Type
+0,Calculate cycle time,Calculate cycle time of the whole process for all traces,2021-11-09 13:53:30.796194,P2,2020,A1 P2 BPI 2020,A1 P2 BPI 2020,Analyze Cycle Time
+1,Compare cycle time,Compare cycle time,2021-11-09 14:53:30.796194,P2,2020,A1 P2 BPI 2020,A1 P2 BPI 2020,Analyze Cycle Time
+2,Calculate cycle time,Get cycle time from the previous question,2021-11-09 15:53:30.796194,P2,2020,A2 P2 BPI 2020,A2 P2 BPI 2020,Analyze Cycle Time
+3,Compare cycle time,Compare cycle time,2021-11-09 16:53:30.796194,P2,2020,A2 P2 BPI 2020,A2 P2 BPI 2020,Analyze Cycle Time
+4,Calculate throughput,Calculate throughput,2021-11-09 17:53:30.796194,P2,2020,A7 P2 BPI 2020,A7 P2 BPI 2020,Analyze Cycle Time
+5,Comparative of throughput,Comparative of throughput,2021-11-09 18:53:30.796194,P2,2020,A7 P2 BPI 2020,A7 P2 BPI 2020,Analyze Cycle Time
+6,Comparative of throughput,Comparative of throughput,2021-11-09 19:53:30.796194,P2,2020,A7 P2 BPI 2020,A7 P2 BPI 2020,Analyze Cycle Time
+7,Represent scatterplot,Represent scatterplot,2021-11-09 20:53:30.796194,P2,2020,A7 P2 BPI 2020,A7 P2 BPI 2020,Representation
+8,Represent boxplots of cycle time,Represent boxplots of cycle time,2021-11-09 21:53:30.796194,P2,2020,A10 P2 BPI 2020,A10 P2 BPI 2020,Representation
+9,Compare cycle time,Compare cycle time,2021-11-09 22:53:30.796194,P2,2020,A10 P2 BPI 2020,A10 P2 BPI 2020,Analyze Cycle Time
+10,Calculate throughput,Calculate throughput,2021-11-09 23:53:30.796194,P2,2020,A12 P2 BPI 2020,A12 P2 BPI 2020,Analyze Cycle Time
+11,Preprocess the traces of the logs,Preprocess the traces of the logs,2021-11-10 00:53:30.796194,P2,2020,A12 P2 BPI 2020,A12 P2 BPI 2020,Manipulation
+12,Calculate throughput,Calculate throughput,2021-11-10 01:53:30.796194,P2,2020,A12 P2 BPI 2020,A12 P2 BPI 2020,Analyze Cycle Time
+13,Calculate cycle time,Calculate cycle time of only a subset of pairs of events for all traces,2021-11-10 02:53:30.796194,P2,2020,A13 P2 BPI 2020,A13 P2 BPI 2020,Analyze Cycle Time
+14,Compare cycle time,Compare cycle time,2021-11-10 03:53:30.796194,P2,2020,A13 P2 BPI 2020,A13 P2 BPI 2020,Analyze Cycle Time
+15,Identify specific subprocesses,Identify specific subprocesses,2021-11-10 04:53:30.796194,P2,2020,A13 P2 BPI 2020,A13 P2 BPI 2020,Identification
+16,Calculate statistics,Calculate Statistics of cycle time,2021-11-10 05:53:30.796194,P2,2020,A18 P2 BPI 2020,A18 P2 BPI 2020,Calculate statistics
+17,Calculate cycle time,Get cycle time from the previous question,2021-11-10 06:53:30.796194,P2,2020,A25 P2 BPI 2020,A25 P2 BPI 2020,Analyze Cycle Time
+18,Compare cycle time,Compare cycle time,2021-11-10 07:53:30.796194,P2,2020,A25 P2 BPI 2020,A25 P2 BPI 2020,Analyze Cycle Time
+19,Calculate cycle time,Calculate cycle time of the whole process for all traces,2021-11-10 08:53:30.796194,P2,2020,A25 P2 BPI 2020,A25 P2 BPI 2020,Analyze Cycle Time
+20,Calculate cycle time,Get cycle time from the previous question,2021-11-10 09:53:30.796194,P2,2020,A26 P2 BPI 2020,A26 P2 BPI 2020,Analyze Cycle Time
+21,Compare cycle time,Compare cycle time,2021-11-10 10:53:30.796194,P2,2020,A26 P2 BPI 2020,A26 P2 BPI 2020,Analyze Cycle Time
+22,Calculate cycle time,Get cycle time from the previous question,2021-11-10 11:53:30.796194,P2,2020,A28 P2 BPI 2020,A28 P2 BPI 2020,Analyze Cycle Time
+23,Represent histograms,Represent histograms of cycle time,2021-11-10 12:53:30.796194,P2,2020,A28 P2 BPI 2020,A28 P2 BPI 2020,Representation
+24,Compare cycle time,Compare cycle time,2021-11-10 13:53:30.796194,P2,2020,A28 P2 BPI 2020,A28 P2 BPI 2020,Analyze Cycle Time
+25,Calculate cycle time,Calculate cycle time of a fragment of the process for all traces,2021-11-10 14:53:30.796194,P2,2020,A35 P2 BPI 2020,A35 P2 BPI 2020,Analyze Cycle Time
+26,Calculate number of elements,Calculate number of traces,2021-11-10 15:53:30.796194,P2,2020,A35 P2 BPI 2020,A35 P2 BPI 2020,Calculate statistics
+27,Calculate number of elements,Calculate number of activities,2021-11-10 16:53:30.796194,P2,2020,A35 P2 BPI 2020,A35 P2 BPI 2020,Calculate statistics
+28,Calculate average of activities per trace,Calculate average of activities per trace,2021-11-10 17:53:30.796194,P2,2020,A35 P2 BPI 2020,A35 P2 BPI 2020,Calculate statistics
+29,Calculate percentages,Calculate percentage of traces,2021-11-10 18:53:30.796194,P2,2020,A35 P2 BPI 2020,A35 P2 BPI 2020,Calculate statistics
+30,Calculate statistics,Calculate Statistics of attributes,2021-11-10 19:53:30.796194,P2,2020,A35 P2 BPI 2020,A35 P2 BPI 2020,Calculate statistics
+31,Group traces,Group traces depending on attributes,2021-11-10 20:53:30.796194,P2,2020,A35 P2 BPI 2020,A35 P2 BPI 2020,Manipulation
+32,Represent histograms,Represent histograms of attributes,2021-11-10 21:53:30.796194,P2,2020,A35 P2 BPI 2020,A35 P2 BPI 2020,Representation
+33,Represent bar charts,Represent bar charts of traces,2021-11-10 22:53:30.796194,P2,2020,A35 P2 BPI 2020,A35 P2 BPI 2020,Representation
+34,Represent histograms,Represent histograms of cycle time,2021-11-10 23:53:30.796194,P2,2020,A35 P2 BPI 2020,A35 P2 BPI 2020,Representation
+35,Filter traces,Filter traces by activities,2021-11-11 00:53:30.796194,P2,2020,A35 P2 BPI 2020,A35 P2 BPI 2020,Manipulation
+36,Compare cycle time,Compare cycle time,2021-11-11 01:53:30.796194,P2,2020,A35 P2 BPI 2020,A35 P2 BPI 2020,Analyze Cycle Time
+37,Calculate cycle time,Get cycle time from the previous question,2021-11-11 02:53:30.796194,P2,2020,A37 P2 BPI 2020,A37 P2 BPI 2020,Analyze Cycle Time
+38,Compare cycle time,Compare cycle time,2021-11-11 03:53:30.796194,P2,2020,A37 P2 BPI 2020,A37 P2 BPI 2020,Analyze Cycle Time
+39,Filter activities,Filter activities by sub-processes,2021-11-11 04:53:30.796194,P4,2020,A2 P4 BPI 2020,A2 P4 BPI 2020,Manipulation
+40,Group activities,Group activities by sub-processes,2021-11-11 05:53:30.796194,P4,2020,A2 P4 BPI 2020,A2 P4 BPI 2020,Manipulation
+41,Calculate cycle time,Calculate cycle time for all pairs of events for each subset of traces,2021-11-11 06:53:30.796194,P4,2020,A2 P4 BPI 2020,A2 P4 BPI 2020,Analyze Cycle Time
+42,Group activities,Group activities by role,2021-11-11 07:53:30.796194,P4,2020,A7 P4 BPI 2020,A7 P4 BPI 2020,Manipulation
+43,Calculate throughput,Calculate throughput,2021-11-11 08:53:30.796194,P4,2020,A7 P4 BPI 2020,A7 P4 BPI 2020,Analyze Cycle Time
+44,Group activities,Group activities by time,2021-11-11 09:53:30.796194,P4,2020,A7 P4 BPI 2020,A7 P4 BPI 2020,Manipulation
+45,Calculate number of elements,Calculate number of activities,2021-11-11 10:53:30.796194,P4,2020,A7 P4 BPI 2020,A7 P4 BPI 2020,Calculate statistics
+46,Represent scatterplot,Represent scatterplot,2021-11-11 11:53:30.796194,P4,2020,A7 P4 BPI 2020,A7 P4 BPI 2020,Representation
+47,Represent process map,Represent process map with cycle time,2021-11-11 12:53:30.796194,P4,2020,A10 P4 BPI 2020,A10 P4 BPI 2020,Representation
+48,Calculate cycle time,Calculate cycle time for all pairs of events for all traces,2021-11-11 13:53:30.796194,P4,2020,A10 P4 BPI 2020,A10 P4 BPI 2020,Analyze Cycle Time
+49,Calculate cycle time,Calculate cycle time for all pairs of events for all traces,2021-11-11 14:53:30.796194,P4,2020,A12 P4 BPI 2020,A12 P4 BPI 2020,Analyze Cycle Time
+50,Represent process map,Represent process map with cycle time,2021-11-11 15:53:30.796194,P4,2020,A13 P4 BPI 2020,A13 P4 BPI 2020,Representation
+51,Calculate cycle time,Calculate cycle time for all pairs of events for all traces,2021-11-11 16:53:30.796194,P4,2020,A13 P4 BPI 2020,A13 P4 BPI 2020,Analyze Cycle Time
+52,Group activities,Group activities by sub-processes,2021-11-11 17:53:30.796194,P4,2020,A13 P4 BPI 2020,A13 P4 BPI 2020,Manipulation
+53,Calculate cycle time,Calculate cycle time of a fragment of the process for each subset of traces,2021-11-11 18:53:30.796194,P4,2020,A13 P4 BPI 2020,A13 P4 BPI 2020,Analyze Cycle Time
+54,Represent process map,Represent process map with frequency,2021-11-11 19:53:30.796194,P4,2020,A18 P4 BPI 2020,A18 P4 BPI 2020,Representation
+55,Calculate cycle time,Calculate cycle time of only a subset of pairs of events for a subset of traces,2021-11-11 20:53:30.796194,P4,2020,A18 P4 BPI 2020,A18 P4 BPI 2020,Analyze Cycle Time
+56,Calculate cycle time,Calculate cycle time for all pairs of events for all traces,2021-11-11 21:53:30.796194,P4,2020,A25 P4 BPI 2020,A25 P4 BPI 2020,Analyze Cycle Time
+57,Represent bar charts,Represent bar charts of cycle time,2021-11-11 22:53:30.796194,P4,2020,A25 P4 BPI 2020,A25 P4 BPI 2020,Representation
+58,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-11 23:53:30.796194,P4,2020,A25 P4 BPI 2020,A25 P4 BPI 2020,Analyze Cycle Time
+59,Filter variants depending on frequency,Filter variants depending on frequency,2021-11-12 00:53:30.796194,P4,2020,A26 P4 BPI 2020,A26 P4 BPI 2020,Manipulation
+60,Represent histograms,Represent histograms of cycle time,2021-11-12 01:53:30.796194,P4,2020,A26 P4 BPI 2020,A26 P4 BPI 2020,Representation
+61,Preprocess the traces of the logs,Preprocess the traces of the logs,2021-11-12 02:53:30.796194,P4,2020,A28 P4 BPI 2020,A28 P4 BPI 2020,Manipulation
+62,Calculate cycle time,Calculate cycle time of the whole process for a subset of traces,2021-11-12 03:53:30.796194,P4,2020,A28 P4 BPI 2020,A28 P4 BPI 2020,Analyze Cycle Time
+63,Represent heatmaps,Represent heatmaps,2021-11-12 04:53:30.796194,P4,2020,A28 P4 BPI 2020,A28 P4 BPI 2020,Representation
+64,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-12 05:53:30.796194,P4,2020,A28 P4 BPI 2020,A28 P4 BPI 2020,Analyze Cycle Time
+65,Preprocess the traces of the logs,Preprocess the traces of the logs,2021-11-12 06:53:30.796194,P4,2020,A28 P4 BPI 2020,A28 P4 BPI 2020,Manipulation
+66,Represent heatmaps,Represent heatmaps,2021-11-12 07:53:30.796194,P4,2020,A28 P4 BPI 2020,A28 P4 BPI 2020,Representation
+67,Calculate cycle time,Calculate cycle time of the whole process for a subset of traces,2021-11-12 08:53:30.796194,P4,2020,A28 P4 BPI 2020,A28 P4 BPI 2020,Analyze Cycle Time
+68,Represent heatmaps,Represent heatmaps,2021-11-12 09:53:30.796194,P4,2020,A28 P4 BPI 2020,A28 P4 BPI 2020,Representation
+69,Preprocess the traces of the logs,Preprocess the traces of the logs,2021-11-12 10:53:30.796194,P4,2020,A28 P4 BPI 2020,A28 P4 BPI 2020,Manipulation
+70,Represent heatmaps,Represent heatmaps,2021-11-12 11:53:30.796194,P4,2020,A28 P4 BPI 2020,A28 P4 BPI 2020,Representation
+71,Filter traces,Filter traces by activities,2021-11-12 12:53:30.796194,P4,2020,A35 P4 BPI 2020,A35 P4 BPI 2020,Manipulation
+72,Calculate cycle time,Calculate cycle time of the whole process for a subset of traces,2021-11-12 13:53:30.796194,P4,2020,A35 P4 BPI 2020,A35 P4 BPI 2020,Analyze Cycle Time
+73,Calculate cycle time,Calculate cycle time of a fragment of the process for a subset of traces,2021-11-12 14:53:30.796194,P4,2020,A35 P4 BPI 2020,A35 P4 BPI 2020,Analyze Cycle Time
+74,Calculate number of elements,Calculate number of traces,2021-11-12 15:53:30.796194,P4,2020,A35 P4 BPI 2020,A35 P4 BPI 2020,Calculate statistics
+75,Calculate number of elements,Calculate number of activities,2021-11-12 16:53:30.796194,P4,2020,A35 P4 BPI 2020,A35 P4 BPI 2020,Calculate statistics
+76,Calculate average of activities per trace,Calculate average of activities per trace,2021-11-12 17:53:30.796194,P4,2020,A35 P4 BPI 2020,A35 P4 BPI 2020,Calculate statistics
+77,Group traces,Group traces by roles,2021-11-12 18:53:30.796194,P4,2020,A35 P4 BPI 2020,A35 P4 BPI 2020,Manipulation
+78,Represent histograms,Represent histograms of cycle time,2021-11-12 19:53:30.796194,P4,2020,A35 P4 BPI 2020,A35 P4 BPI 2020,Representation
+79,Calculate cycle time,Calculate cycle time for all pairs of events for all traces,2021-11-12 20:53:30.796194,P4,2020,A37 P4 BPI 2020,A37 P4 BPI 2020,Analyze Cycle Time
+80,Calculate cycle time,Get cycle time from the previous question,2021-11-12 21:53:30.796194,P5,2020,A1 P5 BPI 2020,A1 P5 BPI 2020,Analyze Cycle Time
+81,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-12 22:53:30.796194,P5,2020,A1 P5 BPI 2020,A1 P5 BPI 2020,Analyze Cycle Time
+82,Calculate cycle time,Calculate cycle time for all pairs of events for all traces,2021-11-12 23:53:30.796194,P5,2020,A2 P5 BPI 2020,A2 P5 BPI 2020,Analyze Cycle Time
+83,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-13 00:53:30.796194,P5,2020,A2 P5 BPI 2020,A2 P5 BPI 2020,Analyze Cycle Time
+84,Represent process map,Represent process map with cycle time,2021-11-13 01:53:30.796194,P5,2020,A2 P5 BPI 2020,A2 P5 BPI 2020,Representation
+85,Calculate cycle time,Calculate cycle time for all pairs of events for all traces,2021-11-13 02:53:30.796194,P5,2020,A7 P5 BPI 2020,A7 P5 BPI 2020,Analyze Cycle Time
+86,Filter activities,Filter activities by cycle time,2021-11-13 03:53:30.796194,P5,2020,A7 P5 BPI 2020,A7 P5 BPI 2020,Manipulation
+87,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-13 04:53:30.796194,P5,2020,A7 P5 BPI 2020,A7 P5 BPI 2020,Analyze Cycle Time
+88,Calculate cycle time,Get cycle time from the previous question,2021-11-13 05:53:30.796194,P5,2020,A10 P5 BPI 2020,A10 P5 BPI 2020,Analyze Cycle Time
+89,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-13 06:53:30.796194,P5,2020,A10 P5 BPI 2020,A10 P5 BPI 2020,Analyze Cycle Time
+90,Calculate number of elements,Calculate number of activities,2021-11-13 07:53:30.796194,P5,2020,A10 P5 BPI 2020,A10 P5 BPI 2020,Calculate statistics
+91,Calculate cycle time,Get cycle time from the previous question,2021-11-13 08:53:30.796194,P5,2020,A12 P5 BPI 2020,A12 P5 BPI 2020,Analyze Cycle Time
+92,Represent bar charts,Represent bar charts of cycle time,2021-11-13 09:53:30.796194,P5,2020,A12 P5 BPI 2020,A12 P5 BPI 2020,Representation
+93,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-13 10:53:30.796194,P5,2020,A12 P5 BPI 2020,A12 P5 BPI 2020,Analyze Cycle Time
+94,Represent process map,Represent process map with cycle time,2021-11-13 11:53:30.796194,P5,2020,A13 P5 BPI 2020,A13 P5 BPI 2020,Representation
+95,Calculate cycle time,Calculate cycle time for all pairs of events for all traces,2021-11-13 12:53:30.796194,P5,2020,A13 P5 BPI 2020,A13 P5 BPI 2020,Analyze Cycle Time
+96,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-13 13:53:30.796194,P5,2020,A13 P5 BPI 2020,A13 P5 BPI 2020,Analyze Cycle Time
+97,Calculate cycle time,Get cycle time from the previous question,2021-11-13 14:53:30.796194,P5,2020,A18 P5 BPI 2020,A18 P5 BPI 2020,Analyze Cycle Time
+98,Identify bottlenecks,Identify sub-processes as bottlenecks applying temporal performance criteria,2021-11-13 15:53:30.796194,P5,2020,A18 P5 BPI 2020,A18 P5 BPI 2020,Analyze Cycle Time
+99,Calculate cycle time,Calculate cycle time for all pairs of events for all traces,2021-11-13 16:53:30.796194,P5,2020,A25 P5 BPI 2020,A25 P5 BPI 2020,Analyze Cycle Time
+100,Represent bar charts,Represent bar charts of cycle time,2021-11-13 17:53:30.796194,P5,2020,A25 P5 BPI 2020,A25 P5 BPI 2020,Representation
+101,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-13 18:53:30.796194,P5,2020,A25 P5 BPI 2020,A25 P5 BPI 2020,Analyze Cycle Time
+102,Represent process map,Represent process map with cycle time,2021-11-13 19:53:30.796194,P5,2020,A26 P5 BPI 2020,A26 P5 BPI 2020,Representation
+103,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-13 20:53:30.796194,P5,2020,A26 P5 BPI 2020,A26 P5 BPI 2020,Analyze Cycle Time
+104,Identify bottlenecks,Identify sub-processes with incorrect orders with respect to the happy path as bottlenecks,2021-11-13 21:53:30.796194,P5,2020,A28 P5 BPI 2020,A28 P5 BPI 2020,Analyze Cycle Time
+105,Calculate number of elements,Calculate number of activities,2021-11-13 22:53:30.796194,P5,2020,A28 P5 BPI 2020,A28 P5 BPI 2020,Calculate statistics
+106,Calculate cycle time,Calculate cycle time of the whole process for a subset of traces,2021-11-13 23:53:30.796194,P5,2020,A28 P5 BPI 2020,A28 P5 BPI 2020,Analyze Cycle Time
+107,Calculate cycle time,Get cycle time from the previous question,2021-11-14 00:53:30.796194,P5,2020,A35 P5 BPI 2020,A35 P5 BPI 2020,Analyze Cycle Time
+108,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-14 01:53:30.796194,P5,2020,A35 P5 BPI 2020,A35 P5 BPI 2020,Analyze Cycle Time
+109,Calculate cycle time,Get cycle time from the previous question,2021-11-14 02:53:30.796194,P5,2020,A37 P5 BPI 2020,A37 P5 BPI 2020,Analyze Cycle Time
+110,Compare cycle time,Compare cycle time,2021-11-14 03:53:30.796194,P5,2020,A37 P5 BPI 2020,A37 P5 BPI 2020,Analyze Cycle Time
+111,Identify bottlenecks,Identify sub-processes with incorrect orders with respect to the happy path as bottlenecks,2021-11-14 04:53:30.796194,P5,2020,A37 P5 BPI 2020,A37 P5 BPI 2020,Analyze Cycle Time
+112,Calculate frequency,Calculate frequency of attributes,2021-11-14 05:53:30.796194,P5,2020,A37 P5 BPI 2020,A37 P5 BPI 2020,Calculate statistics
+113,Calculate percentages,Calculate percentage of traces,2021-11-14 06:53:30.796194,P5,2020,A37 P5 BPI 2020,A37 P5 BPI 2020,Calculate statistics
+114,Calculate number of elements,Calculate number of activities,2021-11-14 07:53:30.796194,P5,2020,A37 P5 BPI 2020,A37 P5 BPI 2020,Calculate statistics
+115,Filter traces,Filter traces depending on the order of activities,2021-11-14 08:53:30.796194,P6,2020,A1 P6 BPI 2020,A1 P6 BPI 2020,Manipulation
+116,Calculate cycle time,Calculate cycle time of a fragment of the process for a subset of traces,2021-11-14 09:53:30.796194,P6,2020,A1 P6 BPI 2020,A1 P6 BPI 2020,Analyze Cycle Time
+117,Calculate cycle time,Calculate cycle time for all pairs of events for all traces,2021-11-14 10:53:30.796194,P6,2020,A2 P6 BPI 2020,A2 P6 BPI 2020,Analyze Cycle Time
+118,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-14 11:53:30.796194,P6,2020,A2 P6 BPI 2020,A2 P6 BPI 2020,Analyze Cycle Time
+119,Represent process map,Represent process map with cycle time,2021-11-14 12:53:30.796194,P6,2020,A2 P6 BPI 2020,A2 P6 BPI 2020,Representation
+120,Calculate cycle time,Calculate cycle time for all pairs of events for all traces,2021-11-14 13:53:30.796194,P6,2020,A7 P6 BPI 2020,A7 P6 BPI 2020,Analyze Cycle Time
+121,Filter activities,Filter activities by cycle time,2021-11-14 14:53:30.796194,P6,2020,A7 P6 BPI 2020,A7 P6 BPI 2020,Manipulation
+122,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-14 15:53:30.796194,P6,2020,A7 P6 BPI 2020,A7 P6 BPI 2020,Analyze Cycle Time
+123,Filter traces,Filter traces by activities,2021-11-14 16:53:30.796194,P6,2020,A10 P6 BPI 2020,A10 P6 BPI 2020,Manipulation
+124,Calculate number of elements,Calculate number of activities,2021-11-14 17:53:30.796194,P6,2020,A10 P6 BPI 2020,A10 P6 BPI 2020,Calculate statistics
+125,Calculate cycle time,Calculate cycle time for all pairs of events for each subset of traces,2021-11-14 18:53:30.796194,P6,2020,A10 P6 BPI 2020,A10 P6 BPI 2020,Analyze Cycle Time
+126,Filter traces,Filter traces by activities,2021-11-14 19:53:30.796194,P6,2020,A10 P6 BPI 2020,A10 P6 BPI 2020,Manipulation
+127,Calculate number of elements,Calculate number of activities,2021-11-14 20:53:30.796194,P6,2020,A10 P6 BPI 2020,A10 P6 BPI 2020,Calculate statistics
+128,Calculate cycle time,Calculate cycle time for all pairs of events for each subset of traces,2021-11-14 21:53:30.796194,P6,2020,A10 P6 BPI 2020,A10 P6 BPI 2020,Analyze Cycle Time
+129,Calculate cycle time,Calculate cycle time for all pairs of events for all traces,2021-11-14 22:53:30.796194,P6,2020,A12 P6 BPI 2020,A12 P6 BPI 2020,Analyze Cycle Time
+130,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-14 23:53:30.796194,P6,2020,A12 P6 BPI 2020,A12 P6 BPI 2020,Analyze Cycle Time
+131,Preprocess the traces of the logs,Preprocess the traces of the logs,2021-11-15 00:53:30.796194,P6,2020,A13 P6 BPI 2020,A13 P6 BPI 2020,Manipulation
+132,Represent process map,Represent process map with cycle time,2021-11-15 01:53:30.796194,P6,2020,A13 P6 BPI 2020,A13 P6 BPI 2020,Representation
+133,Calculate cycle time,Calculate cycle time of a fragment of the process for each subset of traces,2021-11-15 02:53:30.796194,P6,2020,A13 P6 BPI 2020,A13 P6 BPI 2020,Analyze Cycle Time
+134,Calculate frequency,Calculate frequency of variants,2021-11-15 03:53:30.796194,P6,2020,A13 P6 BPI 2020,A13 P6 BPI 2020,Calculate statistics
+135,Calculate intervals of time of the traces,Calculate intervals of time of the traces,2021-11-15 04:53:30.796194,P6,2020,A13 P6 BPI 2020,A13 P6 BPI 2020,Analyze Cycle Time
+136,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-15 05:53:30.796194,P6,2020,A13 P6 BPI 2020,A13 P6 BPI 2020,Analyze Cycle Time
+137,Represent histograms,Represent histograms of cycle time,2021-11-15 06:53:30.796194,P6,2020,A25 P6 BPI 2020,A25 P6 BPI 2020,Representation
+138,Calculate cycle time,Calculate cycle time for all pairs of events for all traces,2021-11-15 07:53:30.796194,P6,2020,A25 P6 BPI 2020,A25 P6 BPI 2020,Analyze Cycle Time
+139,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-15 08:53:30.796194,P6,2020,A25 P6 BPI 2020,A25 P6 BPI 2020,Analyze Cycle Time
+140,Calculate cycle time,Get cycle time from the previous question,2021-11-15 09:53:30.796194,P6,2020,A26 P6 BPI 2020,A26 P6 BPI 2020,Analyze Cycle Time
+141,Represent process map,Get process map from the previous question,2021-11-15 10:53:30.796194,P6,2020,A26 P6 BPI 2020,A26 P6 BPI 2020,Representation
+142,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-15 11:53:30.796194,P6,2020,A26 P6 BPI 2020,A26 P6 BPI 2020,Analyze Cycle Time
+143,Identify bottlenecks,Identify sub-processes with incorrect orders with respect to the happy path as bottlenecks,2021-11-15 12:53:30.796194,P6,2020,A28 P6 BPI 2020,A28 P6 BPI 2020,Analyze Cycle Time
+144,Represent process map,Represent process map with cycle time,2021-11-15 13:53:30.796194,P6,2020,A35 P6 BPI 2020,A35 P6 BPI 2020,Representation
+145,Identify bottlenecks,Identify sub-processes with incorrect orders with respect to the happy path as bottlenecks,2021-11-15 14:53:30.796194,P6,2020,A35 P6 BPI 2020,A35 P6 BPI 2020,Analyze Cycle Time
+146,Filter traces,Filter traces by activities,2021-11-15 15:53:30.796194,P6,2020,A37 P6 BPI 2020,A37 P6 BPI 2020,Manipulation
+147,Preprocess the traces of the logs,Preprocess the traces of the logs,2021-11-15 16:53:30.796194,P6,2020,A37 P6 BPI 2020,A37 P6 BPI 2020,Manipulation
+148,Calculate number of elements,Calculate number of variants,2021-11-15 17:53:30.796194,P6,2020,A37 P6 BPI 2020,A37 P6 BPI 2020,Calculate statistics
+149,Calculate number of elements,Calculate number of different organizational units,2021-11-15 18:53:30.796194,P6,2020,A37 P6 BPI 2020,A37 P6 BPI 2020,Calculate statistics
+150,Calculate cycle time,Calculate cycle time of a fragment of the process for a subset of traces,2021-11-15 19:53:30.796194,P6,2020,A37 P6 BPI 2020,A37 P6 BPI 2020,Analyze Cycle Time
+151,Compare cycle time,Compare cycle time,2021-11-15 20:53:30.796194,P6,2020,A37 P6 BPI 2020,A37 P6 BPI 2020,Analyze Cycle Time
+152,Calculate cycle time,Calculate cycle time of the whole process for all traces,2021-11-15 21:53:30.796194,P5,2015,A2 P5 BPI 2015,A2 P5 BPI 2015,Analyze Cycle Time
+153,Filter events,Filter events by cycle time,2021-11-15 22:53:30.796194,P5,2015,A2 P5 BPI 2015,A2 P5 BPI 2015,Manipulation
+154,Represent histograms,Represent histograms of cycle time,2021-11-15 23:53:30.796194,P5,2015,A2 P5 BPI 2015,A2 P5 BPI 2015,Representation
+155,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-16 00:53:30.796194,P5,2015,A2 P5 BPI 2015,A2 P5 BPI 2015,Analyze Cycle Time
+156,Group activities,Group activities by sub-processes,2021-11-16 01:53:30.796194,P5,2015,A3 P5 BPI 2015,A3 P5 BPI 2015,Manipulation
+157,Calculate cycle time,Calculate cycle time for all pairs of events for each subset of traces,2021-11-16 02:53:30.796194,P5,2015,A3 P5 BPI 2015,A3 P5 BPI 2015,Analyze Cycle Time
+158,Represent process map,Represent process map with cycle time,2021-11-16 03:53:30.796194,P5,2015,A3 P5 BPI 2015,A3 P5 BPI 2015,Representation
+159,Filter activities,Filter activities by frequency,2021-11-16 04:53:30.796194,P5,2015,A3 P5 BPI 2015,A3 P5 BPI 2015,Manipulation
+160,Represent bar charts,Represent bar charts of traces,2021-11-16 05:53:30.796194,P5,2015,A3 P5 BPI 2015,A3 P5 BPI 2015,Representation
+161,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-16 06:53:30.796194,P5,2015,A3 P5 BPI 2015,A3 P5 BPI 2015,Analyze Cycle Time
+162,Represent process map,Represent process map with cycle time,2021-11-16 07:53:30.796194,P5,2015,A3 P5 BPI 2015,A3 P5 BPI 2015,Representation
+163,Calculate cycle time,Calculate cycle time of the whole process for each subset of traces,2021-11-16 08:53:30.796194,P5,2015,A4 P5 BPI 2015,A4 P5 BPI 2015,Analyze Cycle Time
+164,Identify bottlenecks,Identify organizational units as bottlenecks applying temporal performance criteria,2021-11-16 09:53:30.796194,P5,2015,A4 P5 BPI 2015,A4 P5 BPI 2015,Analyze Cycle Time
+165,Identify impact of bottlenecks by organizational unit,Identify impact of bottlenecks by organizational unit,2021-11-16 10:53:30.796194,P5,2015,A4 P5 BPI 2015,A4 P5 BPI 2015,Identification
+166,Compare cycle time,Compare cycle time,2021-11-16 11:53:30.796194,P5,2015,A4 P5 BPI 2015,A4 P5 BPI 2015,Analyze Cycle Time
+167,Filter traces,Filter traces by attributes,2021-11-16 12:53:30.796194,P5,2015,A7 P5 BPI 2015,A7 P5 BPI 2015,Manipulation
+168,Calculate cycle time,Calculate cycle time of the whole process for a subset of traces,2021-11-16 13:53:30.796194,P5,2015,A7 P5 BPI 2015,A7 P5 BPI 2015,Analyze Cycle Time
+169,Represent histograms,Represent histograms of cycle time,2021-11-16 14:53:30.796194,P5,2015,A7 P5 BPI 2015,A7 P5 BPI 2015,Representation
+170,Compare cycle time,Compare cycle time,2021-11-16 15:53:30.796194,P5,2015,A7 P5 BPI 2015,A7 P5 BPI 2015,Analyze Cycle Time
+171,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-16 16:53:30.796194,P5,2015,A7 P5 BPI 2015,A7 P5 BPI 2015,Analyze Cycle Time
+172,Represent process map,Represent process map with cycle time,2021-11-16 17:53:30.796194,P5,2015,A7 P5 BPI 2015,A7 P5 BPI 2015,Representation
+173,Calculate cycle time,Calculate cycle time of the whole process for each subset of traces,2021-11-16 18:53:30.796194,P5,2015,A8 P5 BPI 2015,A8 P5 BPI 2015,Analyze Cycle Time
+174,Compare cycle time,Compare cycle time,2021-11-16 19:53:30.796194,P5,2015,A8 P5 BPI 2015,A8 P5 BPI 2015,Analyze Cycle Time
+175,Group traces,Group traces depending on attributes,2021-11-16 20:53:30.796194,P5,2015,A8 P5 BPI 2015,A8 P5 BPI 2015,Manipulation
+176,Calculate cycle time,Calculate cycle time of the whole process for each subset of traces,2021-11-16 21:53:30.796194,P5,2015,A8 P5 BPI 2015,A8 P5 BPI 2015,Analyze Cycle Time
+177,Group traces,Group traces by cycle time,2021-11-16 22:53:30.796194,P5,2015,A8 P5 BPI 2015,A8 P5 BPI 2015,Manipulation
+178,Group traces,Group traces by organizational units,2021-11-16 23:53:30.796194,P5,2015,A8 P5 BPI 2015,A8 P5 BPI 2015,Manipulation
+179,Compare cycle time,Compare cycle time,2021-11-17 00:53:30.796194,P5,2015,A8 P5 BPI 2015,A8 P5 BPI 2015,Analyze Cycle Time
+180,Analyze cycle time depending on the events,Analyze cycle time depending on the events,2021-11-17 01:53:30.796194,P5,2015,A8 P5 BPI 2015,A8 P5 BPI 2015,Analyze Cycle Time
+181,Calculate number of elements,Calculate number of traces,2021-11-17 02:53:30.796194,P5,2015,A8 P5 BPI 2015,A8 P5 BPI 2015,Calculate statistics
+182,Compare cycle time,Compare cycle time,2021-11-17 03:53:30.796194,P5,2015,A8 P5 BPI 2015,A8 P5 BPI 2015,Analyze Cycle Time
+183,Filter activities,Filter activities by frequency,2021-11-17 04:53:30.796194,P5,2015,A8 P5 BPI 2015,A8 P5 BPI 2015,Manipulation
+184,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-17 05:53:30.796194,P5,2015,A8 P5 BPI 2015,A8 P5 BPI 2015,Analyze Cycle Time
+185,Calculate frequency,Calculate frequency of activities,2021-11-17 06:53:30.796194,P5,2015,A8 P5 BPI 2015,A8 P5 BPI 2015,Calculate statistics
+186,Calculate cycle time,Calculate cycle time of only a subset of pairs of events for each subset of traces,2021-11-17 07:53:30.796194,P5,2015,A8 P5 BPI 2015,A8 P5 BPI 2015,Analyze Cycle Time
+187,Identify bottlenecks,Identify organizational units as bottlenecks applying temporal performance criteria,2021-11-17 08:53:30.796194,P5,2015,A8 P5 BPI 2015,A8 P5 BPI 2015,Analyze Cycle Time
+188,Identify resources,Identify resource associated with bottlenecks,2021-11-17 09:53:30.796194,P5,2015,A8 P5 BPI 2015,A8 P5 BPI 2015,Identification
+189,Filter traces,Filter traces by activities,2021-11-17 10:53:30.796194,P5,2015,A9 P5 BPI 2015,A9 P5 BPI 2015,Manipulation
+190,Calculate cycle time,Calculate cycle time for all pairs of events for a subset of traces,2021-11-17 11:53:30.796194,P5,2015,A9 P5 BPI 2015,A9 P5 BPI 2015,Analyze Cycle Time
+191,Group traces,Group traces by cycle time,2021-11-17 12:53:30.796194,P5,2015,A9 P5 BPI 2015,A9 P5 BPI 2015,Manipulation
+192,Apply decision trees,Apply decision trees,2021-11-17 13:53:30.796194,P5,2015,A9 P5 BPI 2015,A9 P5 BPI 2015,Others
+193,Group organizational units,Group organizational units,2021-11-17 14:53:30.796194,P5,2015,A9 P5 BPI 2015,A9 P5 BPI 2015,Manipulation
+194,Calculate number of elements,Calculate number of traces,2021-11-17 15:53:30.796194,P5,2015,A9 P5 BPI 2015,A9 P5 BPI 2015,Calculate statistics
+195,Calculate cycle time,Calculate cycle time of the whole process for each subset of traces,2021-11-17 16:53:30.796194,P5,2015,A9 P5 BPI 2015,A9 P5 BPI 2015,Analyze Cycle Time
+196,Compare cycle time,Compare cycle time,2021-11-17 17:53:30.796194,P5,2015,A9 P5 BPI 2015,A9 P5 BPI 2015,Analyze Cycle Time
+197,Identify bottlenecks,Identify organizational units as bottlenecks applying temporal performance criteria,2021-11-17 18:53:30.796194,P5,2015,A9 P5 BPI 2015,A9 P5 BPI 2015,Analyze Cycle Time
+198,Filter traces,Filter traces by activities,2021-11-17 19:53:30.796194,P1,2020,A1 P1 BPI 2020,A1 P1 BPI 2020,Manipulation
+199,Calculate cycle time,Calculate cycle time of the whole process for a subset of traces,2021-11-17 20:53:30.796194,P1,2020,A1 P1 BPI 2020,A1 P1 BPI 2020,Analyze Cycle Time
+200,Calculate throughput,Calculate throughput,2021-11-17 21:53:30.796194,P1,2020,A1 P1 BPI 2020,A1 P1 BPI 2020,Analyze Cycle Time
+201,Filter traces,Filter traces by attributes,2021-11-17 22:53:30.796194,P1,2020,A1 P1 BPI 2020,A1 P1 BPI 2020,Manipulation
+202,Calculate cycle time,Calculate cycle time of the whole process for a subset of traces,2021-11-17 23:53:30.796194,P1,2020,A1 P1 BPI 2020,A1 P1 BPI 2020,Analyze Cycle Time
+203,Calculate cycle time,Calculate cycle time of the whole process for all traces,2021-11-18 00:53:30.796194,P1,2020,A2 P1 BPI 2020,A2 P1 BPI 2020,Analyze Cycle Time
+204,Filter traces,Filter traces by activities,2021-11-18 01:53:30.796194,P1,2020,A7 P1 BPI 2020,A7 P1 BPI 2020,Manipulation
+205,Calculate percentages,Calculate percentage of traces,2021-11-18 02:53:30.796194,P1,2020,A7 P1 BPI 2020,A7 P1 BPI 2020,Calculate statistics
+206,Calculate number of elements,Calculate number of traces,2021-11-18 03:53:30.796194,P1,2020,A7 P1 BPI 2020,A7 P1 BPI 2020,Calculate statistics
+207,Calculate throughput,Calculate throughput,2021-11-18 04:53:30.796194,P1,2020,A7 P1 BPI 2020,A7 P1 BPI 2020,Analyze Cycle Time
+208,Calculate statistics,Calculate Statistics of throughput,2021-11-18 05:53:30.796194,P1,2020,A7 P1 BPI 2020,A7 P1 BPI 2020,Calculate statistics
+209,Calculate statistics,Calculate Statistics of throughput,2021-11-18 06:53:30.796194,P1,2020,A7 P1 BPI 2020,A7 P1 BPI 2020,Calculate statistics
+210,Calculate throughput,Calculate throughput,2021-11-18 07:53:30.796194,P1,2020,A7 P1 BPI 2020,A7 P1 BPI 2020,Analyze Cycle Time
+211,Calculate statistics,Calculate Statistics of throughput,2021-11-18 08:53:30.796194,P1,2020,A7 P1 BPI 2020,A7 P1 BPI 2020,Calculate statistics
+212,Calculate cycle time,Calculate cycle time of a fragment of the process for all traces,2021-11-18 09:53:30.796194,P1,2020,A10 P1 BPI 2020,A10 P1 BPI 2020,Analyze Cycle Time
+213,Represent histograms,Represent histograms of cycle time,2021-11-18 10:53:30.796194,P1,2020,A10 P1 BPI 2020,A10 P1 BPI 2020,Representation
+214,Represent boxplots of cycle time,Represent boxplots of cycle time,2021-11-18 11:53:30.796194,P1,2020,A10 P1 BPI 2020,A10 P1 BPI 2020,Representation
+215,Represent density of cycle time,Represent density of cycle time,2021-11-18 12:53:30.796194,P1,2020,A10 P1 BPI 2020,A10 P1 BPI 2020,Representation
+216,Calculate processing time,Calculate processing time,2021-11-18 13:53:30.796194,P1,2020,A12 P1 BPI 2020,A12 P1 BPI 2020,Analyze Cycle Time
+217,Filter traces,Filter traces by activities,2021-11-18 14:53:30.796194,P1,2020,A12 P1 BPI 2020,A12 P1 BPI 2020,Manipulation
+218,Represent process map,Represent process map with cycle time,2021-11-18 15:53:30.796194,P1,2020,A12 P1 BPI 2020,A12 P1 BPI 2020,Representation
+219,Represent bar charts,Represent bar charts of traces,2021-11-18 16:53:30.796194,P1,2020,A13 P1 BPI 2020,A13 P1 BPI 2020,Representation
+220,Calculate throughput,Calculate throughput,2021-11-18 17:53:30.796194,P1,2020,A13 P1 BPI 2020,A13 P1 BPI 2020,Analyze Cycle Time
+221,Represent bar charts,Represent bar charts of traces,2021-11-18 18:53:30.796194,P1,2020,A13 P1 BPI 2020,A13 P1 BPI 2020,Representation
+222,Group traces,Group traces by year,2021-11-18 19:53:30.796194,P1,2020,A13 P1 BPI 2020,A13 P1 BPI 2020,Manipulation
+223,Filter traces,Filter traces by activities,2021-11-18 20:53:30.796194,P1,2020,A13 P1 BPI 2020,A13 P1 BPI 2020,Manipulation
+224,Calculate cycle time,Calculate cycle time of the whole process for each subset of traces,2021-11-18 21:53:30.796194,P1,2020,A13 P1 BPI 2020,A13 P1 BPI 2020,Analyze Cycle Time
+225,Calculate number of elements,Calculate number of traces,2021-11-18 22:53:30.796194,P1,2020,A13 P1 BPI 2020,A13 P1 BPI 2020,Calculate statistics
+226,Calculate percentages,Calculate percentage of traces,2021-11-18 23:53:30.796194,P1,2020,A13 P1 BPI 2020,A13 P1 BPI 2020,Calculate statistics
+227,Filter traces,Filter traces by activities,2021-11-19 00:53:30.796194,P1,2020,A18 P1 BPI 2020,A18 P1 BPI 2020,Manipulation
+228,Calculate number of elements,Calculate number of traces,2021-11-19 01:53:30.796194,P1,2020,A18 P1 BPI 2020,A18 P1 BPI 2020,Calculate statistics
+229,Calculate cycle time,Calculate cycle time of a fragment of the process for a subset of traces,2021-11-19 02:53:30.796194,P1,2020,A18 P1 BPI 2020,A18 P1 BPI 2020,Analyze Cycle Time
+230,Represent boxplots of cycle time,Represent boxplots of cycle time,2021-11-19 03:53:30.796194,P1,2020,A18 P1 BPI 2020,A18 P1 BPI 2020,Representation
+231,Filter traces,Filter traces by attributes,2021-11-19 04:53:30.796194,P1,2020,A25 P1 BPI 2020,A25 P1 BPI 2020,Manipulation
+232,Calculate cycle time,Calculate cycle time of the whole process for all traces,2021-11-19 05:53:30.796194,P1,2020,A25 P1 BPI 2020,A25 P1 BPI 2020,Analyze Cycle Time
+233,Represent histograms,Represent histograms of cycle time,2021-11-19 06:53:30.796194,P1,2020,A25 P1 BPI 2020,A25 P1 BPI 2020,Representation
+234,Compare cycle time,Compare cycle time,2021-11-19 07:53:30.796194,P1,2020,A25 P1 BPI 2020,A25 P1 BPI 2020,Analyze Cycle Time
+235,Calculate cycle time,Calculate cycle time of a fragment of the process for all traces,2021-11-19 08:53:30.796194,P1,2020,A25 P1 BPI 2020,A25 P1 BPI 2020,Analyze Cycle Time
+236,Represent histograms,Represent histograms of cycle time,2021-11-19 09:53:30.796194,P1,2020,A25 P1 BPI 2020,A25 P1 BPI 2020,Representation
+237,Represent process map,Represent process map with cycle time,2021-11-19 10:53:30.796194,P1,2020,A26 P1 BPI 2020,A26 P1 BPI 2020,Representation
+238,Filter traces,Filter traces by activities,2021-11-19 11:53:30.796194,P1,2020,A26 P1 BPI 2020,A26 P1 BPI 2020,Manipulation
+239,Calculate cycle time,Calculate cycle time of the whole process for a subset of traces,2021-11-19 12:53:30.796194,P1,2020,A26 P1 BPI 2020,A26 P1 BPI 2020,Analyze Cycle Time
+240,Calculate cycle time,Calculate cycle time of the whole process for all traces,2021-11-19 13:53:30.796194,P1,2020,A28 P1 BPI 2020,A28 P1 BPI 2020,Analyze Cycle Time
+241,Represent bar charts,Represent bar charts of cycle time,2021-11-19 14:53:30.796194,P1,2020,A28 P1 BPI 2020,A28 P1 BPI 2020,Representation
+242,Compare cycle time,Compare cycle time,2021-11-19 15:53:30.796194,P1,2020,A28 P1 BPI 2020,A28 P1 BPI 2020,Analyze Cycle Time
+243,Filter traces,Filter traces by activities,2021-11-19 16:53:30.796194,P1,2020,A35 P1 BPI 2020,A35 P1 BPI 2020,Manipulation
+244,Calculate percentages,Calculate percentage of traces,2021-11-19 17:53:30.796194,P1,2020,A35 P1 BPI 2020,A35 P1 BPI 2020,Calculate statistics
+245,Calculate cycle time,Calculate cycle time of a fragment of the process for all traces,2021-11-19 18:53:30.796194,P1,2020,A35 P1 BPI 2020,A35 P1 BPI 2020,Analyze Cycle Time
+246,Represent histograms,Represent histograms of cycle time,2021-11-19 19:53:30.796194,P1,2020,A35 P1 BPI 2020,A35 P1 BPI 2020,Representation
+247,Compare cycle time,Compare cycle time,2021-11-19 20:53:30.796194,P1,2020,A35 P1 BPI 2020,A35 P1 BPI 2020,Analyze Cycle Time
+248,Group traces,Group traces by year,2021-11-19 21:53:30.796194,P1,2020,A35 P1 BPI 2020,A35 P1 BPI 2020,Manipulation
+249,Calculate percentages,Calculate percentage of traces,2021-11-19 22:53:30.796194,P1,2020,A35 P1 BPI 2020,A35 P1 BPI 2020,Calculate statistics
+250,Calculate cycle time,Calculate cycle time of a fragment of the process for all traces,2021-11-19 23:53:30.796194,P1,2020,A37 P1 BPI 2020,A37 P1 BPI 2020,Analyze Cycle Time
+251,Calculate cycle time,Calculate cycle time of a fragment of the process for a subset of traces,2021-11-20 00:53:30.796194,P1,2020,A37 P1 BPI 2020,A37 P1 BPI 2020,Analyze Cycle Time
+252,Calculate number of elements,Calculate number of traces,2021-11-20 01:53:30.796194,P1,2020,A37 P1 BPI 2020,A37 P1 BPI 2020,Calculate statistics
+253,Calculate number of elements,Calculate number of events,2021-11-20 02:53:30.796194,P1,2020,A37 P1 BPI 2020,A37 P1 BPI 2020,Calculate statistics
+254,Calculate number of elements,Calculate number of variants,2021-11-20 03:53:30.796194,P1,2020,A37 P1 BPI 2020,A37 P1 BPI 2020,Calculate statistics
+255,Calculate cycle time,Calculate cycle time of the whole process for all traces,2021-11-20 04:53:30.796194,P1,2017,A1 P1 BPI 2017,A1 P1 BPI 2017,Analyze Cycle Time
+256,Calculate cycle time,Calculate cycle time of a fragment of the process for all traces,2021-11-20 05:53:30.796194,P1,2017,A1 P1 BPI 2017,A1 P1 BPI 2017,Analyze Cycle Time
+257,Filter events,Filter events by attributes,2021-11-20 06:53:30.796194,P1,2017,A1 P1 BPI 2017,A1 P1 BPI 2017,Manipulation
+258,Calculate cycle time,Calculate cycle time of only a subset of pairs of events for all traces,2021-11-20 07:53:30.796194,P1,2017,A1 P1 BPI 2017,A1 P1 BPI 2017,Analyze Cycle Time
+259,Calculate frequency,Calculate frequency of events,2021-11-20 08:53:30.796194,P1,2017,A1 P1 BPI 2017,A1 P1 BPI 2017,Calculate statistics
+260,Filter events,Filter events by activities,2021-11-20 09:53:30.796194,P1,2017,A1 P1 BPI 2017,A1 P1 BPI 2017,Manipulation
+261,Calculate cycle time,Calculate cycle time of only a subset of pairs of events for all traces,2021-11-20 10:53:30.796194,P1,2017,A1 P1 BPI 2017,A1 P1 BPI 2017,Analyze Cycle Time
+262,Calculate frequency,Calculate frequency of events,2021-11-20 11:53:30.796194,P1,2017,A1 P1 BPI 2017,A1 P1 BPI 2017,Calculate statistics
+263,Represent histograms,Represent histograms of cycle time,2021-11-20 12:53:30.796194,P1,2017,A1 P1 BPI 2017,A1 P1 BPI 2017,Representation
+264,Identify bottlenecks,Identify sub-processes as bottlenecks applying temporal performance criteria,2021-11-20 13:53:30.796194,P1,2017,A1 P1 BPI 2017,A1 P1 BPI 2017,Analyze Cycle Time
+265,Calculate percentages,Calculate percentage of traces,2021-11-20 14:53:30.796194,P1,2017,A1 P1 BPI 2017,A1 P1 BPI 2017,Calculate statistics
+266,Calculate cycle time,Calculate cycle time of a fragment of the process for a subset of traces,2021-11-20 15:53:30.796194,P1,2017,A1 P1 BPI 2017,A1 P1 BPI 2017,Analyze Cycle Time
+267,Filter traces,Filter traces by activities,2021-11-20 16:53:30.796194,P1,2017,A2 P1 BPI 2017,A2 P1 BPI 2017,Manipulation
+268,Calculate waiting time,Calculate waiting time,2021-11-20 17:53:30.796194,P1,2017,A2 P1 BPI 2017,A2 P1 BPI 2017,Analyze Cycle Time
+269,Filter traces,Filter traces by activities,2021-11-20 18:53:30.796194,P1,2017,A2 P1 BPI 2017,A2 P1 BPI 2017,Manipulation
+270,Calculate waiting time,Calculate waiting time,2021-11-20 19:53:30.796194,P1,2017,A2 P1 BPI 2017,A2 P1 BPI 2017,Analyze Cycle Time
+271,Filter events,Filter events by activities,2021-11-20 20:53:30.796194,P1,2017,A5 P1 BPI 2017,A5 P1 BPI 2017,Manipulation
+272,Calculate cycle time,Calculate cycle time of a fragment of the process for a subset of traces,2021-11-20 21:53:30.796194,P1,2017,A5 P1 BPI 2017,A5 P1 BPI 2017,Analyze Cycle Time
+273,Calculate processing time,Calculate processing time,2021-11-20 22:53:30.796194,P1,2017,A5 P1 BPI 2017,A5 P1 BPI 2017,Analyze Cycle Time
+274,Calculate waiting time,Calculate waiting time,2021-11-20 23:53:30.796194,P1,2017,A5 P1 BPI 2017,A5 P1 BPI 2017,Analyze Cycle Time
+275,Represent process map,Represent process map with cycle time,2021-11-21 00:53:30.796194,P1,2017,A5 P1 BPI 2017,A5 P1 BPI 2017,Representation
+276,Filter events,Filter events by activities,2021-11-21 01:53:30.796194,P1,2017,A5 P1 BPI 2017,A5 P1 BPI 2017,Manipulation
+277,Calculate cycle time,Calculate cycle time of a fragment of the process for a subset of traces,2021-11-21 02:53:30.796194,P1,2017,A5 P1 BPI 2017,A5 P1 BPI 2017,Analyze Cycle Time
+278,Calculate processing time,Calculate processing time,2021-11-21 03:53:30.796194,P1,2017,A5 P1 BPI 2017,A5 P1 BPI 2017,Analyze Cycle Time
+279,Calculate waiting time,Calculate waiting time,2021-11-21 04:53:30.796194,P1,2017,A5 P1 BPI 2017,A5 P1 BPI 2017,Analyze Cycle Time
+280,Represent process map,Represent process map with cycle time,2021-11-21 05:53:30.796194,P1,2017,A5 P1 BPI 2017,A5 P1 BPI 2017,Representation
+281,Discover process maps,Discover process maps,2021-11-21 06:53:30.796194,P1,2017,A6 P1 BPI 2017,A6 P1 BPI 2017,Others
+282,Represent process map,Represent process map with cycle time,2021-11-21 07:53:30.796194,P1,2017,A6 P1 BPI 2017,A6 P1 BPI 2017,Representation
+283,Calculate waiting time,Calculate waiting time,2021-11-21 08:53:30.796194,P1,2017,A6 P1 BPI 2017,A6 P1 BPI 2017,Analyze Cycle Time
+284,Calculate frequency,Calculate frequency of events,2021-11-21 09:53:30.796194,P1,2017,A6 P1 BPI 2017,A6 P1 BPI 2017,Calculate statistics
+285,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-21 10:53:30.796194,P1,2017,A6 P1 BPI 2017,A6 P1 BPI 2017,Analyze Cycle Time
+286,Calculate frequency,Calculate frequency of activities,2021-11-21 11:53:30.796194,P1,2017,A6 P1 BPI 2017,A6 P1 BPI 2017,Calculate statistics
+287,Calculate number of elements,Calculate number of traces,2021-11-21 12:53:30.796194,P1,2017,A6 P1 BPI 2017,A6 P1 BPI 2017,Calculate statistics
+288,Calculate cycle time,Calculate cycle time of only a subset of pairs of events for all traces,2021-11-21 13:53:30.796194,P1,2017,A6 P1 BPI 2017,A6 P1 BPI 2017,Analyze Cycle Time
+289,Calculate waiting time,Calculate waiting time,2021-11-21 14:53:30.796194,P1,2017,A6 P1 BPI 2017,A6 P1 BPI 2017,Analyze Cycle Time
+290,Calculate processing time,Calculate processing time,2021-11-21 15:53:30.796194,P1,2017,A6 P1 BPI 2017,A6 P1 BPI 2017,Analyze Cycle Time
+291,Represent histograms,Represent histograms of cycle time,2021-11-21 16:53:30.796194,P1,2017,A6 P1 BPI 2017,A6 P1 BPI 2017,Representation
+292,Group traces,Group traces by cycle time,2021-11-21 17:53:30.796194,P1,2017,A6 P1 BPI 2017,A6 P1 BPI 2017,Manipulation
+293,Calculate number of elements,Calculate number of traces,2021-11-21 18:53:30.796194,P1,2017,A6 P1 BPI 2017,A6 P1 BPI 2017,Calculate statistics
+294,Calculate percentages,Calculate percentage of traces,2021-11-21 19:53:30.796194,P1,2017,A6 P1 BPI 2017,A6 P1 BPI 2017,Calculate statistics
+295,Filter traces,Filter traces by activities,2021-11-21 20:53:30.796194,P1,2017,A6 P1 BPI 2017,A6 P1 BPI 2017,Manipulation
+296,Calculate number of elements,Calculate number of activities,2021-11-21 21:53:30.796194,P1,2017,A7 P1 BPI 2017,A7 P1 BPI 2017,Calculate statistics
+297,Calculate waiting time,Calculate waiting time,2021-11-21 22:53:30.796194,P1,2017,A7 P1 BPI 2017,A7 P1 BPI 2017,Analyze Cycle Time
+298,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-21 23:53:30.796194,P1,2017,A7 P1 BPI 2017,A7 P1 BPI 2017,Analyze Cycle Time
+299,Identify roles,Identify role associated with bottlenecks,2021-11-22 00:53:30.796194,P1,2017,A7 P1 BPI 2017,A7 P1 BPI 2017,Identification
+300,Group traces,Group traces by waiting,2021-11-22 01:53:30.796194,P1,2017,A7 P1 BPI 2017,A7 P1 BPI 2017,Manipulation
+301,Calculate percentages,Calculate percentage of events,2021-11-22 02:53:30.796194,P1,2017,A7 P1 BPI 2017,A7 P1 BPI 2017,Calculate statistics
+302,Calculate waiting time,Calculate waiting time,2021-11-22 03:53:30.796194,P1,2017,A7 P1 BPI 2017,A7 P1 BPI 2017,Analyze Cycle Time
+303,Identify resources,Identify resources by activities,2021-11-22 04:53:30.796194,P1,2017,A7 P1 BPI 2017,A7 P1 BPI 2017,Identification
+304,Calculate frequency,Calculate frequency of resources,2021-11-22 05:53:30.796194,P1,2017,A7 P1 BPI 2017,A7 P1 BPI 2017,Calculate statistics
+305,Calculate waiting time,Calculate waiting time,2021-11-22 06:53:30.796194,P1,2017,A7 P1 BPI 2017,A7 P1 BPI 2017,Analyze Cycle Time
+306,Filter traces,Filter traces by activities,2021-11-22 07:53:30.796194,P1,2017,A8 P1 BPI 2017,A8 P1 BPI 2017,Manipulation
+307,Calculate waiting time,Calculate waiting time,2021-11-22 08:53:30.796194,P1,2017,A8 P1 BPI 2017,A8 P1 BPI 2017,Analyze Cycle Time
+308,Represent bar charts,Represent bar charts of waiting time,2021-11-22 09:53:30.796194,P1,2017,A8 P1 BPI 2017,A8 P1 BPI 2017,Representation
+309,Calculate waiting time,Calculate waiting time,2021-11-22 10:53:30.796194,P1,2017,A8 P1 BPI 2017,A8 P1 BPI 2017,Analyze Cycle Time
+310,Represent bar charts,Represent bar charts of waiting time,2021-11-22 11:53:30.796194,P1,2017,A8 P1 BPI 2017,A8 P1 BPI 2017,Representation
+311,Calculate waiting time,Calculate waiting time,2021-11-22 12:53:30.796194,P1,2017,A8 P1 BPI 2017,A8 P1 BPI 2017,Analyze Cycle Time
+312,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-22 13:53:30.796194,P1,2017,A8 P1 BPI 2017,A8 P1 BPI 2017,Analyze Cycle Time
+313,Calculate processing time,Calculate processing time,2021-11-22 14:53:30.796194,P1,2017,A9 P1 BPI 2017,A9 P1 BPI 2017,Analyze Cycle Time
+314,Calculate waiting time,Calculate waiting time,2021-11-22 15:53:30.796194,P1,2017,A9 P1 BPI 2017,A9 P1 BPI 2017,Analyze Cycle Time
+315,Compare waiting time with processing time,Compare waiting time with processing time,2021-11-22 16:53:30.796194,P1,2017,A9 P1 BPI 2017,A9 P1 BPI 2017,Analyze Cycle Time
+316,Calculate waiting time,Calculate waiting time,2021-11-22 17:53:30.796194,P1,2017,A9 P1 BPI 2017,A9 P1 BPI 2017,Analyze Cycle Time
+317,Group activities,Group activities by role,2021-11-22 18:53:30.796194,P1,2017,A9 P1 BPI 2017,A9 P1 BPI 2017,Manipulation
+318,Calculate waiting time,Calculate waiting time,2021-11-22 19:53:30.796194,P1,2017,A9 P1 BPI 2017,A9 P1 BPI 2017,Analyze Cycle Time
+319,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-22 20:53:30.796194,P1,2017,A9 P1 BPI 2017,A9 P1 BPI 2017,Analyze Cycle Time
+320,Represent histograms,Represent histograms of waiting time,2021-11-22 21:53:30.796194,P1,2017,A9 P1 BPI 2017,A9 P1 BPI 2017,Representation
+321,Identify roles,Identify role associated with bottlenecks,2021-11-22 22:53:30.796194,P1,2017,A9 P1 BPI 2017,A9 P1 BPI 2017,Identification
+322,Filter traces,Filter traces by attributes,2021-11-22 23:53:30.796194,P1,2017,A10 P1 BPI 2017,A10 P1 BPI 2017,Manipulation
+323,Represent process map,Represent process map with cycle time,2021-11-23 00:53:30.796194,P1,2017,A10 P1 BPI 2017,A10 P1 BPI 2017,Representation
+324,Calculate cycle time,Calculate cycle time for all pairs of events for a subset of traces,2021-11-23 01:53:30.796194,P1,2017,A10 P1 BPI 2017,A10 P1 BPI 2017,Analyze Cycle Time
+325,Calculate waiting time,Calculate waiting time,2021-11-23 02:53:30.796194,P1,2017,A10 P1 BPI 2017,A10 P1 BPI 2017,Analyze Cycle Time
+326,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-23 03:53:30.796194,P1,2017,A10 P1 BPI 2017,A10 P1 BPI 2017,Analyze Cycle Time
+327,Identify roles,Identify role associated with bottlenecks,2021-11-23 04:53:30.796194,P1,2017,A10 P1 BPI 2017,A10 P1 BPI 2017,Identification
+328,Group traces,Group traces by activities,2021-11-23 05:53:30.796194,P1,2017,A11 P1 BPI 2017,A11 P1 BPI 2017,Manipulation
+329,Calculate number of elements,Calculate number of events,2021-11-23 06:53:30.796194,P1,2017,A11 P1 BPI 2017,A11 P1 BPI 2017,Calculate statistics
+330,Calculate number of elements,Calculate number of traces,2021-11-23 07:53:30.796194,P1,2017,A11 P1 BPI 2017,A11 P1 BPI 2017,Calculate statistics
+331,Calculate number of elements,Calculate number of activities,2021-11-23 08:53:30.796194,P1,2017,A11 P1 BPI 2017,A11 P1 BPI 2017,Calculate statistics
+332,Calculate cycle time,Calculate cycle time of the whole process for each subset of traces,2021-11-23 09:53:30.796194,P1,2017,A11 P1 BPI 2017,A11 P1 BPI 2017,Analyze Cycle Time
+333,Represent process map,Represent process map with cycle time,2021-11-23 10:53:30.796194,P1,2017,A11 P1 BPI 2017,A11 P1 BPI 2017,Representation
+334,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-23 11:53:30.796194,P1,2017,A11 P1 BPI 2017,A11 P1 BPI 2017,Analyze Cycle Time
+335,Calculate waiting time,Calculate waiting time,2021-11-23 12:53:30.796194,P1,2017,A11 P1 BPI 2017,A11 P1 BPI 2017,Analyze Cycle Time
+336,Filter traces,Filter traces by cycle time,2021-11-23 13:53:30.796194,P1,2017,A11 P1 BPI 2017,A11 P1 BPI 2017,Manipulation
+337,Represent histograms,Represent histograms of cycle time,2021-11-23 14:53:30.796194,P1,2017,A11 P1 BPI 2017,A11 P1 BPI 2017,Representation
+338,Calculate waiting time,Calculate waiting time,2021-11-23 15:53:30.796194,P1,2017,A11 P1 BPI 2017,A11 P1 BPI 2017,Analyze Cycle Time
+339,Represent process map,Represent process map with frequency,2021-11-23 16:53:30.796194,P1,2017,A13 P1 BPI 2017,A13 P1 BPI 2017,Representation
+340,Represent histograms,Represent histograms of waiting time,2021-11-23 17:53:30.796194,P1,2017,A13 P1 BPI 2017,A13 P1 BPI 2017,Representation
+341,Calculate waiting time,Calculate waiting time,2021-11-23 18:53:30.796194,P1,2017,A13 P1 BPI 2017,A13 P1 BPI 2017,Analyze Cycle Time
+342,Identify bottlenecks,Identify sub-processes as bottlenecks applying temporal performance criteria,2021-11-23 19:53:30.796194,P1,2017,A13 P1 BPI 2017,A13 P1 BPI 2017,Analyze Cycle Time
+343,Filter traces,Filter traces by activities,2021-11-23 20:53:30.796194,P1,2017,A13 P1 BPI 2017,A13 P1 BPI 2017,Manipulation
+344,Calculate number of elements,Calculate number of traces,2021-11-23 21:53:30.796194,P1,2017,A13 P1 BPI 2017,A13 P1 BPI 2017,Calculate statistics
+345,Represent process map,Represent process map with frequency,2021-11-23 22:53:30.796194,P1,2017,A13 P1 BPI 2017,A13 P1 BPI 2017,Representation
+346,Preprocess the traces of the logs,Preprocess the traces of the logs,2021-11-23 23:53:30.796194,P1,2017,A14 P1 BPI 2017,A14 P1 BPI 2017,Manipulation
+347,Group traces,Group traces by activities,2021-11-24 00:53:30.796194,P1,2017,A14 P1 BPI 2017,A14 P1 BPI 2017,Manipulation
+348,Calculate percentages,Calculate percentage of traces,2021-11-24 01:53:30.796194,P1,2017,A14 P1 BPI 2017,A14 P1 BPI 2017,Calculate statistics
+349,Calculate cycle time,Calculate cycle time of the whole process for all traces,2021-11-24 02:53:30.796194,P1,2017,A14 P1 BPI 2017,A14 P1 BPI 2017,Analyze Cycle Time
+350,Calculate cycle time,Calculate cycle time for all pairs of events for each subset of traces,2021-11-24 03:53:30.796194,P1,2017,A14 P1 BPI 2017,A14 P1 BPI 2017,Analyze Cycle Time
+351,Identify bottlenecks,Identify sub-processes as bottlenecks applying temporal performance criteria,2021-11-24 04:53:30.796194,P1,2017,A14 P1 BPI 2017,A14 P1 BPI 2017,Analyze Cycle Time
+352,Group traces,Group traces depending on attributes,2021-11-24 05:53:30.796194,P1,2017,A14 P1 BPI 2017,A14 P1 BPI 2017,Manipulation
+353,Calculate percentages,Calculate percentage of traces,2021-11-24 06:53:30.796194,P1,2017,A14 P1 BPI 2017,A14 P1 BPI 2017,Calculate statistics
+354,Calculate cycle time,Calculate cycle time for all pairs of events for each subset of traces,2021-11-24 07:53:30.796194,P1,2017,A14 P1 BPI 2017,A14 P1 BPI 2017,Analyze Cycle Time
+355,Represent process map,Represent process map with cycle time,2021-11-24 08:53:30.796194,P1,2017,A15 P1 BPI 2017,A15 P1 BPI 2017,Representation
+356,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-24 09:53:30.796194,P1,2017,A15 P1 BPI 2017,A15 P1 BPI 2017,Analyze Cycle Time
+357,Identify roles,Identify role associated with bottlenecks,2021-11-24 10:53:30.796194,P1,2017,A15 P1 BPI 2017,A15 P1 BPI 2017,Identification
+358,Represent histograms,Represent histograms of cycle time,2021-11-24 11:53:30.796194,P1,2017,A15 P1 BPI 2017,A15 P1 BPI 2017,Representation
+359,Calculate cycle time,Calculate cycle time of the whole process for all traces,2021-11-24 12:53:30.796194,P1,2017,A15 P1 BPI 2017,A15 P1 BPI 2017,Analyze Cycle Time
+360,Represent process map,Represent process map with cycle time,2021-11-24 13:53:30.796194,P1,2017,A16 P1 BPI 2017,A16 P1 BPI 2017,Representation
+361,Calculate waiting time,Calculate waiting time,2021-11-24 14:53:30.796194,P1,2017,A16 P1 BPI 2017,A16 P1 BPI 2017,Analyze Cycle Time
+362,Group traces,Group traces by activities,2021-11-24 15:53:30.796194,P1,2017,A16 P1 BPI 2017,A16 P1 BPI 2017,Manipulation
+363,Calculate number of elements,Calculate number of traces,2021-11-24 16:53:30.796194,P1,2017,A16 P1 BPI 2017,A16 P1 BPI 2017,Calculate statistics
+364,Calculate waiting time,Calculate waiting time,2021-11-24 17:53:30.796194,P1,2017,A16 P1 BPI 2017,A16 P1 BPI 2017,Analyze Cycle Time
+365,Group traces,Group traces by activities,2021-11-24 18:53:30.796194,P1,2017,A16 P1 BPI 2017,A16 P1 BPI 2017,Manipulation
+366,Calculate number of elements,Calculate number of traces,2021-11-24 19:53:30.796194,P1,2017,A16 P1 BPI 2017,A16 P1 BPI 2017,Calculate statistics
+367,Calculate cycle time,Calculate cycle time of a fragment of the process for each subset of traces,2021-11-24 20:53:30.796194,P1,2017,A16 P1 BPI 2017,A16 P1 BPI 2017,Analyze Cycle Time
+368,Calculate cycle time,Calculate cycle time of the whole process for all traces,2021-11-24 21:53:30.796194,P1,2017,A17 P1 BPI 2017,A17 P1 BPI 2017,Analyze Cycle Time
+369,Calculate cycle time,Calculate cycle time of a fragment of the process for each subset of traces,2021-11-24 22:53:30.796194,P1,2017,A17 P1 BPI 2017,A17 P1 BPI 2017,Analyze Cycle Time
+370,Filter traces,Filter traces by attributes,2021-11-24 23:53:30.796194,P1,2017,A17 P1 BPI 2017,A17 P1 BPI 2017,Manipulation
+371,Calculate cycle time,Calculate cycle time of the whole process for a subset of traces,2021-11-25 00:53:30.796194,P1,2017,A17 P1 BPI 2017,A17 P1 BPI 2017,Analyze Cycle Time
+372,Represent process map,Represent process map with cycle time,2021-11-25 01:53:30.796194,P1,2017,A17 P1 BPI 2017,A17 P1 BPI 2017,Representation
+373,Identify bottlenecks,Identify sub-processes as bottlenecks applying temporal performance criteria,2021-11-25 02:53:30.796194,P1,2017,A17 P1 BPI 2017,A17 P1 BPI 2017,Analyze Cycle Time
+374,Identify roles,Identify role associated with bottlenecks,2021-11-25 03:53:30.796194,P1,2017,A17 P1 BPI 2017,A17 P1 BPI 2017,Identification
+375,Calculate processing time,Calculate processing time,2021-11-25 04:53:30.796194,P1,2017,A17 P1 BPI 2017,A17 P1 BPI 2017,Analyze Cycle Time
+376,Calculate waiting time,Calculate waiting time,2021-11-25 05:53:30.796194,P1,2017,A17 P1 BPI 2017,A17 P1 BPI 2017,Analyze Cycle Time
+377,Compare waiting time with processing time,Compare waiting time with processing time,2021-11-25 06:53:30.796194,P1,2017,A17 P1 BPI 2017,A17 P1 BPI 2017,Analyze Cycle Time
+378,Calculate waiting time,Calculate waiting time,2021-11-25 07:53:30.796194,P1,2017,A21 P1 BPI 2017,A21 P1 BPI 2017,Analyze Cycle Time
+379,Calculate processing time,Calculate processing time,2021-11-25 08:53:30.796194,P1,2017,A21 P1 BPI 2017,A21 P1 BPI 2017,Analyze Cycle Time
+380,Calculate cycle time,Calculate cycle time of the whole process for all traces,2021-11-25 09:53:30.796194,P1,2017,A21 P1 BPI 2017,A21 P1 BPI 2017,Analyze Cycle Time
+381,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-25 10:53:30.796194,P1,2017,A21 P1 BPI 2017,A21 P1 BPI 2017,Analyze Cycle Time
+382,Calculate waiting time,Calculate waiting time,2021-11-25 11:53:30.796194,P1,2017,A22 P1 BPI 2017,A22 P1 BPI 2017,Analyze Cycle Time
+383,Assign resource to each activity,Assign resource to each activity,2021-11-25 12:53:30.796194,P1,2017,A22 P1 BPI 2017,A22 P1 BPI 2017,Others
+384,Calculate frequency,Calculate frequency of activities,2021-11-25 13:53:30.796194,P1,2017,A22 P1 BPI 2017,A22 P1 BPI 2017,Calculate statistics
+385,Calculate frequency,Calculate frequency of activities,2021-11-25 14:53:30.796194,P1,2017,A22 P1 BPI 2017,A22 P1 BPI 2017,Calculate statistics
+386,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-25 15:53:30.796194,P1,2017,A22 P1 BPI 2017,A22 P1 BPI 2017,Analyze Cycle Time
+387,Group activities,Group activities using clustering,2021-11-25 16:53:30.796194,P1,2017,A23 P1 BPI 2017,A23 P1 BPI 2017,Manipulation
+388,Represent heatmaps,Represent heatmaps,2021-11-25 17:53:30.796194,P1,2017,A23 P1 BPI 2017,A23 P1 BPI 2017,Representation
+389,Represent process map,Represent process map with frequency,2021-11-25 18:53:30.796194,P1,2017,A23 P1 BPI 2017,A23 P1 BPI 2017,Representation
+390,Calculate cycle time,Calculate cycle time of only a subset of pairs of events for a subset of traces,2021-11-25 19:53:30.796194,P1,2017,A23 P1 BPI 2017,A23 P1 BPI 2017,Analyze Cycle Time
+391,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-11-25 20:53:30.796194,P1,2017,A23 P1 BPI 2017,A23 P1 BPI 2017,Analyze Cycle Time
+392,Group events by time,Group events by time,2021-11-25 21:53:30.796194,P2,2019,A1 P2 BPI 2019,A1 P2 BPI 2019,Manipulation
+393,Calculate cycle time,Calculate cycle time of only a subset of pairs of events for each subset of traces,2021-11-25 22:53:30.796194,P2,2019,A1 P2 BPI 2019,A1 P2 BPI 2019,Analyze Cycle Time
+394,Represent bar charts,Represent bar charts of cycle time,2021-11-25 23:53:30.796194,P2,2019,A1 P2 BPI 2019,A1 P2 BPI 2019,Representation
+395,Compare cycle time,Compare cycle time,2021-11-26 00:53:30.796194,P2,2019,A1 P2 BPI 2019,A1 P2 BPI 2019,Analyze Cycle Time
+396,Filter traces,Filter traces by activities,2021-11-26 01:53:30.796194,P2,2019,A1 P2 BPI 2019,A1 P2 BPI 2019,Manipulation
+397,Calculate number of elements,Calculate number of traces,2021-11-26 02:53:30.796194,P2,2019,A1 P2 BPI 2019,A1 P2 BPI 2019,Calculate statistics
+398,Calculate throughput,Calculate throughput,2021-11-26 03:53:30.796194,P2,2019,A1 P2 BPI 2019,A1 P2 BPI 2019,Analyze Cycle Time
+399,Calculate frequency,Calculate frequency of attributes,2021-11-26 04:53:30.796194,P2,2019,A1 P2 BPI 2019,A1 P2 BPI 2019,Calculate statistics
+400,Represent circular charts of attributes of the traces,Represent circular charts of attributes of the traces,2021-11-26 05:53:30.796194,P2,2019,A1 P2 BPI 2019,A1 P2 BPI 2019,Representation
+401,Group traces,Group traces depending on attributes,2021-11-26 06:53:30.796194,P2,2019,A3 P2 BPI 2019,A3 P2 BPI 2019,Manipulation
+402,Calculate cycle time,Calculate cycle time for all pairs of events for each subset of traces,2021-11-26 07:53:30.796194,P2,2019,A3 P2 BPI 2019,A3 P2 BPI 2019,Analyze Cycle Time
+403,Calculate percentages,Calculate percentage of events,2021-11-26 08:53:30.796194,P2,2019,A3 P2 BPI 2019,A3 P2 BPI 2019,Calculate statistics
+404,Represent circular charts of attributes of the traces,Represent circular charts of attributes of the traces,2021-11-26 09:53:30.796194,P2,2019,A3 P2 BPI 2019,A3 P2 BPI 2019,Representation
+405,Identify bottlenecks,Identify sub-processes as bottlenecks applying temporal performance criteria,2021-11-26 10:53:30.796194,P2,2019,A3 P2 BPI 2019,A3 P2 BPI 2019,Analyze Cycle Time
+406,Apply machine learning techniques,Apply machine learning techniques,2021-11-26 11:53:30.796194,P2,2019,A3 P2 BPI 2019,A3 P2 BPI 2019,Others
+407,Represent histograms,Represent histograms of cycle time,2021-11-26 12:53:30.796194,P2,2019,A3 P2 BPI 2019,A3 P2 BPI 2019,Representation
+408,Preprocess the events of the logs,Preprocess the events of the logs,2021-11-26 13:53:30.796194,P2,2019,A4 P2 BPI 2019,A4 P2 BPI 2019,Manipulation
+409,Calculate cycle time,Calculate cycle time of only a subset of pairs of events for a subset of traces,2021-11-26 14:53:30.796194,P2,2019,A4 P2 BPI 2019,A4 P2 BPI 2019,Analyze Cycle Time
+410,Filter traces,Filter traces by activities,2021-11-26 15:53:30.796194,P2,2019,A4 P2 BPI 2019,A4 P2 BPI 2019,Manipulation
+411,Filter traces,Filter traces depending on the order of activities,2021-11-26 16:53:30.796194,P2,2019,A4 P2 BPI 2019,A4 P2 BPI 2019,Manipulation
+412,Filter traces,Filter traces by attributes,2021-11-26 17:53:30.796194,P2,2019,A4 P2 BPI 2019,A4 P2 BPI 2019,Manipulation
+413,Group traces,Group traces by activities,2021-11-26 18:53:30.796194,P2,2019,A4 P2 BPI 2019,A4 P2 BPI 2019,Manipulation
+414,Calculate cycle time,Calculate cycle time of only a subset of pairs of events for each subset of traces,2021-11-26 19:53:30.796194,P2,2019,A4 P2 BPI 2019,A4 P2 BPI 2019,Analyze Cycle Time
+415,Filter traces,Filter traces by attributes,2021-11-26 20:53:30.796194,P2,2019,A4 P2 BPI 2019,A4 P2 BPI 2019,Manipulation
+416,Calculate cycle time,Calculate cycle time of only a subset of pairs of events for a subset of traces,2021-11-26 21:53:30.796194,P2,2019,A4 P2 BPI 2019,A4 P2 BPI 2019,Analyze Cycle Time
+417,Filter traces,Filter traces by attributes,2021-11-26 22:53:30.796194,P2,2019,A4 P2 BPI 2019,A4 P2 BPI 2019,Manipulation
+418,Represent bar charts,Represent bar charts of cycle time,2021-11-26 23:53:30.796194,P2,2019,A4 P2 BPI 2019,A4 P2 BPI 2019,Representation
+419,Filter traces,Filter traces by activities,2021-11-27 00:53:30.796194,P2,2019,A5 P2 BPI 2019,A5 P2 BPI 2019,Manipulation
+420,Calculate percentages,Calculate percentage of traces,2021-11-27 01:53:30.796194,P2,2019,A5 P2 BPI 2019,A5 P2 BPI 2019,Calculate statistics
+421,Calculate cycle time,Calculate cycle time of the whole process for a subset of traces,2021-11-27 02:53:30.796194,P2,2019,A5 P2 BPI 2019,A5 P2 BPI 2019,Analyze Cycle Time
+422,Represent histograms,Represent histograms of cycle time,2021-11-27 03:53:30.796194,P2,2019,A5 P2 BPI 2019,A5 P2 BPI 2019,Representation
+423,Discover happy path of the process,Discover happy path of the process,2021-11-27 04:53:30.796194,P2,2019,A5 P2 BPI 2019,A5 P2 BPI 2019,Others
+424,Calculate cycle time,Calculate cycle time of a fragment of the process for a subset of traces,2021-11-27 05:53:30.796194,P2,2019,A5 P2 BPI 2019,A5 P2 BPI 2019,Analyze Cycle Time
+425,Calculate percentages,Calculate percentage of traces,2021-11-27 06:53:30.796194,P2,2019,A5 P2 BPI 2019,A5 P2 BPI 2019,Calculate statistics
+426,Identify bottlenecks,Identify sub-processes as bottlenecks applying temporal performance criteria,2021-11-27 07:53:30.796194,P2,2019,A5 P2 BPI 2019,A5 P2 BPI 2019,Analyze Cycle Time
+427,Represent bar charts,Represent bar charts of attributes,2021-11-27 08:53:30.796194,P2,2019,A5 P2 BPI 2019,A5 P2 BPI 2019,Representation
+428,Identify resources,Identify resource associated with bottlenecks,2021-11-27 09:53:30.796194,P2,2019,A5 P2 BPI 2019,A5 P2 BPI 2019,Identification
+429,Represent bar charts,Represent bar charts of attributes,2021-11-27 10:53:30.796194,P2,2019,A5 P2 BPI 2019,A5 P2 BPI 2019,Representation
+430,Identify attributes,Identify values of attributes,2021-11-27 11:53:30.796194,P2,2019,A5 P2 BPI 2019,A5 P2 BPI 2019,Identification
+431,Calculate cycle time,Calculate cycle time of the whole process for each subset of traces,2021-11-27 12:53:30.796194,P2,2019,A5 P2 BPI 2019,A5 P2 BPI 2019,Analyze Cycle Time
+432,Represent bar charts,Represent bar charts of cycle time,2021-11-27 13:53:30.796194,P2,2019,A5 P2 BPI 2019,A5 P2 BPI 2019,Representation
+433,Identify resources,Identify resources by cycle time,2021-11-27 14:53:30.796194,P2,2019,A5 P2 BPI 2019,A5 P2 BPI 2019,Identification
+434,Represent bar charts,Represent bar charts of attributes,2021-11-27 15:53:30.796194,P2,2019,A5 P2 BPI 2019,A5 P2 BPI 2019,Representation
+435,Identify resources,Identify resources by activities,2021-11-27 16:53:30.796194,P2,2019,A5 P2 BPI 2019,A5 P2 BPI 2019,Identification
+436,Represent bar charts,Represent bar charts of attributes,2021-11-27 17:53:30.796194,P2,2019,A5 P2 BPI 2019,A5 P2 BPI 2019,Representation
+437,Identify attributes,Identify values of attributes,2021-11-27 18:53:30.796194,P2,2019,A5 P2 BPI 2019,A5 P2 BPI 2019,Identification
+438,Preprocess the traces of the logs,Preprocess the traces of the logs,2021-11-27 19:53:30.796194,P2,2019,A10 P2 BPI 2019,A10 P2 BPI 2019,Manipulation
+439,Calculate cycle time,Calculate cycle time for all pairs of events for a subset of traces,2021-11-27 20:53:30.796194,P2,2019,A10 P2 BPI 2019,A10 P2 BPI 2019,Analyze Cycle Time
+440,Calculate cycle time,Calculate cycle time of only a subset of pairs of events for a subset of traces,2021-11-27 21:53:30.796194,P2,2019,A10 P2 BPI 2019,A10 P2 BPI 2019,Analyze Cycle Time
+441,Calculate percentages,Calculate percentage of traces,2021-11-27 22:53:30.796194,P2,2019,A10 P2 BPI 2019,A10 P2 BPI 2019,Calculate statistics
+442,Identify attributes,Identify values of attributes,2021-11-27 23:53:30.796194,P2,2019,A10 P2 BPI 2019,A10 P2 BPI 2019,Identification
+443,Filter traces,Filter traces by activities,2021-11-28 00:53:30.796194,P2,2019,A11 P2 BPI 2019,A11 P2 BPI 2019,Manipulation
+444,Filter traces,Filter traces by attributes,2021-11-28 01:53:30.796194,P2,2019,A11 P2 BPI 2019,A11 P2 BPI 2019,Manipulation
+445,Calculate number of elements,Calculate number of events,2021-11-28 02:53:30.796194,P2,2019,A11 P2 BPI 2019,A11 P2 BPI 2019,Calculate statistics
+446,Calculate percentages,Calculate percentage of events,2021-11-28 03:53:30.796194,P2,2019,A11 P2 BPI 2019,A11 P2 BPI 2019,Calculate statistics
+447,Represent circular charts of attributes of the traces,Represent circular charts of attributes of the traces,2021-11-28 04:53:30.796194,P2,2019,A11 P2 BPI 2019,A11 P2 BPI 2019,Representation
+448,Calculate dates of the development of activities of resources,Calculate dates of the development of activities of resources,2021-11-28 05:53:30.796194,P2,2019,A11 P2 BPI 2019,A11 P2 BPI 2019,Others
+449,Calculate number of elements,Calculate number of events,2021-11-28 06:53:30.796194,P2,2019,A11 P2 BPI 2019,A11 P2 BPI 2019,Calculate statistics
+450,Calculate cycle time,Calculate cycle time of the whole process for each subset of traces,2021-11-28 07:53:30.796194,P2,2019,A11 P2 BPI 2019,A11 P2 BPI 2019,Analyze Cycle Time
+451,Calculate average of activities per trace,Calculate average of activities per trace,2021-11-28 08:53:30.796194,P2,2019,A11 P2 BPI 2019,A11 P2 BPI 2019,Calculate statistics
+452,Calculate percentages,Calculate percentage of events,2021-11-28 09:53:30.796194,P2,2019,A11 P2 BPI 2019,A11 P2 BPI 2019,Calculate statistics
+453,Identify attributes,Identify values of attributes,2021-11-28 10:53:30.796194,P2,2019,A11 P2 BPI 2019,A11 P2 BPI 2019,Identification
+454,Represent bar charts,Represent bar charts of attributes,2021-11-28 11:53:30.796194,P2,2019,A11 P2 BPI 2019,A11 P2 BPI 2019,Representation
+455,Represent process map,Represent process map with frequency,2021-11-28 12:53:30.796194,P2,2019,A11 P2 BPI 2019,A11 P2 BPI 2019,Representation
+456,Represent process map,Represent process map with cycle time,2021-11-28 13:53:30.796194,P2,2019,A11 P2 BPI 2019,A11 P2 BPI 2019,Representation
+457,Represent bar charts,Represent bar charts of cycle time,2021-11-28 14:53:30.796194,P2,2019,A11 P2 BPI 2019,A11 P2 BPI 2019,Representation
+458,Group traces,Group traces by activities,2021-11-28 15:53:30.796194,P2,2019,A11 P2 BPI 2019,A11 P2 BPI 2019,Manipulation
+459,Represent bar charts,Represent bar charts of cycle time,2021-11-28 16:53:30.796194,P2,2019,A11 P2 BPI 2019,A11 P2 BPI 2019,Representation
+460,Group traces,Group traces depending on attributes,2021-11-28 17:53:30.796194,P2,2019,A13 P2 BPI 2019,A13 P2 BPI 2019,Manipulation
+461,Group traces,Group traces depending on attributes,2021-11-28 18:53:30.796194,P2,2019,A13 P2 BPI 2019,A13 P2 BPI 2019,Manipulation
+462,Calculate number of elements,Calculate number of events,2021-11-28 19:53:30.796194,P2,2019,A13 P2 BPI 2019,A13 P2 BPI 2019,Calculate statistics
+463,Filter traces,Filter traces by activities,2021-11-28 20:53:30.796194,P2,2019,A13 P2 BPI 2019,A13 P2 BPI 2019,Manipulation
+464,Calculate cycle time,Calculate cycle time of only a subset of pairs of events for each subset of traces,2021-11-28 21:53:30.796194,P2,2019,A13 P2 BPI 2019,A13 P2 BPI 2019,Analyze Cycle Time
+465,Calculate cycle time,Calculate cycle time of only a subset of pairs of events for each subset of traces,2021-11-28 22:53:30.796194,P2,2019,A13 P2 BPI 2019,A13 P2 BPI 2019,Analyze Cycle Time
+466,Calculate cycle time,Calculate cycle time of the whole process for each subset of traces,2021-11-28 23:53:30.796194,P2,2019,A13 P2 BPI 2019,A13 P2 BPI 2019,Analyze Cycle Time
+467,Group traces,Group traces depending on attributes,2021-11-29 00:53:30.796194,P2,2019,A14 P2 BPI 2019,A14 P2 BPI 2019,Manipulation
+468,Calculate number of elements,Calculate number of activities,2021-11-29 01:53:30.796194,P2,2019,A14 P2 BPI 2019,A14 P2 BPI 2019,Calculate statistics
+469,Identify activities,Identify activity with biggest backlog,2021-11-29 02:53:30.796194,P2,2019,A14 P2 BPI 2019,A14 P2 BPI 2019,Identification
+470,Calculate waiting time,Calculate waiting time,2021-11-29 03:53:30.796194,P2,2019,A14 P2 BPI 2019,A14 P2 BPI 2019,Analyze Cycle Time
+471,Calculate cycle time,Calculate cycle time of the whole process for a subset of traces,2021-11-29 04:53:30.796194,P2,2019,A14 P2 BPI 2019,A14 P2 BPI 2019,Analyze Cycle Time
+472,Calculate cycle time,Calculate cycle time of only a subset of pairs of events for a subset of traces,2021-11-29 05:53:30.796194,P2,2019,A14 P2 BPI 2019,A14 P2 BPI 2019,Analyze Cycle Time
+473,Calculate cycle time,Calculate cycle time of only a subset of pairs of events for a subset of traces,2021-11-29 06:53:30.796194,P2,2019,A14 P2 BPI 2019,A14 P2 BPI 2019,Analyze Cycle Time
+474,Represent heatmaps,Represent heatmaps,2021-11-29 07:53:30.796194,P2,2019,A14 P2 BPI 2019,A14 P2 BPI 2019,Representation
+475,Calculate dates of the development of activities of resources,Calculate dates of the development of activities of resources,2021-11-29 08:53:30.796194,P2,2019,A14 P2 BPI 2019,A14 P2 BPI 2019,Others
+476,Filter traces,Filter traces by attributes,2021-11-29 09:53:30.796194,P2,2019,A14 P2 BPI 2019,A14 P2 BPI 2019,Manipulation
+477,Calculate number of elements,Calculate number of traces,2021-11-29 10:53:30.796194,P2,2019,A14 P2 BPI 2019,A14 P2 BPI 2019,Calculate statistics
+478,Calculate statistics,Calculate Statistics of attributes,2021-11-29 11:53:30.796194,P2,2019,A14 P2 BPI 2019,A14 P2 BPI 2019,Calculate statistics
+479,Represent bar charts,Represent bar charts of cycle time,2021-11-29 12:53:30.796194,P2,2019,A14 P2 BPI 2019,A14 P2 BPI 2019,Representation
+480,Represent temporal series,Represent temporal series of subprocesses,2021-11-29 13:53:30.796194,P2,2019,A14 P2 BPI 2019,A14 P2 BPI 2019,Representation
+481,Represent bar charts,Represent bar charts of waiting time,2021-11-29 14:53:30.796194,P2,2019,A14 P2 BPI 2019,A14 P2 BPI 2019,Representation
+482,Calculate statistics,Calculate Statistics of attributes,2021-11-29 15:53:30.796194,P2,2019,A14 P2 BPI 2019,A14 P2 BPI 2019,Calculate statistics
+483,Filter traces,Filter traces by attributes,2021-11-29 16:53:30.796194,P2,2019,A14 P2 BPI 2019,A14 P2 BPI 2019,Manipulation
+484,Group traces,Group traces depending on attributes,2021-11-29 17:53:30.796194,P2,2019,A14 P2 BPI 2019,A14 P2 BPI 2019,Manipulation
+485,Calculate number of elements,Calculate number of variants,2021-11-29 18:53:30.796194,P2,2019,A14 P2 BPI 2019,A14 P2 BPI 2019,Calculate statistics
+486,Calculate number of elements,Calculate number of traces,2021-11-29 19:53:30.796194,P2,2019,A14 P2 BPI 2019,A14 P2 BPI 2019,Calculate statistics
+487,Calculate number of elements,Calculate number of traces,2021-11-29 20:53:30.796194,P2,2019,A14 P2 BPI 2019,A14 P2 BPI 2019,Calculate statistics
+488,Filter traces,Filter traces by frequency,2021-11-29 21:53:30.796194,P2,2019,A14 P2 BPI 2019,A14 P2 BPI 2019,Manipulation
+489,Represent scatterplot,Represent scatterplot,2021-11-29 22:53:30.796194,P2,2019,A14 P2 BPI 2019,A14 P2 BPI 2019,Representation
+490,Calculate number of elements,Calculate number of traces,2021-11-29 23:53:30.796194,P2,2019,A15 P2 BPI 2019,A15 P2 BPI 2019,Calculate statistics
+491,Calculate number of elements,Calculate number of events,2021-11-30 00:53:30.796194,P2,2019,A15 P2 BPI 2019,A15 P2 BPI 2019,Calculate statistics
+492,Calculate number of elements,Calculate number of activities,2021-11-30 01:53:30.796194,P2,2019,A15 P2 BPI 2019,A15 P2 BPI 2019,Calculate statistics
+493,Calculate number of elements,Calculate number of variants,2021-11-30 02:53:30.796194,P2,2019,A15 P2 BPI 2019,A15 P2 BPI 2019,Calculate statistics
+494,Calculate number of elements,Calcute number of values of an attribute,2021-11-30 03:53:30.796194,P2,2019,A15 P2 BPI 2019,A15 P2 BPI 2019,Calculate statistics
+495,Calculate statistics,Calculate Statistics of attributes,2021-11-30 04:53:30.796194,P2,2019,A15 P2 BPI 2019,A15 P2 BPI 2019,Calculate statistics
+496,Filter traces,Filter traces by activities,2021-11-30 05:53:30.796194,P2,2019,A15 P2 BPI 2019,A15 P2 BPI 2019,Manipulation
+497,Calculate percentages,Calculate percentage of traces,2021-11-30 06:53:30.796194,P2,2019,A15 P2 BPI 2019,A15 P2 BPI 2019,Calculate statistics
+498,Filter traces,Filter traces by activities,2021-11-30 07:53:30.796194,P2,2019,A15 P2 BPI 2019,A15 P2 BPI 2019,Manipulation
+499,Calculate percentages,Calculate percentage of traces,2021-11-30 08:53:30.796194,P2,2019,A15 P2 BPI 2019,A15 P2 BPI 2019,Calculate statistics
+500,Filter events,Filter events by activities,2021-11-30 09:53:30.796194,P2,2019,A15 P2 BPI 2019,A15 P2 BPI 2019,Manipulation
+501,Preprocess the events of the logs,Preprocess the events of the logs,2021-11-30 10:53:30.796194,P2,2019,A15 P2 BPI 2019,A15 P2 BPI 2019,Manipulation
+502,Group traces,Group traces according to the repetition of activities,2021-11-30 11:53:30.796194,P2,2019,A15 P2 BPI 2019,A15 P2 BPI 2019,Manipulation
+503,Calculate cycle time,Calculate cycle time of only a subset of pairs of events for each subset of traces,2021-11-30 12:53:30.796194,P2,2019,A15 P2 BPI 2019,A15 P2 BPI 2019,Analyze Cycle Time
+504,Calculate number of elements,Calculate number of traces,2021-11-30 13:53:30.796194,P2,2019,A15 P2 BPI 2019,A15 P2 BPI 2019,Calculate statistics
+505,Calculate statistics,Calculate Statistics of attributes,2021-11-30 14:53:30.796194,P2,2019,A15 P2 BPI 2019,A15 P2 BPI 2019,Calculate statistics
+506,Represent process map,Represent process map with cycle time,2021-11-30 15:53:30.796194,P2,2019,A15 P2 BPI 2019,A15 P2 BPI 2019,Representation
+507,Calculate cycle time,Calculate cycle time of the whole process for all traces,2021-11-30 16:53:30.796194,P5,2015,A6 P5 BPI 2015,A6 P5 BPI 2015,Analyze Cycle Time
+508,Represent histograms,Represent histograms of cycle time,2021-11-30 17:53:30.796194,P5,2015,A6 P5 BPI 2015,A6 P5 BPI 2015,Representation
+509,Calculate statistics,Calculate Statistics of cycle time,2021-11-30 18:53:30.796194,P5,2015,A6 P5 BPI 2015,A6 P5 BPI 2015,Calculate statistics
+510,Compare cycle time,Compare cycle time,2021-11-30 19:53:30.796194,P5,2015,A6 P5 BPI 2015,A6 P5 BPI 2015,Analyze Cycle Time
+511,Identify organizational units,Identify organizational units by cycle time,2021-11-30 20:53:30.796194,P5,2015,A6 P5 BPI 2015,A6 P5 BPI 2015,Identification
+512,Group traces,Group traces depending on attributes,2021-11-30 21:53:30.796194,P5,2015,A6 P5 BPI 2015,A6 P5 BPI 2015,Manipulation
+513,Calculate statistics,Calculate Statistics of cycle time,2021-11-30 22:53:30.796194,P5,2015,A6 P5 BPI 2015,A6 P5 BPI 2015,Calculate statistics
+514,Compare cycle time,Compare cycle time,2021-11-30 23:53:30.796194,P5,2015,A6 P5 BPI 2015,A6 P5 BPI 2015,Analyze Cycle Time
+515,Identify bottlenecks,Identify sub-processes as bottlenecks applying temporal performance criteria,2021-12-01 00:53:30.796194,P5,2015,A6 P5 BPI 2015,A6 P5 BPI 2015,Analyze Cycle Time
+516,Group traces,Group traces by sub-processes,2021-12-01 01:53:30.796194,P5,2015,A6 P5 BPI 2015,A6 P5 BPI 2015,Manipulation
+517,Calculate statistics,Calculate Statistics of cycle time,2021-12-01 02:53:30.796194,P5,2015,A6 P5 BPI 2015,A6 P5 BPI 2015,Calculate statistics
+518,Compare cycle time,Compare cycle time,2021-12-01 03:53:30.796194,P5,2015,A6 P5 BPI 2015,A6 P5 BPI 2015,Analyze Cycle Time
+519,Calculate cycle time,Calculate cycle time of the whole process for all traces,2021-12-01 04:53:30.796194,P1,2017,A12 P1 BPI 2017,A12 P1 BPI 2017,Analyze Cycle Time
+520,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-12-01 05:53:30.796194,P1,2017,A12 P1 BPI 2017,A12 P1 BPI 2017,Analyze Cycle Time
+521,Filter traces,Filter traces by activities,2021-12-01 06:53:30.796194,P1,2017,A12 P1 BPI 2017,A12 P1 BPI 2017,Manipulation
+522,Calculate percentages,Calculate percentage of traces,2021-12-01 07:53:30.796194,P1,2017,A12 P1 BPI 2017,A12 P1 BPI 2017,Calculate statistics
+523,Identify resources,Identify resources by activities,2021-12-01 08:53:30.796194,P1,2017,A12 P1 BPI 2017,A12 P1 BPI 2017,Identification
+524,Identify transitions by cycle time,Identify transitions by cycle time,2021-12-01 09:53:30.796194,P1,2017,A12 P1 BPI 2017,A12 P1 BPI 2017,Identification
+525,Filter traces,Filter traces by activities,2021-12-01 10:53:30.796194,P1,2017,A12 P1 BPI 2017,A12 P1 BPI 2017,Manipulation
+526,Calculate percentages,Calculate percentage of traces,2021-12-01 11:53:30.796194,P1,2017,A12 P1 BPI 2017,A12 P1 BPI 2017,Calculate statistics
+527,Identify resources,Identify resources by activities,2021-12-01 12:53:30.796194,P1,2017,A12 P1 BPI 2017,A12 P1 BPI 2017,Identification
+528,Filter events,Filter events by attributes,2021-12-01 13:53:30.796194,P1,2017,A12 P1 BPI 2017,A12 P1 BPI 2017,Manipulation
+529,Group traces,Group traces by endpoints,2021-12-01 14:53:30.796194,P1,2017,A12 P1 BPI 2017,A12 P1 BPI 2017,Manipulation
+530,Calculate cycle time,Calculate cycle time of the whole process for each subset of traces,2021-12-01 15:53:30.796194,P1,2017,A12 P1 BPI 2017,A12 P1 BPI 2017,Analyze Cycle Time
+531,Calculate number of elements,Calculate number of traces,2021-12-01 16:53:30.796194,P1,2017,A12 P1 BPI 2017,A12 P1 BPI 2017,Calculate statistics
+532,Identify bottlenecks,Identify organizational units as bottlenecks applying temporal performance criteria,2021-12-01 17:53:30.796194,P1,2017,A12 P1 BPI 2017,A12 P1 BPI 2017,Analyze Cycle Time
+533,Group traces,Group traces by cycle time,2021-12-01 18:53:30.796194,P1,2017,A12 P1 BPI 2017,A12 P1 BPI 2017,Manipulation
+534,Calculate number of elements,Calculate number of traces,2021-12-01 19:53:30.796194,P1,2017,A12 P1 BPI 2017,A12 P1 BPI 2017,Calculate statistics
+535,Calculate percentages,Calculate percentage of traces,2021-12-01 20:53:30.796194,P1,2017,A12 P1 BPI 2017,A12 P1 BPI 2017,Calculate statistics
+536,Identify activities,Identify common activities,2021-12-01 21:53:30.796194,P1,2017,A12 P1 BPI 2017,A12 P1 BPI 2017,Identification
+537,Represent process map,Represent process map with cycle time,2021-12-01 22:53:30.796194,P1,2017,A12 P1 BPI 2017,A12 P1 BPI 2017,Representation
+538,Calculate cycle time,Calculate cycle time of only a subset of pairs of events for all traces,2021-12-01 23:53:30.796194,P1,2017,A12 P1 BPI 2017,A12 P1 BPI 2017,Analyze Cycle Time
+539,Calculate frequency,Calculate frequency of sub-processes,2021-12-02 00:53:30.796194,P1,2017,A12 P1 BPI 2017,A12 P1 BPI 2017,Calculate statistics
+540,Identify attributes,Identify values of attributes,2021-12-02 01:53:30.796194,P1,2017,A12 P1 BPI 2017,A12 P1 BPI 2017,Identification
+541,Calculate frequency,Calculate frequency of attributes,2021-12-02 02:53:30.796194,P1,2017,A12 P1 BPI 2017,A12 P1 BPI 2017,Calculate statistics
+542,Calculate percentages,Calculate percentage of traces,2021-12-02 03:53:30.796194,P1,2017,A12 P1 BPI 2017,A12 P1 BPI 2017,Calculate statistics
+543,Represent linear tendency of cycle time,Represent linear tendency of cycle time,2021-12-02 04:53:30.796194,P1,2017,A12 P1 BPI 2017,A12 P1 BPI 2017,Representation
+544,Calculate statistics,Calculate Statistics of attributes,2021-12-02 05:53:30.796194,P1,2017,A12 P1 BPI 2017,A12 P1 BPI 2017,Calculate statistics
+545,Identify resources,Identify resources by cycle time,2021-12-02 06:53:30.796194,P1,2017,A12 P1 BPI 2017,A12 P1 BPI 2017,Identification
+546,Represent process map,Get process map from the previous question,2021-12-02 07:53:30.796194,P1,2017,A19 P1 BPI 2017,A19 P1 BPI 2017,Representation
+547,Identify bottlenecks,Identify sub-processes as bottlenecks applying temporal performance criteria,2021-12-02 08:53:30.796194,P1,2017,A19 P1 BPI 2017,A19 P1 BPI 2017,Analyze Cycle Time
+548,Calculate cycle time,Calculate cycle time of only a subset of pairs of events for all traces,2021-12-02 09:53:30.796194,P1,2017,A19 P1 BPI 2017,A19 P1 BPI 2017,Analyze Cycle Time
+549,Calculate cycle time,Calculate cycle time of a fragment of the process for all traces,2021-12-02 10:53:30.796194,P1,2017,A19 P1 BPI 2017,A19 P1 BPI 2017,Analyze Cycle Time
+550,Filter activities,Filter activities by resource,2021-12-02 11:53:30.796194,P1,2017,A19 P1 BPI 2017,A19 P1 BPI 2017,Manipulation
+551,Calculate waiting time,Calculate waiting time,2021-12-02 12:53:30.796194,P1,2017,A19 P1 BPI 2017,A19 P1 BPI 2017,Analyze Cycle Time
+552,Represent histograms,Represent histograms of cycle time,2021-12-02 13:53:30.796194,P1,2017,A19 P1 BPI 2017,A19 P1 BPI 2017,Representation
+553,Represent linear tendency of cycle time,Represent linear tendency of cycle time,2021-12-02 14:53:30.796194,P1,2017,A19 P1 BPI 2017,A19 P1 BPI 2017,Representation
+554,Compare cycle time,Compare cycle time,2021-12-02 15:53:30.796194,P1,2017,A19 P1 BPI 2017,A19 P1 BPI 2017,Analyze Cycle Time
+555,Represent histograms,Represent histograms of cycle time,2021-12-02 16:53:30.796194,P1,2017,A19 P1 BPI 2017,A19 P1 BPI 2017,Representation
+556,Represent linear tendency of cycle time,Represent linear tendency of cycle time,2021-12-02 17:53:30.796194,P1,2017,A19 P1 BPI 2017,A19 P1 BPI 2017,Representation
+557,Represent histograms,Represent histograms of cycle time,2021-12-02 18:53:30.796194,P1,2017,A19 P1 BPI 2017,A19 P1 BPI 2017,Representation
+558,Represent linear tendency of cycle time,Represent linear tendency of cycle time,2021-12-02 19:53:30.796194,P1,2017,A19 P1 BPI 2017,A19 P1 BPI 2017,Representation
+559,Represent histograms,Represent histograms of cycle time,2021-12-02 20:53:30.796194,P2,2019,A2 P2 BPI 2019,A2 P2 BPI 2019,Representation
+560,Calculate cycle time,Calculate cycle time of the whole process for all traces,2021-12-02 21:53:30.796194,P2,2019,A2 P2 BPI 2019,A2 P2 BPI 2019,Analyze Cycle Time
+561,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-12-02 22:53:30.796194,P2,2019,A2 P2 BPI 2019,A2 P2 BPI 2019,Analyze Cycle Time
+562,Filter traces,Filter traces by attributes,2021-12-02 23:53:30.796194,P2,2019,A2 P2 BPI 2019,A2 P2 BPI 2019,Manipulation
+563,Group traces,Group traces depending on attributes,2021-12-03 00:53:30.796194,P2,2019,A2 P2 BPI 2019,A2 P2 BPI 2019,Manipulation
+564,Represent process map,Represent process map with frequency,2021-12-03 01:53:30.796194,P2,2019,A2 P2 BPI 2019,A2 P2 BPI 2019,Representation
+565,Represent process map,Represent process map with cycle time,2021-12-03 02:53:30.796194,P2,2019,A2 P2 BPI 2019,A2 P2 BPI 2019,Representation
+566,Calculate number of elements,Calculate number of traces,2021-12-03 03:53:30.796194,P2,2019,A2 P2 BPI 2019,A2 P2 BPI 2019,Calculate statistics
+567,Filter traces,Filter traces by activities,2021-12-03 04:53:30.796194,P2,2019,A2 P2 BPI 2019,A2 P2 BPI 2019,Manipulation
+568,Calculate cycle time,Calculate cycle time of a fragment of the process for a subset of traces,2021-12-03 05:53:30.796194,P2,2019,A2 P2 BPI 2019,A2 P2 BPI 2019,Analyze Cycle Time
+569,Filter traces,Filter traces by cycle time,2021-12-03 06:53:30.796194,P2,2019,A2 P2 BPI 2019,A2 P2 BPI 2019,Manipulation
+570,Identify resources,Identify resources by cycle time,2021-12-03 07:53:30.796194,P2,2019,A2 P2 BPI 2019,A2 P2 BPI 2019,Identification
+571,Calculate number of elements,Calculate number of traces,2021-12-03 08:53:30.796194,P2,2019,A2 P2 BPI 2019,A2 P2 BPI 2019,Calculate statistics
+572,Represent process map,Represent process map with frequency,2021-12-03 09:53:30.796194,P2,2019,A2 P2 BPI 2019,A2 P2 BPI 2019,Representation
+573,Represent process map,Represent process map with cycle time,2021-12-03 10:53:30.796194,P2,2019,A2 P2 BPI 2019,A2 P2 BPI 2019,Representation
+574,Calculate number of elements,Calculate number of traces,2021-12-03 11:53:30.796194,P2,2019,A2 P2 BPI 2019,A2 P2 BPI 2019,Calculate statistics
+575,Represent histograms,Represent histograms of cycle time,2021-12-03 12:53:30.796194,P2,2019,A2 P2 BPI 2019,A2 P2 BPI 2019,Representation
+576,Calculate cycle time,Calculate cycle time of a fragment of the process for a subset of traces,2021-12-03 13:53:30.796194,P2,2019,A2 P2 BPI 2019,A2 P2 BPI 2019,Analyze Cycle Time
+577,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-12-03 14:53:30.796194,P2,2019,A2 P2 BPI 2019,A2 P2 BPI 2019,Analyze Cycle Time
+578,Represent process map,Represent process map with frequency,2021-12-03 15:53:30.796194,P2,2019,A2 P2 BPI 2019,A2 P2 BPI 2019,Representation
+579,Represent process map,Represent process map with cycle time,2021-12-03 16:53:30.796194,P2,2019,A2 P2 BPI 2019,A2 P2 BPI 2019,Representation
+580,Represent histograms,Represent histograms of cycle time,2021-12-03 17:53:30.796194,P2,2019,A2 P2 BPI 2019,A2 P2 BPI 2019,Representation
+581,Calculate cycle time,Calculate cycle time of a fragment of the process for a subset of traces,2021-12-03 18:53:30.796194,P2,2019,A2 P2 BPI 2019,A2 P2 BPI 2019,Analyze Cycle Time
+582,Identify attributes,Identify attributes by cycle time,2021-12-03 19:53:30.796194,P2,2019,A2 P2 BPI 2019,A2 P2 BPI 2019,Identification
+583,Represent bar charts,Represent bar charts of attributes,2021-12-03 20:53:30.796194,P2,2019,A2 P2 BPI 2019,A2 P2 BPI 2019,Representation
+584,Represent process map,Represent process map with frequency,2021-12-03 21:53:30.796194,P2,2019,A2 P2 BPI 2019,A2 P2 BPI 2019,Representation
+585,Represent process map,Represent process map with cycle time,2021-12-03 22:53:30.796194,P2,2019,A2 P2 BPI 2019,A2 P2 BPI 2019,Representation
+586,Calculate cycle time,Calculate cycle time of the whole process for a subset of traces,2021-12-03 23:53:30.796194,P2,2019,A2 P2 BPI 2019,A2 P2 BPI 2019,Analyze Cycle Time
+587,Represent process map,Represent process map with cycle time,2021-12-04 00:53:30.796194,P2,2019,A2 P2 BPI 2019,A2 P2 BPI 2019,Representation
+588,Calculate waiting time,Calculate waiting time,2021-12-04 01:53:30.796194,P2,2019,A2 P2 BPI 2019,A2 P2 BPI 2019,Analyze Cycle Time
+589,Represent temporal series,Represent temporal series of traces,2021-12-04 02:53:30.796194,P1,2020,A11 P1 BPI 2020,A11 P1 BPI 2020,Representation
+590,Identify attributes,Identify values of attributes,2021-12-04 03:53:30.796194,P1,2020,A11 P1 BPI 2020,A11 P1 BPI 2020,Identification
+591,Represent temporal series,Represent temporal series of traces,2021-12-04 04:53:30.796194,P1,2020,A11 P1 BPI 2020,A11 P1 BPI 2020,Representation
+592,Calculate number of elements,Calculate number of traces,2021-12-04 05:53:30.796194,P1,2020,A11 P1 BPI 2020,A11 P1 BPI 2020,Calculate statistics
+593,Identify attributes,Identify values of attributes,2021-12-04 06:53:30.796194,P1,2020,A11 P1 BPI 2020,A11 P1 BPI 2020,Identification
+594,Calculate number of elements,Calculate number of traces,2021-12-04 07:53:30.796194,P1,2020,A11 P1 BPI 2020,A11 P1 BPI 2020,Calculate statistics
+595,Identify attributes,Identify values of attributes,2021-12-04 08:53:30.796194,P1,2020,A11 P1 BPI 2020,A11 P1 BPI 2020,Identification
+596,Calculate throughput,Calculate throughput,2021-12-04 09:53:30.796194,P1,2020,A11 P1 BPI 2020,A11 P1 BPI 2020,Analyze Cycle Time
+597,Filter traces,Filter traces by activities,2021-12-04 10:53:30.796194,P1,2020,A11 P1 BPI 2020,A11 P1 BPI 2020,Manipulation
+598,Calculate throughput,Calculate throughput,2021-12-04 11:53:30.796194,P1,2020,A11 P1 BPI 2020,A11 P1 BPI 2020,Analyze Cycle Time
+599,Calculate cycle time,Calculate cycle time of the whole process for a subset of traces,2021-12-04 12:53:30.796194,P1,2020,A11 P1 BPI 2020,A11 P1 BPI 2020,Analyze Cycle Time
+600,Represent temporal series,Represent temporal series of traces,2021-12-04 13:53:30.796194,P1,2020,A11 P1 BPI 2020,A11 P1 BPI 2020,Representation
+601,Calculate number of elements,Calculate number of traces,2021-12-04 14:53:30.796194,P1,2020,A11 P1 BPI 2020,A11 P1 BPI 2020,Calculate statistics
+602,Identify attributes,Identify values of attributes,2021-12-04 15:53:30.796194,P1,2020,A11 P1 BPI 2020,A11 P1 BPI 2020,Identification
+603,Calculate number of elements,Calculate number of traces,2021-12-04 16:53:30.796194,P1,2020,A11 P1 BPI 2020,A11 P1 BPI 2020,Calculate statistics
+604,Identify attributes,Identify values of attributes,2021-12-04 17:53:30.796194,P1,2020,A11 P1 BPI 2020,A11 P1 BPI 2020,Identification
+605,Calculate throughput,Calculate throughput,2021-12-04 18:53:30.796194,P1,2020,A11 P1 BPI 2020,A11 P1 BPI 2020,Analyze Cycle Time
+606,Filter traces,Filter traces by activities,2021-12-04 19:53:30.796194,P1,2020,A11 P1 BPI 2020,A11 P1 BPI 2020,Manipulation
+607,Calculate throughput,Calculate throughput,2021-12-04 20:53:30.796194,P1,2020,A11 P1 BPI 2020,A11 P1 BPI 2020,Analyze Cycle Time
+608,Calculate cycle time,Get cycle time from the previous question,2021-12-04 21:53:30.796194,P2,2020,A11 P2 BPI 2020,A11 P2 BPI 2020,Analyze Cycle Time
+609,Compare cycle time,Compare cycle time,2021-12-04 22:53:30.796194,P2,2020,A11 P2 BPI 2020,A11 P2 BPI 2020,Analyze Cycle Time
+610,Filter traces,Filter traces by activities,2021-12-04 23:53:30.796194,P4,2020,A11 P4 BPI 2020,A11 P4 BPI 2020,Manipulation
+611,Calculate number of elements,Calcute number of values of an attribute,2021-12-05 00:53:30.796194,P4,2020,A11 P4 BPI 2020,A11 P4 BPI 2020,Calculate statistics
+612,Calculate frequency,Calculate frequency of activities,2021-12-05 01:53:30.796194,P4,2020,A11 P4 BPI 2020,A11 P4 BPI 2020,Calculate statistics
+613,Calculate throughput,Calculate throughput,2021-12-05 02:53:30.796194,P4,2020,A11 P4 BPI 2020,A11 P4 BPI 2020,Analyze Cycle Time
+614,Calculate throughput,Calculate throughput,2021-12-05 03:53:30.796194,P4,2020,A11 P4 BPI 2020,A11 P4 BPI 2020,Analyze Cycle Time
+615,Calculate throughput,Calculate throughput,2021-12-05 04:53:30.796194,P4,2020,A11 P4 BPI 2020,A11 P4 BPI 2020,Analyze Cycle Time
+616,Calculate number of elements,Calcute number of values of an attribute,2021-12-05 05:53:30.796194,P4,2020,A11 P4 BPI 2020,A11 P4 BPI 2020,Calculate statistics
+617,Identify attributes,Identify values of attributes,2021-12-05 06:53:30.796194,P4,2020,A11 P4 BPI 2020,A11 P4 BPI 2020,Identification
+618,Filter traces,Filter traces by year,2021-12-05 07:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Manipulation
+619,Calculate cycle time,Calculate cycle time for all pairs of events for a subset of traces,2021-12-05 08:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Analyze Cycle Time
+620,Calculate frequency,Calculate frequency of sub-processes,2021-12-05 09:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Calculate statistics
+621,Calculate cycle time,Calculate cycle time of the whole process for a subset of traces,2021-12-05 10:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Analyze Cycle Time
+622,Calculate number of elements,Calculate number of sub-processes,2021-12-05 11:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Calculate statistics
+623,Identify bottlenecks,Identify sub-processes as bottlenecks applying temporal performance criteria,2021-12-05 12:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Analyze Cycle Time
+624,Filter sub-processes,Filter sub-processes by cycle time,2021-12-05 13:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Manipulation
+625,Calculate number of elements,Calculate number of sub-processes,2021-12-05 14:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Calculate statistics
+626,Calculate percentages,Calculate percentage of sub-processes,2021-12-05 15:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Calculate statistics
+627,Filter sub-processes,Filter sub-processes by cycle time,2021-12-05 16:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Manipulation
+628,Calculate number of elements,Calculate number of sub-processes,2021-12-05 17:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Calculate statistics
+629,Calculate percentages,Calculate percentage of sub-processes,2021-12-05 18:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Calculate statistics
+630,Represent temporal series,Represent temporal series of subprocesses,2021-12-05 19:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Representation
+631,Represent bar charts,Represent bar charts of sub-processes,2021-12-05 20:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Representation
+632,Identify attributes,Identify values of attributes,2021-12-05 21:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Identification
+633,Filter sub-processes,Filter sub-processes by attributes,2021-12-05 22:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Manipulation
+634,Calculate number of elements,Calculate number of sub-processes,2021-12-05 23:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Calculate statistics
+635,Calculate percentages,Calculate percentage of sub-processes,2021-12-06 00:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Calculate statistics
+636,Identify attributes,Identify attributes by cycle time,2021-12-06 01:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Identification
+637,Calculate percentages,Calculate percentage of sub-processes,2021-12-06 02:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Calculate statistics
+638,Represent bar charts,Represent bar charts of sub-processes,2021-12-06 03:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Representation
+639,Filter sub-processes,Filter sub-processes by cycle time,2021-12-06 04:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Manipulation
+640,Represent bar charts,Represent bar charts of sub-processes,2021-12-06 05:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Representation
+641,Identify attributes,Identify attributes by cycle time,2021-12-06 06:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Identification
+642,Calculate percentages,Calculate percentage of sub-processes,2021-12-06 07:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Calculate statistics
+643,Represent temporal series,Represent temporal series of subprocesses,2021-12-06 08:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Representation
+644,Represent bar charts,Represent bar charts of sub-processes,2021-12-06 09:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Representation
+645,Identify attributes,Identify attributes by cycle time,2021-12-06 10:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Identification
+646,Represent lineal distribution of an attribute by traces,Represent lineal distribution of an attribute by traces,2021-12-06 11:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Representation
+647,Represent scatterplot,Represent scatterplot,2021-12-06 12:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Representation
+648,Filter sub-processes,Filter sub-processes by cycle time,2021-12-06 13:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Manipulation
+649,Group sub-processes,Group sub-processes,2021-12-06 14:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Manipulation
+650,Filter traces,Filter traces by activities,2021-12-06 15:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Manipulation
+651,Calculate number of elements,Calculate number of traces,2021-12-06 16:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Calculate statistics
+652,Identify attributes,Identify values of attributes,2021-12-06 17:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Identification
+653,Filter traces,Filter traces by year,2021-12-06 18:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Manipulation
+654,Calculate cycle time,Calculate cycle time for all pairs of events for a subset of traces,2021-12-06 19:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Analyze Cycle Time
+655,Calculate frequency,Calculate frequency of sub-processes,2021-12-06 20:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Calculate statistics
+656,Calculate cycle time,Calculate cycle time of the whole process for a subset of traces,2021-12-06 21:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Analyze Cycle Time
+657,Identify bottlenecks,Identify sub-processes as bottlenecks applying temporal performance criteria,2021-12-06 22:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Analyze Cycle Time
+658,Represent temporal series,Represent temporal series of subprocesses,2021-12-06 23:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Representation
+659,Represent bar charts,Represent bar charts of sub-processes,2021-12-07 00:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Representation
+660,Identify attributes,Identify attributes by cycle time,2021-12-07 01:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Identification
+661,Represent temporal series,Represent temporal series of subprocesses,2021-12-07 02:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Representation
+662,Represent bar charts,Represent bar charts of sub-processes,2021-12-07 03:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Representation
+663,Identify attributes,Identify attributes by cycle time,2021-12-07 04:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Identification
+664,Calculate cycle time,Calculate cycle time for all pairs of events for a subset of traces,2021-12-07 05:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Analyze Cycle Time
+665,Identify attributes,Identify attributes by cycle time,2021-12-07 06:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Identification
+666,Identify bottlenecks,Identify organizational units as bottlenecks applying temporal performance criteria,2021-12-07 07:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Analyze Cycle Time
+667,Calculate number of elements,Calculate number of sub-processes,2021-12-07 08:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Calculate statistics
+668,Calculate percentages,Calculate percentage of sub-processes,2021-12-07 09:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Calculate statistics
+669,Represent lineal distribution of an attribute by traces,Represent lineal distribution of an attribute by traces,2021-12-07 10:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Representation
+670,Represent scatterplot,Represent scatterplot,2021-12-07 11:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Representation
+671,Filter traces,Filter traces by attributes,2021-12-07 12:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Manipulation
+672,Filter sub-processes,Filter sub-processes by cycle time,2021-12-07 13:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Manipulation
+673,Calculate percentages,Calculate percentage of sub-processes,2021-12-07 14:53:30.796194,P5,2020,A11 P5 BPI 2020,A11 P5 BPI 2020,Calculate statistics
+674,Filter traces,Filter traces by year,2021-12-07 15:53:30.796194,P1,2020,A16 P1 BPI 2020,A16 P1 BPI 2020,Manipulation
+675,Calculate cycle time,Calculate cycle time of a fragment of the process for a subset of traces,2021-12-07 16:53:30.796194,P1,2020,A16 P1 BPI 2020,A16 P1 BPI 2020,Analyze Cycle Time
+676,Compare cycle time,Compare cycle time,2021-12-07 17:53:30.796194,P1,2020,A16 P1 BPI 2020,A16 P1 BPI 2020,Analyze Cycle Time
+677,Calculate cycle time,Calculate cycle time for all pairs of events for all traces,2021-12-07 18:53:30.796194,P4,2020,A16 P4 BPI 2020,A16 P4 BPI 2020,Analyze Cycle Time
+678,Represent process map,Represent process map with cycle time,2021-12-07 19:53:30.796194,P4,2020,A16 P4 BPI 2020,A16 P4 BPI 2020,Representation
+679,Identify transitions by cycle time,Identify transitions by cycle time,2021-12-07 20:53:30.796194,P4,2020,A16 P4 BPI 2020,A16 P4 BPI 2020,Identification
+680,Compare cycle time,Compare cycle time,2021-12-07 21:53:30.796194,P4,2020,A16 P4 BPI 2020,A16 P4 BPI 2020,Analyze Cycle Time
+681,Calculate frequency,Calculate frequency of traces,2021-12-07 22:53:30.796194,P4,2020,A16 P4 BPI 2020,A16 P4 BPI 2020,Calculate statistics
+682,Filter traces,Filter traces by frequency,2021-12-07 23:53:30.796194,P4,2020,A16 P4 BPI 2020,A16 P4 BPI 2020,Manipulation
+683,Calculate percentages,Calculate percentage of traces,2021-12-08 00:53:30.796194,P4,2020,A16 P4 BPI 2020,A16 P4 BPI 2020,Calculate statistics
+684,Filter variants depending on frequency,Filter variants depending on frequency,2021-12-08 01:53:30.796194,P4,2020,A16 P4 BPI 2020,A16 P4 BPI 2020,Manipulation
+685,Represent process map,Represent process map with cycle time,2021-12-08 02:53:30.796194,P4,2020,A16 P4 BPI 2020,A16 P4 BPI 2020,Representation
+686,Calculate cycle time,Calculate cycle time of a fragment of the process for a subset of traces,2021-12-08 03:53:30.796194,P4,2020,A16 P4 BPI 2020,A16 P4 BPI 2020,Analyze Cycle Time
+687,Represent temporal series,Represent temporal series of traces,2021-12-08 04:53:30.796194,P2,2020,A16 P2 BPI 2020,A16 P2 BPI 2020,Representation
+688,Identify attributes,Identify values of attributes,2021-12-08 05:53:30.796194,P2,2020,A16 P2 BPI 2020,A16 P2 BPI 2020,Identification
+689,Calculate statistics,Calculate Statistics of cycle time,2021-12-08 06:53:30.796194,P2,2020,A16 P2 BPI 2020,A16 P2 BPI 2020,Calculate statistics
+690,Calculate statistics,Calculate Statistics of cycle time,2021-12-08 07:53:30.796194,P2,2020,A16 P2 BPI 2020,A16 P2 BPI 2020,Calculate statistics
+691,Represent correlation graph of variables,Represent correlation graph of variables,2021-12-08 08:53:30.796194,P2,2020,A16 P2 BPI 2020,A16 P2 BPI 2020,Representation
+692,Calculate statistics,Calculate Statistics of cycle time,2021-12-08 09:53:30.796194,P2,2020,A16 P2 BPI 2020,A16 P2 BPI 2020,Calculate statistics
+693,Represent temporal series,Represent temporal series of traces,2021-12-08 10:53:30.796194,P2,2020,A16 P2 BPI 2020,A16 P2 BPI 2020,Representation
+694,Calculate cycle time,Calculate cycle time of the whole process for all traces,2021-12-08 11:53:30.796194,P5,2020,A16 P5 BPI 2020,A16 P5 BPI 2020,Analyze Cycle Time
+695,Filter traces,Filter traces by cycle time,2021-12-08 12:53:30.796194,P5,2020,A16 P5 BPI 2020,A16 P5 BPI 2020,Manipulation
+696,Calculate percentages,Calculate percentage of traces,2021-12-08 13:53:30.796194,P5,2020,A16 P5 BPI 2020,A16 P5 BPI 2020,Calculate statistics
+697,Represent process map,Represent process map with cycle time,2021-12-08 14:53:30.796194,P5,2020,A16 P5 BPI 2020,A16 P5 BPI 2020,Representation
+698,Identify transitions by cycle time,Identify transitions by cycle time,2021-12-08 15:53:30.796194,P5,2020,A16 P5 BPI 2020,A16 P5 BPI 2020,Identification
+699,Calculate frequency,Calculate frequency of sub-processes,2021-12-08 16:53:30.796194,P5,2020,A16 P5 BPI 2020,A16 P5 BPI 2020,Calculate statistics
+700,Identify transitions by cycle time,Identify transitions by cycle time,2021-12-08 17:53:30.796194,P5,2020,A16 P5 BPI 2020,A16 P5 BPI 2020,Identification
+701,Calculate frequency,Calculate frequency of sub-processes,2021-12-08 18:53:30.796194,P5,2020,A16 P5 BPI 2020,A16 P5 BPI 2020,Calculate statistics
+702,Calculate cycle time,Calculate cycle time of the whole process for all traces,2021-12-08 19:53:30.796194,P5,2020,A16 P5 BPI 2020,A16 P5 BPI 2020,Analyze Cycle Time
+703,Filter traces,Filter traces by cycle time,2021-12-08 20:53:30.796194,P5,2020,A16 P5 BPI 2020,A16 P5 BPI 2020,Manipulation
+704,Calculate percentages,Calculate percentage of traces,2021-12-08 21:53:30.796194,P5,2020,A16 P5 BPI 2020,A16 P5 BPI 2020,Calculate statistics
+705,Identify transitions by cycle time,Identify transitions by cycle time,2021-12-08 22:53:30.796194,P5,2020,A16 P5 BPI 2020,A16 P5 BPI 2020,Identification
+706,Calculate percentages,Calculate percentage of traces,2021-12-08 23:53:30.796194,P5,2020,A16 P5 BPI 2020,A16 P5 BPI 2020,Calculate statistics
+707,Represent process map,Represent process map with cycle time,2021-12-09 00:53:30.796194,P5,2020,A16 P5 BPI 2020,A16 P5 BPI 2020,Representation
+708,Identify traces by cycle time,Identify traces by cycle time,2021-12-09 01:53:30.796194,P6,2020,A16 P6 BPI 2020,A16 P6 BPI 2020,Identification
+709,Calculate cycle time,Calculate cycle time of a fragment of the process for a subset of traces,2021-12-09 02:53:30.796194,P6,2020,A16 P6 BPI 2020,A16 P6 BPI 2020,Analyze Cycle Time
+710,Filter traces,Filter traces by year,2021-12-09 03:53:30.796194,P1,2020,A24 P1 BPI 2020,A24 P1 BPI 2020,Manipulation
+711,Calculate number of elements,Calculate number of events,2021-12-09 04:53:30.796194,P1,2020,A24 P1 BPI 2020,A24 P1 BPI 2020,Calculate statistics
+712,Calculate number of elements,Calculate number of traces,2021-12-09 05:53:30.796194,P1,2020,A24 P1 BPI 2020,A24 P1 BPI 2020,Calculate statistics
+713,Calculate number of elements,Calculate number of activities,2021-12-09 06:53:30.796194,P1,2020,A24 P1 BPI 2020,A24 P1 BPI 2020,Calculate statistics
+714,Calculate cycle time,Calculate cycle time of the whole process for all traces,2021-12-09 07:53:30.796194,P1,2020,A24 P1 BPI 2020,A24 P1 BPI 2020,Analyze Cycle Time
+715,Represent histograms,Represent histograms of cycle time,2021-12-09 08:53:30.796194,P1,2020,A24 P1 BPI 2020,A24 P1 BPI 2020,Representation
+716,Filter traces,Filter traces by cycle time,2021-12-09 09:53:30.796194,P1,2020,A24 P1 BPI 2020,A24 P1 BPI 2020,Manipulation
+717,Calculate frequency,Calculate frequency of traces,2021-12-09 10:53:30.796194,P1,2020,A24 P1 BPI 2020,A24 P1 BPI 2020,Calculate statistics
+718,Calculate percentages,Calculate percentage of traces,2021-12-09 11:53:30.796194,P1,2020,A24 P1 BPI 2020,A24 P1 BPI 2020,Calculate statistics
+719,Filter traces,Filter traces by cycle time,2021-12-09 12:53:30.796194,P1,2020,A24 P1 BPI 2020,A24 P1 BPI 2020,Manipulation
+720,Calculate percentages,Calculate percentage of traces,2021-12-09 13:53:30.796194,P1,2020,A24 P1 BPI 2020,A24 P1 BPI 2020,Calculate statistics
+721,Calculate number of elements,Calculate number of events,2021-12-09 14:53:30.796194,P1,2020,A24 P1 BPI 2020,A24 P1 BPI 2020,Calculate statistics
+722,Calculate number of elements,Calculate number of traces,2021-12-09 15:53:30.796194,P1,2020,A24 P1 BPI 2020,A24 P1 BPI 2020,Calculate statistics
+723,Calculate number of elements,Calculate number of activities,2021-12-09 16:53:30.796194,P1,2020,A24 P1 BPI 2020,A24 P1 BPI 2020,Calculate statistics
+724,Calculate cycle time,Calculate cycle time of the whole process for all traces,2021-12-09 17:53:30.796194,P1,2020,A24 P1 BPI 2020,A24 P1 BPI 2020,Analyze Cycle Time
+725,Filter traces,Filter traces by cycle time,2021-12-09 18:53:30.796194,P1,2020,A24 P1 BPI 2020,A24 P1 BPI 2020,Manipulation
+726,Calculate percentages,Calculate percentage of traces,2021-12-09 19:53:30.796194,P1,2020,A24 P1 BPI 2020,A24 P1 BPI 2020,Calculate statistics
+727,Calculate processing time,Calculate processing time,2021-12-09 20:53:30.796194,P1,2020,A24 P1 BPI 2020,A24 P1 BPI 2020,Analyze Cycle Time
+728,Calculate cycle time,Calculate cycle time of a fragment of the process for a subset of traces,2021-12-09 21:53:30.796194,P1,2020,A24 P1 BPI 2020,A24 P1 BPI 2020,Analyze Cycle Time
+729,Calculate cycle time,Calculate cycle time of a fragment of the process for a subset of traces,2021-12-09 22:53:30.796194,P1,2020,A24 P1 BPI 2020,A24 P1 BPI 2020,Analyze Cycle Time
+730,Calculate cycle time,Calculate cycle time of the whole process for a subset of traces,2021-12-09 23:53:30.796194,P1,2020,A24 P1 BPI 2020,A24 P1 BPI 2020,Analyze Cycle Time
+731,Calculate frequency,Calculate frequency of traces,2021-12-10 00:53:30.796194,P1,2020,A24 P1 BPI 2020,A24 P1 BPI 2020,Calculate statistics
+732,Calculate percentages,Calculate percentage of traces,2021-12-10 01:53:30.796194,P1,2020,A24 P1 BPI 2020,A24 P1 BPI 2020,Calculate statistics
+733,Calculate processing time,Calculate processing time,2021-12-10 02:53:30.796194,P1,2020,A24 P1 BPI 2020,A24 P1 BPI 2020,Analyze Cycle Time
+734,Represent histograms,Represent histograms of cycle time,2021-12-10 03:53:30.796194,P1,2020,A24 P1 BPI 2020,A24 P1 BPI 2020,Representation
+735,Compare processing time,Compare processing time,2021-12-10 04:53:30.796194,P2,2020,A24 P2 BPI 2020,A24 P2 BPI 2020,Analyze Cycle Time
+736,Represent histograms,Represent histograms of cycle time,2021-12-10 05:53:30.796194,P2,2020,A24 P2 BPI 2020,A24 P2 BPI 2020,Representation
+737,Identify attributes,Identify values of attributes,2021-12-10 06:53:30.796194,P2,2020,A24 P2 BPI 2020,A24 P2 BPI 2020,Identification
+738,Represent process map,Represent process map with cycle time,2021-12-10 07:53:30.796194,P4,2020,A24 P4 BPI 2020,A24 P4 BPI 2020,Representation
+739,Calculate percentages,Calculate percentage of traces,2021-12-10 08:53:30.796194,P4,2020,A24 P4 BPI 2020,A24 P4 BPI 2020,Calculate statistics
+740,Calculate cycle time,Calculate cycle time of a fragment of the process for all traces,2021-12-10 09:53:30.796194,P4,2020,A24 P4 BPI 2020,A24 P4 BPI 2020,Analyze Cycle Time
+741,Identify transitions by cycle time,Identify transitions by cycle time,2021-12-10 10:53:30.796194,P4,2020,A24 P4 BPI 2020,A24 P4 BPI 2020,Identification
+742,Filter traces,Filter traces by activities,2021-12-10 11:53:30.796194,P4,2020,A24 P4 BPI 2020,A24 P4 BPI 2020,Manipulation
+743,Calculate cycle time,Calculate cycle time of only a subset of pairs of events for a subset of traces,2021-12-10 12:53:30.796194,P4,2020,A24 P4 BPI 2020,A24 P4 BPI 2020,Analyze Cycle Time
+744,Filter traces,Filter traces by activities,2021-12-10 13:53:30.796194,P4,2020,A24 P4 BPI 2020,A24 P4 BPI 2020,Manipulation
+745,Calculate percentages,Calculate percentage of traces,2021-12-10 14:53:30.796194,P4,2020,A24 P4 BPI 2020,A24 P4 BPI 2020,Calculate statistics
+746,Calculate cycle time,Calculate cycle time of a fragment of the process for a subset of traces,2021-12-10 15:53:30.796194,P4,2020,A24 P4 BPI 2020,A24 P4 BPI 2020,Analyze Cycle Time
+747,Identify traces by cycle time,Identify traces by cycle time,2021-12-10 16:53:30.796194,P4,2020,A24 P4 BPI 2020,A24 P4 BPI 2020,Identification
+748,Calculate cycle time,Calculate cycle time of the whole process for all traces,2021-12-10 17:53:30.796194,P5,2015,A1 P5 BPI 2015,A1 P5 BPI 2015,Analyze Cycle Time
+749,Identify organizational units,Identify organizational units by cycle time,2021-12-10 18:53:30.796194,P5,2015,A1 P5 BPI 2015,A1 P5 BPI 2015,Identification
+750,Identify organizational units,Identify organizational units by cycle time,2021-12-10 19:53:30.796194,P5,2015,A1 P5 BPI 2015,A1 P5 BPI 2015,Identification
+751,Represent linear tendency of cycle time,Represent linear tendency of cycle time,2021-12-10 20:53:30.796194,P5,2015,A1 P5 BPI 2015,A1 P5 BPI 2015,Representation
+752,Group traces,Group traces by year,2021-12-10 21:53:30.796194,P5,2015,A1 P5 BPI 2015,A1 P5 BPI 2015,Manipulation
+753,Calculate cycle time,Calculate cycle time of the whole process for each subset of traces,2021-12-10 22:53:30.796194,P5,2015,A1 P5 BPI 2015,A1 P5 BPI 2015,Analyze Cycle Time
+754,Represent temporal series,Represent temporal series of traces,2021-12-10 23:53:30.796194,P5,2015,A1 P5 BPI 2015,A1 P5 BPI 2015,Representation
+755,Identify organizational units,Identify organizational units by traces,2021-12-11 00:53:30.796194,P5,2015,A1 P5 BPI 2015,A1 P5 BPI 2015,Identification
+756,Identify organizational units,Identify organizational units by traces,2021-12-11 01:53:30.796194,P5,2015,A1 P5 BPI 2015,A1 P5 BPI 2015,Identification
+757,Filter traces,Filter traces by year,2021-12-11 02:53:30.796194,P5,2015,A1 P5 BPI 2015,A1 P5 BPI 2015,Manipulation
+758,Group traces,Group traces by resources,2021-12-11 03:53:30.796194,P5,2015,A1 P5 BPI 2015,A1 P5 BPI 2015,Manipulation
+759,Identify resources,Identify resources by activities,2021-12-11 04:53:30.796194,P5,2015,A1 P5 BPI 2015,A1 P5 BPI 2015,Identification
+760,Calculate percentages,Calculate percentage of activities,2021-12-11 05:53:30.796194,P5,2015,A1 P5 BPI 2015,A1 P5 BPI 2015,Calculate statistics
+761,Filter traces,Filter traces by activities,2021-12-11 06:53:30.796194,P5,2015,A5 P5 BPI 2015,A5 P5 BPI 2015,Manipulation
+762,Calculate cycle time,Calculate cycle time of the whole process for all traces,2021-12-11 07:53:30.796194,P5,2015,A5 P5 BPI 2015,A5 P5 BPI 2015,Analyze Cycle Time
+763,Calculate statistics,Calculate Statistics of cycle time,2021-12-11 08:53:30.796194,P5,2015,A5 P5 BPI 2015,A5 P5 BPI 2015,Calculate statistics
+764,Represent density of cycle time,Represent density of cycle time,2021-12-11 09:53:30.796194,P5,2015,A5 P5 BPI 2015,A5 P5 BPI 2015,Representation
+765,Identify organizational units,Identify organizational units by cycle time,2021-12-11 10:53:30.796194,P5,2015,A5 P5 BPI 2015,A5 P5 BPI 2015,Identification
+766,Identify organizational units,Identify organizational units by traces,2021-12-11 11:53:30.796194,P5,2015,A5 P5 BPI 2015,A5 P5 BPI 2015,Identification
+767,Identify organizational units,Identify organizational units by cycle time,2021-12-11 12:53:30.796194,P5,2015,A5 P5 BPI 2015,A5 P5 BPI 2015,Identification
+768,Group traces,Group traces depending on attributes,2021-12-11 13:53:30.796194,P5,2015,A5 P5 BPI 2015,A5 P5 BPI 2015,Manipulation
+769,Calculate cycle time,Calculate cycle time of the whole process for each subset of traces,2021-12-11 14:53:30.796194,P5,2015,A5 P5 BPI 2015,A5 P5 BPI 2015,Analyze Cycle Time
+770,Filter traces,Filter traces by frequency,2021-12-11 15:53:30.796194,P5,2015,A5 P5 BPI 2015,A5 P5 BPI 2015,Manipulation
+771,Identify attributes,Identify values of attributes,2021-12-11 16:53:30.796194,P5,2015,A5 P5 BPI 2015,A5 P5 BPI 2015,Identification
+772,Calculate statistics,Calculate Statistics of attributes,2021-12-11 17:53:30.796194,P5,2015,A5 P5 BPI 2015,A5 P5 BPI 2015,Calculate statistics
+773,Identify organizational units,Identify organizational units by resources,2021-12-11 18:53:30.796194,P5,2015,A5 P5 BPI 2015,A5 P5 BPI 2015,Identification
+774,Group traces,Group traces depending on attributes,2021-12-11 19:53:30.796194,P5,2015,A5 P5 BPI 2015,A5 P5 BPI 2015,Manipulation
+775,Calculate statistics,Calculate Statistics of cycle time,2021-12-11 20:53:30.796194,P5,2015,A5 P5 BPI 2015,A5 P5 BPI 2015,Calculate statistics
+776,Represent process map,Represent process map with frequency,2021-12-11 21:53:30.796194,P1,2017,A3 P1 BPI 2017,A3 P1 BPI 2017,Representation
+777,Calculate percentages,Calculate percentage of activities,2021-12-11 22:53:30.796194,P1,2017,A3 P1 BPI 2017,A3 P1 BPI 2017,Calculate statistics
+778,Group traces,Group traces by resources,2021-12-11 23:53:30.796194,P1,2017,A3 P1 BPI 2017,A3 P1 BPI 2017,Manipulation
+779,Calculate percentages,Calculate percentage of traces,2021-12-12 00:53:30.796194,P1,2017,A3 P1 BPI 2017,A3 P1 BPI 2017,Calculate statistics
+780,Filter traces,Filter traces by activities,2021-12-12 01:53:30.796194,P1,2017,A3 P1 BPI 2017,A3 P1 BPI 2017,Manipulation
+781,Calculate percentages,Calculate percentage of traces,2021-12-12 02:53:30.796194,P1,2017,A3 P1 BPI 2017,A3 P1 BPI 2017,Calculate statistics
+782,Group traces,Group traces by activities,2021-12-12 03:53:30.796194,P1,2017,A3 P1 BPI 2017,A3 P1 BPI 2017,Manipulation
+783,Calculate percentages,Calculate percentage of traces,2021-12-12 04:53:30.796194,P1,2017,A3 P1 BPI 2017,A3 P1 BPI 2017,Calculate statistics
+784,Filter traces,Filter traces by activities,2021-12-12 05:53:30.796194,P1,2017,A3 P1 BPI 2017,A3 P1 BPI 2017,Manipulation
+785,Calculate percentages,Calculate percentage of traces,2021-12-12 06:53:30.796194,P1,2017,A3 P1 BPI 2017,A3 P1 BPI 2017,Calculate statistics
+786,Filter traces,Filter traces by activities,2021-12-12 07:53:30.796194,P1,2017,A3 P1 BPI 2017,A3 P1 BPI 2017,Manipulation
+787,Calculate percentages,Calculate percentage of traces,2021-12-12 08:53:30.796194,P1,2017,A3 P1 BPI 2017,A3 P1 BPI 2017,Calculate statistics
+788,Filter traces,Filter traces by activities,2021-12-12 09:53:30.796194,P1,2017,A3 P1 BPI 2017,A3 P1 BPI 2017,Manipulation
+789,Calculate percentages,Calculate percentage of traces,2021-12-12 10:53:30.796194,P1,2017,A3 P1 BPI 2017,A3 P1 BPI 2017,Calculate statistics
+790,Filter traces,Filter traces by activities,2021-12-12 11:53:30.796194,P1,2017,A3 P1 BPI 2017,A3 P1 BPI 2017,Manipulation
+791,Calculate percentages,Calculate percentage of traces,2021-12-12 12:53:30.796194,P1,2017,A3 P1 BPI 2017,A3 P1 BPI 2017,Calculate statistics
+792,Represent process map,Represent process map with cycle time,2021-12-12 13:53:30.796194,P1,2017,A3 P1 BPI 2017,A3 P1 BPI 2017,Representation
+793,Calculate cycle time,Calculate cycle time for all pairs of events for all traces,2021-12-12 14:53:30.796194,P1,2017,A3 P1 BPI 2017,A3 P1 BPI 2017,Analyze Cycle Time
+794,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-12-12 15:53:30.796194,P1,2017,A3 P1 BPI 2017,A3 P1 BPI 2017,Analyze Cycle Time
+795,Calculate cycle time,Calculate cycle time of only a subset of pairs of events for a subset of traces,2021-12-12 16:53:30.796194,P1,2017,A3 P1 BPI 2017,A3 P1 BPI 2017,Analyze Cycle Time
+796,Group traces,Group traces by activities,2021-12-12 17:53:30.796194,P1,2017,A3 P1 BPI 2017,A3 P1 BPI 2017,Manipulation
+797,Calculate cycle time,Calculate cycle time of the whole process for each subset of traces,2021-12-12 18:53:30.796194,P1,2017,A3 P1 BPI 2017,A3 P1 BPI 2017,Analyze Cycle Time
+798,Filter traces,Filter traces by attributes,2021-12-12 19:53:30.796194,P1,2017,A3 P1 BPI 2017,A3 P1 BPI 2017,Manipulation
+799,Calculate number of elements,Calculate number of traces,2021-12-12 20:53:30.796194,P1,2017,A3 P1 BPI 2017,A3 P1 BPI 2017,Calculate statistics
+800,Calculate number of elements,Calculate number of traces,2021-12-12 21:53:30.796194,P1,2017,A3 P1 BPI 2017,A3 P1 BPI 2017,Calculate statistics
+801,Represent bar charts,Represent bar charts of traces,2021-12-12 22:53:30.796194,P1,2017,A3 P1 BPI 2017,A3 P1 BPI 2017,Representation
+802,Filter traces,Filter traces by attributes,2021-12-12 23:53:30.796194,P1,2017,A3 P1 BPI 2017,A3 P1 BPI 2017,Manipulation
+803,Calculate number of elements,Calculate number of traces,2021-12-13 00:53:30.796194,P1,2017,A3 P1 BPI 2017,A3 P1 BPI 2017,Calculate statistics
+804,Represent bar charts,Represent bar charts of attributes,2021-12-13 01:53:30.796194,P1,2017,A3 P1 BPI 2017,A3 P1 BPI 2017,Representation
+805,Filter events,Filter events by attributes,2021-12-13 02:53:30.796194,P1,2017,A18 P1 BPI 2017,A18 P1 BPI 2017,Manipulation
+806,Calculate cycle time,Calculate cycle time for all pairs of events for a subset of traces,2021-12-13 03:53:30.796194,P1,2017,A18 P1 BPI 2017,A18 P1 BPI 2017,Analyze Cycle Time
+807,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-12-13 04:53:30.796194,P1,2017,A18 P1 BPI 2017,A18 P1 BPI 2017,Analyze Cycle Time
+808,Filter events,Filter events by resources,2021-12-13 05:53:30.796194,P1,2017,A18 P1 BPI 2017,A18 P1 BPI 2017,Manipulation
+809,Calculate cycle time,Calculate cycle time of only a subset of pairs of events for each subset of traces,2021-12-13 06:53:30.796194,P1,2017,A18 P1 BPI 2017,A18 P1 BPI 2017,Analyze Cycle Time
+810,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-12-13 07:53:30.796194,P1,2017,A18 P1 BPI 2017,A18 P1 BPI 2017,Analyze Cycle Time
+811,Filter traces,Filter traces by year,2021-12-13 08:53:30.796194,P2,2019,A9 P2 BPI 2019,A9 P2 BPI 2019,Manipulation
+812,Calculate cycle time,Calculate cycle time of the whole process for a subset of traces,2021-12-13 09:53:30.796194,P2,2019,A9 P2 BPI 2019,A9 P2 BPI 2019,Analyze Cycle Time
+813,Identify activities,Identify common activities,2021-12-13 10:53:30.796194,P2,2019,A9 P2 BPI 2019,A9 P2 BPI 2019,Identification
+814,Compare cycle time,Compare cycle time,2021-12-13 11:53:30.796194,P2,2019,A9 P2 BPI 2019,A9 P2 BPI 2019,Analyze Cycle Time
+815,Represent histograms,Represent histograms of cycle time,2021-12-13 12:53:30.796194,P2,2019,A9 P2 BPI 2019,A9 P2 BPI 2019,Representation
+816,Group traces,Group traces depending on attributes,2021-12-13 13:53:30.796194,P2,2019,A9 P2 BPI 2019,A9 P2 BPI 2019,Manipulation
+817,Identify attributes,Identify attributes by cycle time,2021-12-13 14:53:30.796194,P2,2019,A9 P2 BPI 2019,A9 P2 BPI 2019,Identification
+818,Group traces,Group traces depending on attributes,2021-12-13 15:53:30.796194,P2,2019,A9 P2 BPI 2019,A9 P2 BPI 2019,Manipulation
+819,Identify attributes,Identify attributes by cycle time,2021-12-13 16:53:30.796194,P2,2019,A9 P2 BPI 2019,A9 P2 BPI 2019,Identification
+820,Calculate statistics,Calculate Statistics of cycle time,2021-12-13 17:53:30.796194,P2,2019,A9 P2 BPI 2019,A9 P2 BPI 2019,Calculate statistics
+821,Group traces,Group traces depending on attributes,2021-12-13 18:53:30.796194,P2,2019,A9 P2 BPI 2019,A9 P2 BPI 2019,Manipulation
+822,Identify attributes,Identify attributes by cycle time,2021-12-13 19:53:30.796194,P2,2019,A9 P2 BPI 2019,A9 P2 BPI 2019,Identification
+823,Identify attributes,Identify attributes by cycle time,2021-12-13 20:53:30.796194,P2,2019,A9 P2 BPI 2019,A9 P2 BPI 2019,Identification
+824,Preprocess the traces of the logs,Preprocess the traces of the logs,2021-12-13 21:53:30.796194,P2,2019,A12 P2 BPI 2019,A12 P2 BPI 2019,Manipulation
+825,Group traces,Group traces depending on attributes,2021-12-13 22:53:30.796194,P2,2019,A12 P2 BPI 2019,A12 P2 BPI 2019,Manipulation
+826,Calculate cycle time,Calculate cycle time of a fragment of the process for a subset of traces,2021-12-13 23:53:30.796194,P2,2019,A12 P2 BPI 2019,A12 P2 BPI 2019,Analyze Cycle Time
+827,Represent bar charts,Represent bar charts of cycle time,2021-12-14 00:53:30.796194,P2,2019,A12 P2 BPI 2019,A12 P2 BPI 2019,Representation
+828,Calculate percentages,Calculate percentage of traces,2021-12-14 01:53:30.796194,P2,2019,A12 P2 BPI 2019,A12 P2 BPI 2019,Calculate statistics
+829,Identify attributes,Identify attributes by traces,2021-12-14 02:53:30.796194,P2,2019,A12 P2 BPI 2019,A12 P2 BPI 2019,Identification
+830,Filter traces,Filter traces by cycle time,2021-12-14 03:53:30.796194,P2,2019,A12 P2 BPI 2019,A12 P2 BPI 2019,Manipulation
+831,Calculate number of elements,Calculate number of traces,2021-12-14 04:53:30.796194,P2,2019,A12 P2 BPI 2019,A12 P2 BPI 2019,Calculate statistics
+832,Calculate percentages,Calculate percentage of traces,2021-12-14 05:53:30.796194,P2,2019,A12 P2 BPI 2019,A12 P2 BPI 2019,Calculate statistics
+833,Group traces,Group traces depending on attributes,2021-12-14 06:53:30.796194,P2,2019,A12 P2 BPI 2019,A12 P2 BPI 2019,Manipulation
+834,Calculate cycle time,Calculate cycle time of the whole process for each subset of traces,2021-12-14 07:53:30.796194,P2,2019,A12 P2 BPI 2019,A12 P2 BPI 2019,Analyze Cycle Time
+835,Group traces,Group traces depending on attributes,2021-12-14 08:53:30.796194,P2,2019,A12 P2 BPI 2019,A12 P2 BPI 2019,Manipulation
+836,Calculate cycle time,Calculate cycle time of the whole process for each subset of traces,2021-12-14 09:53:30.796194,P2,2019,A12 P2 BPI 2019,A12 P2 BPI 2019,Analyze Cycle Time
+837,Represent bar charts,Represent bar charts of cycle time,2021-12-14 10:53:30.796194,P2,2019,A12 P2 BPI 2019,A12 P2 BPI 2019,Representation
+838,Calculate statistics,Calculate Statistics of cycle time,2021-12-14 11:53:30.796194,P2,2019,A12 P2 BPI 2019,A12 P2 BPI 2019,Calculate statistics
+839,Calculate cycle time,Calculate cycle time of a fragment of the process for a subset of traces,2021-12-14 12:53:30.796194,P2,2019,A12 P2 BPI 2019,A12 P2 BPI 2019,Analyze Cycle Time
+840,Group traces,Group traces depending on attributes,2021-12-14 13:53:30.796194,P2,2019,A12 P2 BPI 2019,A12 P2 BPI 2019,Manipulation
+841,Calculate cycle time,Calculate cycle time of a fragment of the process for each subset of traces,2021-12-14 14:53:30.796194,P2,2019,A12 P2 BPI 2019,A12 P2 BPI 2019,Analyze Cycle Time
+842,Group traces,Group traces depending on attributes,2021-12-14 15:53:30.796194,P2,2019,A12 P2 BPI 2019,A12 P2 BPI 2019,Manipulation
+843,Calculate statistics,Calculate Statistics of cycle time,2021-12-14 16:53:30.796194,P2,2019,A12 P2 BPI 2019,A12 P2 BPI 2019,Calculate statistics
+844,Group events by attributes,Group events by attributes,2021-12-14 17:53:30.796194,P2,2019,A12 P2 BPI 2019,A12 P2 BPI 2019,Manipulation
+845,Calculate cycle time,Calculate cycle time for all pairs of events for each subset of traces,2021-12-14 18:53:30.796194,P2,2019,A12 P2 BPI 2019,A12 P2 BPI 2019,Analyze Cycle Time
+846,Group traces,Group traces depending on attributes,2021-12-14 19:53:30.796194,P2,2019,A12 P2 BPI 2019,A12 P2 BPI 2019,Manipulation
+847,Calculate number of elements,Calculate number of traces,2021-12-14 20:53:30.796194,P2,2019,A12 P2 BPI 2019,A12 P2 BPI 2019,Calculate statistics
+848,Calculate cycle time,Calculate cycle time of the whole process for each subset of traces,2021-12-14 21:53:30.796194,P2,2019,A12 P2 BPI 2019,A12 P2 BPI 2019,Analyze Cycle Time
+849,Identify attributes,Identify attributes by cycle time,2021-12-14 22:53:30.796194,P2,2019,A12 P2 BPI 2019,A12 P2 BPI 2019,Identification
+850,Represent bar charts,Represent bar charts of cycle time,2021-12-14 23:53:30.796194,P2,2019,A12 P2 BPI 2019,A12 P2 BPI 2019,Representation
+851,Filter traces,Filter traces by activities,2021-12-15 00:53:30.796194,P1,2020,A30 P1 BPI 2020,A30 P1 BPI 2020,Manipulation
+852,Calculate percentages,Calculate percentage of traces,2021-12-15 01:53:30.796194,P1,2020,A30 P1 BPI 2020,A30 P1 BPI 2020,Calculate statistics
+853,Preprocess the traces of the logs,Preprocess the traces of the logs,2021-12-15 02:53:30.796194,P1,2020,A30 P1 BPI 2020,A30 P1 BPI 2020,Manipulation
+854,Filter traces,Filter traces by activities,2021-12-15 03:53:30.796194,P1,2020,A30 P1 BPI 2020,A30 P1 BPI 2020,Manipulation
+855,Represent temporal series,Represent temporal series of traces,2021-12-15 04:53:30.796194,P1,2020,A30 P1 BPI 2020,A30 P1 BPI 2020,Representation
+856,Represent temporal series,Represent temporal series of traces,2021-12-15 05:53:30.796194,P1,2020,A30 P1 BPI 2020,A30 P1 BPI 2020,Representation
+857,Calculate cycle time,Calculate cycle time of the whole process for all traces,2021-12-15 06:53:30.796194,P1,2020,A31 P1 BPI 2020,A31 P1 BPI 2020,Analyze Cycle Time
+858,Calculate cycle time,Calculate cycle time of the whole process for each subset of traces,2021-12-15 07:53:30.796194,P1,2020,A31 P1 BPI 2020,A31 P1 BPI 2020,Analyze Cycle Time
+859,Calculate number of elements,Calculate number of traces,2021-12-15 08:53:30.796194,P1,2020,A31 P1 BPI 2020,A31 P1 BPI 2020,Calculate statistics
+860,Calculate throughput,Calculate throughput,2021-12-15 09:53:30.796194,P1,2020,A31 P1 BPI 2020,A31 P1 BPI 2020,Analyze Cycle Time
+861,Calculate statistics,Calculate Statistics of cycle time,2021-12-15 10:53:30.796194,P1,2020,A34 P1 BPI 2020,A34 P1 BPI 2020,Calculate statistics
+862,Filter traces,Filter traces by subprocesses,2021-12-15 11:53:30.796194,P1,2020,A34 P1 BPI 2020,A34 P1 BPI 2020,Manipulation
+863,Group traces,Group traces by sub-processes,2021-12-15 12:53:30.796194,P1,2020,A34 P1 BPI 2020,A34 P1 BPI 2020,Manipulation
+864,Calculate statistics,Calculate Statistics of cycle time,2021-12-15 13:53:30.796194,P1,2020,A34 P1 BPI 2020,A34 P1 BPI 2020,Calculate statistics
+865,Calculate frequency,Calculate frequency of activities,2021-12-15 14:53:30.796194,P2,2020,A27 P2 BPI 2020,A27 P2 BPI 2020,Calculate statistics
+866,Represent bar charts,Represent bart charts of activities,2021-12-15 15:53:30.796194,P2,2020,A27 P2 BPI 2020,A27 P2 BPI 2020,Representation
+867,Group traces,Group traces by month,2021-12-15 16:53:30.796194,P2,2020,A30 P2 BPI 2020,A30 P2 BPI 2020,Manipulation
+868,Calculate cycle time,Calculate cycle time of the whole process for each subset of traces,2021-12-15 17:53:30.796194,P2,2020,A30 P2 BPI 2020,A30 P2 BPI 2020,Analyze Cycle Time
+869,Identify attributes,Identify values of attributes,2021-12-15 18:53:30.796194,P2,2020,A30 P2 BPI 2020,A30 P2 BPI 2020,Identification
+870,Group traces,Group traces by month,2021-12-15 19:53:30.796194,P2,2020,A30 P2 BPI 2020,A30 P2 BPI 2020,Manipulation
+871,Calculate cycle time,Calculate cycle time of the whole process for each subset of traces,2021-12-15 20:53:30.796194,P2,2020,A30 P2 BPI 2020,A30 P2 BPI 2020,Analyze Cycle Time
+872,Identify attributes,Identify values of attributes,2021-12-15 21:53:30.796194,P2,2020,A30 P2 BPI 2020,A30 P2 BPI 2020,Identification
+873,Identify attributes,Identify values of attributes,2021-12-15 22:53:30.796194,P2,2020,A30 P2 BPI 2020,A30 P2 BPI 2020,Identification
+874,Identify attributes,Identify values of attributes,2021-12-15 23:53:30.796194,P2,2020,A30 P2 BPI 2020,A30 P2 BPI 2020,Identification
+875,Calculate number of elements,Calculate number of events,2021-12-16 00:53:30.796194,P2,2020,A30 P2 BPI 2020,A30 P2 BPI 2020,Calculate statistics
+876,Calculate statistics,Calculate Statistics of cycle time,2021-12-16 01:53:30.796194,P2,2020,A30 P2 BPI 2020,A30 P2 BPI 2020,Calculate statistics
+877,Identify attributes,Identify values of attributes,2021-12-16 02:53:30.796194,P2,2020,A30 P2 BPI 2020,A30 P2 BPI 2020,Identification
+878,Compare cycle time,Compare cycle time,2021-12-16 03:53:30.796194,P2,2020,A31 P2 BPI 2020,A31 P2 BPI 2020,Analyze Cycle Time
+879,Filter traces,Filter traces by frequency,2021-12-16 04:53:30.796194,P4,2020,A19 P4 BPI 2020,A19 P4 BPI 2020,Manipulation
+880,Group traces,Group traces by activities,2021-12-16 05:53:30.796194,P4,2020,A19 P4 BPI 2020,A19 P4 BPI 2020,Manipulation
+881,Represent temporal series,Represent temporal series of activities,2021-12-16 06:53:30.796194,P4,2020,A19 P4 BPI 2020,A19 P4 BPI 2020,Representation
+882,Identify activities,Identify activities with cycle time,2021-12-16 07:53:30.796194,P4,2020,A19 P4 BPI 2020,A19 P4 BPI 2020,Identification
+883,Calculate statistics,Calculate Statistics of throughput,2021-12-16 08:53:30.796194,P4,2020,A19 P4 BPI 2020,A19 P4 BPI 2020,Calculate statistics
+884,Identify transitions by cycle time,Identify transitions by cycle time,2021-12-16 09:53:30.796194,P4,2020,A19 P4 BPI 2020,A19 P4 BPI 2020,Identification
+885,Group traces,Group traces by activities,2021-12-16 10:53:30.796194,P4,2020,A19 P4 BPI 2020,A19 P4 BPI 2020,Manipulation
+886,Represent temporal series,Represent temporal series of activities,2021-12-16 11:53:30.796194,P4,2020,A19 P4 BPI 2020,A19 P4 BPI 2020,Representation
+887,Filter traces,Filter traces by frequency,2021-12-16 12:53:30.796194,P4,2020,A19 P4 BPI 2020,A19 P4 BPI 2020,Manipulation
+888,Group traces,Group traces by activities,2021-12-16 13:53:30.796194,P4,2020,A19 P4 BPI 2020,A19 P4 BPI 2020,Manipulation
+889,Represent temporal series,Represent temporal series of activities,2021-12-16 14:53:30.796194,P4,2020,A19 P4 BPI 2020,A19 P4 BPI 2020,Representation
+890,Group traces,Group traces by activities,2021-12-16 15:53:30.796194,P4,2020,A19 P4 BPI 2020,A19 P4 BPI 2020,Manipulation
+891,Represent temporal series,Represent temporal series of activities,2021-12-16 16:53:30.796194,P4,2020,A19 P4 BPI 2020,A19 P4 BPI 2020,Representation
+892,Calculate statistics,Calculate Statistics of throughput,2021-12-16 17:53:30.796194,P4,2020,A19 P4 BPI 2020,A19 P4 BPI 2020,Calculate statistics
+893,Identify roles,Identify roles by organizational units,2021-12-16 18:53:30.796194,P4,2020,A19 P4 BPI 2020,A19 P4 BPI 2020,Identification
+894,Calculate statistics,Calculate Statistics of throughput,2021-12-16 19:53:30.796194,P4,2020,A19 P4 BPI 2020,A19 P4 BPI 2020,Calculate statistics
+895,Represent temporal series,Represent temporal series of activities,2021-12-16 20:53:30.796194,P4,2020,A19 P4 BPI 2020,A19 P4 BPI 2020,Representation
+896,Identify activities,Identify activities with traces,2021-12-16 21:53:30.796194,P4,2020,A19 P4 BPI 2020,A19 P4 BPI 2020,Identification
+897,Group activities,Group activities by role,2021-12-16 22:53:30.796194,P4,2020,A27 P4 BPI 2020,A27 P4 BPI 2020,Manipulation
+898,Calculate percentages,Calculate percentage of traces,2021-12-16 23:53:30.796194,P4,2020,A27 P4 BPI 2020,A27 P4 BPI 2020,Calculate statistics
+899,Calculate number of elements,Calculate number of events,2021-12-17 00:53:30.796194,P4,2020,A27 P4 BPI 2020,A27 P4 BPI 2020,Calculate statistics
+900,Calculate statistics,Calculate Statistics of cycle time,2021-12-17 01:53:30.796194,P4,2020,A31 P4 BPI 2020,A31 P4 BPI 2020,Calculate statistics
+901,Identify activities,Identify activities with cycle time,2021-12-17 02:53:30.796194,P4,2020,A31 P4 BPI 2020,A31 P4 BPI 2020,Identification
+902,Filter traces,Filter traces by frequency,2021-12-17 03:53:30.796194,P5,2020,A19 P5 BPI 2020,A19 P5 BPI 2020,Manipulation
+903,Group traces,Group traces by activities,2021-12-17 04:53:30.796194,P5,2020,A19 P5 BPI 2020,A19 P5 BPI 2020,Manipulation
+904,Represent temporal series,Represent temporal series of activities,2021-12-17 05:53:30.796194,P5,2020,A19 P5 BPI 2020,A19 P5 BPI 2020,Representation
+905,Identify activities,Identify activities with cycle time,2021-12-17 06:53:30.796194,P5,2020,A19 P5 BPI 2020,A19 P5 BPI 2020,Identification
+906,Calculate statistics,Calculate Statistics of throughput,2021-12-17 07:53:30.796194,P5,2020,A19 P5 BPI 2020,A19 P5 BPI 2020,Calculate statistics
+907,Identify transitions by cycle time,Identify transitions by cycle time,2021-12-17 08:53:30.796194,P5,2020,A19 P5 BPI 2020,A19 P5 BPI 2020,Identification
+908,Group traces,Group traces by activities,2021-12-17 09:53:30.796194,P5,2020,A19 P5 BPI 2020,A19 P5 BPI 2020,Manipulation
+909,Represent temporal series,Represent temporal series of activities,2021-12-17 10:53:30.796194,P5,2020,A19 P5 BPI 2020,A19 P5 BPI 2020,Representation
+910,Filter traces,Filter traces by frequency,2021-12-17 11:53:30.796194,P5,2020,A19 P5 BPI 2020,A19 P5 BPI 2020,Manipulation
+911,Group traces,Group traces by activities,2021-12-17 12:53:30.796194,P5,2020,A19 P5 BPI 2020,A19 P5 BPI 2020,Manipulation
+912,Represent temporal series,Represent temporal series of activities,2021-12-17 13:53:30.796194,P5,2020,A19 P5 BPI 2020,A19 P5 BPI 2020,Representation
+913,Group traces,Group traces by activities,2021-12-17 14:53:30.796194,P5,2020,A19 P5 BPI 2020,A19 P5 BPI 2020,Manipulation
+914,Represent temporal series,Represent temporal series of activities,2021-12-17 15:53:30.796194,P5,2020,A19 P5 BPI 2020,A19 P5 BPI 2020,Representation
+915,Calculate statistics,Calculate Statistics of throughput,2021-12-17 16:53:30.796194,P5,2020,A19 P5 BPI 2020,A19 P5 BPI 2020,Calculate statistics
+916,Identify roles,Identify roles by organizational units,2021-12-17 17:53:30.796194,P5,2020,A19 P5 BPI 2020,A19 P5 BPI 2020,Identification
+917,Calculate statistics,Calculate Statistics of throughput,2021-12-17 18:53:30.796194,P5,2020,A19 P5 BPI 2020,A19 P5 BPI 2020,Calculate statistics
+918,Identify transitions by cycle time,Identify transitions by cycle time,2021-12-17 19:53:30.796194,P5,2020,A19 P5 BPI 2020,A19 P5 BPI 2020,Identification
+919,Identify activities,Identify activities with traces,2021-12-17 20:53:30.796194,P5,2020,A19 P5 BPI 2020,A19 P5 BPI 2020,Identification
+920,Filter activities,Filter activities by frequency,2021-12-17 21:53:30.796194,P5,2020,A30 P5 BPI 2020,A30 P5 BPI 2020,Manipulation
+921,Calculate cycle time,Calculate cycle time for all pairs of events for a subset of traces,2021-12-17 22:53:30.796194,P5,2020,A30 P5 BPI 2020,A30 P5 BPI 2020,Analyze Cycle Time
+922,Calculate statistics,Calculate Statistics of cycle time,2021-12-17 23:53:30.796194,P5,2020,A30 P5 BPI 2020,A30 P5 BPI 2020,Calculate statistics
+923,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-12-18 00:53:30.796194,P5,2020,A30 P5 BPI 2020,A30 P5 BPI 2020,Analyze Cycle Time
+924,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-12-18 01:53:30.796194,P5,2020,A30 P5 BPI 2020,A30 P5 BPI 2020,Analyze Cycle Time
+925,Represent bar charts,Represent bar charts of traces,2021-12-18 02:53:30.796194,P5,2020,A30 P5 BPI 2020,A30 P5 BPI 2020,Representation
+926,Represent histograms,Represent histograms of cycle time,2021-12-18 03:53:30.796194,P5,2020,A30 P5 BPI 2020,A30 P5 BPI 2020,Representation
+927,Filter traces,Filter traces by activities,2021-12-18 04:53:30.796194,P5,2020,A30 P5 BPI 2020,A30 P5 BPI 2020,Manipulation
+928,Calculate percentages,Calculate percentage of traces,2021-12-18 05:53:30.796194,P5,2020,A30 P5 BPI 2020,A30 P5 BPI 2020,Calculate statistics
+929,Filter traces,Filter traces by activities,2021-12-18 06:53:30.796194,P5,2020,A30 P5 BPI 2020,A30 P5 BPI 2020,Manipulation
+930,Calculate percentages,Calculate percentage of traces,2021-12-18 07:53:30.796194,P5,2020,A30 P5 BPI 2020,A30 P5 BPI 2020,Calculate statistics
+931,Calculate frequency,Calculate frequency of activities,2021-12-18 08:53:30.796194,P5,2020,A34 P5 BPI 2020,A34 P5 BPI 2020,Calculate statistics
+932,Calculate statistics,Calculate Statistics of cycle time,2021-12-18 09:53:30.796194,P5,2020,A34 P5 BPI 2020,A34 P5 BPI 2020,Calculate statistics
+933,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria and statistical measures,2021-12-18 10:53:30.796194,P5,2020,A34 P5 BPI 2020,A34 P5 BPI 2020,Analyze Cycle Time
+934,Calculate cycle time,Calculate cycle time for all pairs of events for all traces,2021-12-18 11:53:30.796194,P6,2020,A30 P6 BPI 2020,A30 P6 BPI 2020,Analyze Cycle Time
+935,Identify bottlenecks,Identify activities as bottlenecks applying temporal performance criteria,2021-12-18 12:53:30.796194,P6,2020,A30 P6 BPI 2020,A30 P6 BPI 2020,Analyze Cycle Time
+936,Identify transitions by cycle time,Identify transitions by cycle time,2021-12-18 13:53:30.796194,P6,2020,A30 P6 BPI 2020,A30 P6 BPI 2020,Identification
+937,Preprocess the traces of the logs,Preprocess the traces of the logs,2021-12-18 14:53:30.796194,P1,2020,A19 P1 BPI 2020,A19 P1 BPI 2020,Manipulation
+938,Group traces,Group traces by year,2021-12-18 15:53:30.796194,P1,2020,A19 P1 BPI 2020,A19 P1 BPI 2020,Manipulation
+939,Calculate number of elements,Calculate number of traces,2021-12-18 16:53:30.796194,P1,2020,A19 P1 BPI 2020,A19 P1 BPI 2020,Calculate statistics
+940,Represent temporal series,Represent temporal series of traces,2021-12-18 17:53:30.796194,P1,2020,A19 P1 BPI 2020,A19 P1 BPI 2020,Representation
+941,Filter events,Filter events by activities,2021-12-18 18:53:30.796194,P1,2020,A19 P1 BPI 2020,A19 P1 BPI 2020,Manipulation
+942,Represent temporal series,Represent temporal series of activities,2021-12-18 19:53:30.796194,P1,2020,A19 P1 BPI 2020,A19 P1 BPI 2020,Representation
+943,Group traces,Group traces by year,2021-12-18 20:53:30.796194,P1,2020,A19 P1 BPI 2020,A19 P1 BPI 2020,Manipulation
+944,Group traces,Group traces by activities,2021-12-18 21:53:30.796194,P1,2020,A19 P1 BPI 2020,A19 P1 BPI 2020,Manipulation
+945,Calculate statistics,Calculate Statistics of activities,2021-12-18 22:53:30.796194,P1,2020,A19 P1 BPI 2020,A19 P1 BPI 2020,Calculate statistics
+946,Calculate throughput,Calculate throughput,2021-12-18 23:53:30.796194,P1,2020,A19 P1 BPI 2020,A19 P1 BPI 2020,Analyze Cycle Time
+947,Represent temporal series,Represent temporal series of throughput,2021-12-19 00:53:30.796194,P1,2020,A19 P1 BPI 2020,A19 P1 BPI 2020,Representation
