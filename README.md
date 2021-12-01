@@ -7,8 +7,8 @@ Time Performance Questions" of the CAISE 2022. The files in this repository are:
 - The codings about the terms (key concept code) and about the operations (OperationCoding).
 - The log of the process to answer the questions with the operations in xes and csv format (log of analysis of time aspects).
 - Notebooks used in the analysis:
-	-- Analysis of frequent operations (frequent operations analysis)
-	-- Analysis per bpi (analysis of answers grouping per bpi)
+	- Analysis of frequent operations (frequent operations analysis)
+	- Analysis per bpi (analysis of answers grouping per bpi)
 	+Analysis per categories (analysis of academics, students and professionals)
 	+Analysis per question (analysis  of operations per question)
 	+Analysis per question (variantes) (analysis of variants of operations per question)
